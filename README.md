@@ -1,26 +1,37 @@
-# AI导航站
+# AI Tools Navigator
 
-一个展示和分类各种AI工具和资源的导航网站，帮助用户快速找到适合的AI应用。
+A comprehensive, curated directory of AI tools and resources designed to help users discover and navigate the rapidly evolving AI landscape.
 
-## 功能特点
+## Features
 
-- 精选AI工具展示
-- 分类筛选功能
-- 搜索功能
-- 响应式设计，适配各种设备
+- 🔍 Search and filter AI tools by categories
+- 🌙 Dark/Light mode toggle
+- 👤 Google account authentication
+- 📱 Responsive design for all devices
+- ⚡ Fast, lightweight implementation with vanilla JavaScript
+- 🔄 Regular updates with new AI tools and resources
 
-## 技术栈
+## Categories
 
-- HTML5
-- CSS3
-- JavaScript (原生)
+Browse AI tools across multiple categories:
+- AI Chat & Assistants
+- AI Writing & Content Creation
+- AI Image Generation
+- AI Video Production
+- AI Audio Processing
+- AI Programming & Development
+- AI Productivity Tools
 
-## 如何运行
+## Getting Started
 
-1. 克隆仓库到本地
-2. 使用任意HTTP服务器运行项目，例如：
-   - 使用VS Code的Live Server插件
-   - 使用Python的HTTP服务器: `python -m http.server`
-   - 使用Node.js的http-server: `npx http-server`
+1. Clone the repository
+2. Open index.html in your browser
+3. Explore the world of AI tools!
 
-## 项目结构
+## Contributing
+
+Contributions are welcome! Feel free to submit new AI tools, improve the UI, or enhance functionality.
+
+## License
+
+MIT License
