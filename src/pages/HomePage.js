@@ -9,8 +9,8 @@ export function renderHomePage() {
                 <h1>发现最优质的AI工具和资源</h1>
                 <p>我们精选全球领先的AI工具，帮助你提高效率、激发创意、解决问题</p>
                 <div class="search-box">
+                    <i class="fas fa-search"></i>
                     <input type="text" class="search-input" placeholder="搜索AI工具...">
-                    <button class="search-button"><i class="fas fa-search"></i> 搜索</button>
                 </div>
             </div>
         </section>
@@ -29,7 +29,7 @@ export function renderHomePage() {
                 </ul>
             </div>
             
-            <h2>精选AI工具</h2>
+            <h2 class="section-title">精选AI工具</h2>
             <div class="card-grid">
                 <!-- 卡片将通过JavaScript动态生成 -->
             </div>
