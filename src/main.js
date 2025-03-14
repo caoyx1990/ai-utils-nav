@@ -1,42 +1,64 @@
 import { renderHeader } from './components/Header.js';
 import { renderFooter } from './components/Footer.js';
 import { renderHomePage } from './pages/HomePage.js';
-import { aiTools } from './data/aiTools.js';
+import { loadAiTools } from './data/aiTools.js';
 import { initThemeManager } from './services/themeManager.js';
+import { initI18n, t } from './services/i18nService.js';
+
+// 导入管理员页面组件
+import { renderAdminPage } from './pages/AdminPage.js';
 
 // 初始化应用
-function initApp() {
+async function initApp() {
+    // Initialize i18n first, before rendering any components
+    initI18n();
+    
     renderHeader();
-    renderHomePage();
+    
+    // 根据URL参数判断当前页面
+    const urlParams = new URLSearchParams(window.location.search);
+    const page = urlParams.get('page');
+    
+    if (page === 'admin') {
+        // 渲染管理员页面
+        renderAdminPage();
+    } else {
+        // 渲染首页
+        renderHomePage();
+        
+        // 加载AI工具数据
+        const aiTools = await loadAiTools();
+        
+        // 添加搜索功能
+        setupSearch(aiTools);
+        
+        // 添加分类筛选功能
+        setupCategoryFilter(aiTools);
+        
+        // 初始渲染所有工具
+        renderToolCards(aiTools);
+    }
+    
     renderFooter();
     
     // 初始化主题管理器
     initThemeManager();
-    
-    // 添加搜索功能
-    setupSearch();
-    
-    // 添加分类筛选功能
-    setupCategoryFilter();
-    
-    // 初始渲染所有工具
-    renderToolCards(aiTools);
 }
 
 // 设置搜索功能
-function setupSearch() {
+function setupSearch(aiTools) {
     const searchInput = document.querySelector('.search-input');
     
     if (searchInput) {
         searchInput.addEventListener('keyup', (e) => {
             const query = searchInput.value.toLowerCase().trim();
-            filterTools(query);
+            filterTools(query, aiTools);
         });
     }
 }
 
 // 设置分类筛选功能
-function setupCategoryFilter() {
+function setupCategoryFilter(aiTools) {
     const categoryItems = document.querySelectorAll('.category-item');
     
     categoryItems.forEach(item => {
@@ -62,7 +84,7 @@ function setupCategoryFilter() {
 }
 
 // 根据搜索词筛选工具
-function filterTools(query) {
+function filterTools(query, aiTools) {
     if (!query) {
         renderToolCards(aiTools);
         return;
@@ -84,14 +106,14 @@ function renderToolCards(tools) {
     if (!cardGrid) return;
     
     if (tools.length === 0) {
-        cardGrid.innerHTML = `<div class="no-results">没有找到匹配的AI工具，请尝试其他搜索词。</div>`;
+        cardGrid.innerHTML = `<div class="no-results">${t('noResults')}</div>`;
         return;
     }
     
     cardGrid.innerHTML = tools.map(tool => `
         <div class="card">
             <div class="card-image">
-                <img src="${tool.image}" alt="${tool.name}" onerror="this.src='https://via.placeholder.com/300x200?text=${encodeURIComponent(tool.name)}'">
+                <img src="${tool.image}" alt="${tool.name}" onerror="this.src='src/assets/images/placeholder.svg'">
             </div>
             <div class="card-content">
                 <h3 class="card-title">${tool.name}</h3>
@@ -100,7 +122,7 @@ function renderToolCards(tools) {
                     ${tool.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
                 </div>
                 <div class="card-footer">
-                    <a href="${tool.url}" class="btn" target="_blank">访问网站</a>
+                    <a href="${tool.url}" class="btn" target="_blank">${t('visitWebsite')}</a>
                 </div>
             </div>
         </div>

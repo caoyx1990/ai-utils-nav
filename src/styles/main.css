@@ -451,14 +451,30 @@ footer {
     font-size: 16px;
 }
 
-/* 在现有样式后添加 */
+/* Add this to your existing CSS */
+.lang-toggle {
+    background-color: transparent;
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-right: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
 
-/* 主题切换按钮 */
+.lang-toggle:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
 .header-actions {
     display: flex;
     align-items: center;
 }
 
+/* Fix the syntax error in the theme-toggle width property */
 .theme-toggle {
     background: none;
     border: none;
@@ -534,4 +550,66 @@ footer {
 [data-theme="dark"] footer,
 [data-theme="dark"] .category-nav {
     background-color: #1e1e1e;
+}
+
+/* Add proper styles for search-container */
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 16px;
+    border-radius: 8px 0 0 8px;
+    border: 1px solid var(--border-color);
+    font-size: 15px;
+    background-color: var(--background-color);
+    transition: all 0.2s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(93, 93, 255, 0.1);
+}
+
+.search-button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    padding: 12px 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.search-button:hover {
+    background-color: var(--hover-color);
+}
+
+/* Improve categories styling */
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 24px;
+    padding: 16px;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+}
+
+/* Dark mode adjustments for new elements */
+[data-theme="dark"] .search-input {
+    background-color: #2c2c2c;
+    color: var(--text-color);
+}
+
+[data-theme="dark"] .categories {
+    background-color: #1e1e1e;
+    border: 1px solid var(--border-color);
 }
