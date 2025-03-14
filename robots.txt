@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /?page=admin
+
+Sitemap: https://aitoolsnav.cloud/sitemap.xml
