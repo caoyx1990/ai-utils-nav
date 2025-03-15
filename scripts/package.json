@@ -1,0 +1,12 @@
+{
+  "name": "ai-tools-scraper",
+  "version": "1.0.0",
+  "description": "Script to fetch AI website data and generate screenshots",
+  "main": "fetchAiWebsites.js",
+  "scripts": {
+    "start": "node fetchAiWebsites.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.11.0"
+  }
+}

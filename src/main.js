@@ -5,9 +5,6 @@ import { loadAiTools } from './data/aiTools.js';
 import { initThemeManager } from './services/themeManager.js';
 import { initI18n, t } from './services/i18nService.js';
 
-// 导入管理员页面组件
-import { renderAdminPage } from './pages/AdminPage.js';
-
 // 初始化应用
 async function initApp() {
     // Initialize i18n first, before rendering any components
@@ -15,29 +12,20 @@ async function initApp() {
     
     renderHeader();
     
-    // 根据URL参数判断当前页面
-    const urlParams = new URLSearchParams(window.location.search);
-    const page = urlParams.get('page');
+    // 渲染首页
+    renderHomePage();
     
-    if (page === 'admin') {
-        // 渲染管理员页面
-        renderAdminPage();
-    } else {
-        // 渲染首页
-        renderHomePage();
-        
-        // 加载AI工具数据
-        const aiTools = await loadAiTools();
-        
-        // 添加搜索功能
-        setupSearch(aiTools);
-        
-        // 添加分类筛选功能
-        setupCategoryFilter(aiTools);
-        
-        // 初始渲染所有工具
-        renderToolCards(aiTools);
-    }
+    // 加载AI工具数据
+    const aiTools = await loadAiTools();
+    
+    // 添加搜索功能
+    setupSearch(aiTools);
+    
+    // 添加分类筛选功能
+    setupCategoryFilter(aiTools);
+    
+    // 初始渲染所有工具
+    renderToolCards(aiTools);
     
     renderFooter();
     

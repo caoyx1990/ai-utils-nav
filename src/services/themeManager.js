@@ -35,9 +35,25 @@ function toggleTheme() {
     
     // 保存主题偏好到本地存储
     localStorage.setItem('theme', newTheme);
+    
+    // 更新主题切换按钮图标
+    updateThemeToggleIcon(newTheme);
 }
 
 // 设置主题
 function setTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
+    
+    // 更新主题切换按钮图标
+    updateThemeToggleIcon(theme);
+}
+
+// 更新主题切换按钮图标
+function updateThemeToggleIcon(theme) {
+    const themeToggle = document.getElementById('themeToggle');
+    if (themeToggle) {
+        themeToggle.innerHTML = theme === 'dark' 
+            ? '<i class="fas fa-sun" title="Switch to light mode"></i>' 
+            : '<i class="fas fa-moon" title="Switch to dark mode"></i>';
+    }
 }

@@ -1,110 +1,227 @@
 [
     {
-        "id": 1,
-        "name": "ChatGPT",
-        "description": "Powerful conversational AI model developed by OpenAI, capable of answering questions, creating content, assisting with programming, and more",
-        "image": "src/assets/images/chatgpt.jpg",
-        "url": "https://chat.openai.com",
-        "categories": ["chat", "writing", "code"],
-        "tags": ["conversation", "writing", "programming", "Q&A"]
+      "id": 1,
+      "name": "ChatGPT",
+      "description": "Advanced language model by OpenAI that can understand and generate human-like text based on context.",
+      "url": "https://chat.openai.com/",
+      "image": "src/assets/images/tools/chatgpt.png",
+      "categories": ["chatbot", "writing", "productivity"],
+      "tags": ["AI", "Language Model", "OpenAI", "Text Generation"]
     },
     {
-        "id": 2,
-        "name": "Midjourney",
-        "description": "AI art and image generation tool that creates high-quality artwork from text descriptions",
-        "image": "src/assets/images/midjourney.jpg",
-        "url": "https://www.midjourney.com",
-        "categories": ["image"],
-        "tags": ["image generation", "art", "creative"]
+      "id": 2,
+      "name": "Midjourney",
+      "description": "AI art generator that creates images from textual descriptions using advanced machine learning.",
+      "url": "https://www.midjourney.com/",
+      "image": "src/assets/images/tools/midjourney.png",
+      "categories": ["image", "design", "creativity"],
+      "tags": ["AI", "Image Generation", "Art", "Design"]
     },
     {
-        "id": 3,
-        "name": "DALL-E",
-        "description": "OpenAI's AI image generation system that creates realistic images from text descriptions",
-        "image": "src/assets/images/dalle.jpg",
-        "url": "https://openai.com/dall-e-2",
-        "categories": ["image"],
-        "tags": ["image generation", "creative", "design"]
+      "id": 3,
+      "name": "DALL-E",
+      "description": "OpenAI's system that creates realistic images and art from natural language descriptions.",
+      "url": "https://openai.com/dall-e/",
+      "image": "src/assets/images/tools/dalle.png",
+      "categories": ["image", "design", "creativity"],
+      "tags": ["AI", "Image Generation", "OpenAI", "Art"]
     },
     {
-        "id": 4,
-        "name": "Notion AI",
-        "description": "AI assistant integrated into Notion that helps users write, edit, summarize, and translate content",
-        "image": "src/assets/images/notion-ai.jpg",
-        "url": "https://www.notion.so/product/ai",
-        "categories": ["writing", "productivity"],
-        "tags": ["writing", "efficiency", "notes", "summarization"]
+      "id": 4,
+      "name": "Jasper",
+      "description": "AI content platform that helps create marketing copy, social media posts, and more.",
+      "url": "https://www.jasper.ai/",
+      "image": "src/assets/images/tools/jasper.png",
+      "categories": ["writing", "marketing", "productivity"],
+      "tags": ["AI", "Content Creation", "Marketing", "Copywriting"]
     },
     {
-        "id": 5,
-        "name": "Jasper",
-        "description": "AI content creation platform that helps marketing teams and content creators quickly generate high-quality content",
-        "image": "src/assets/images/jasper.jpg",
-        "url": "https://www.jasper.ai",
-        "categories": ["writing"],
-        "tags": ["content creation", "marketing", "blogging"]
+      "id": 5,
+      "name": "Copy.ai",
+      "description": "AI-powered copywriting tool that generates high-quality content for various marketing needs.",
+      "url": "https://www.copy.ai/",
+      "image": "src/assets/images/tools/copyai.png",
+      "categories": ["writing", "marketing"],
+      "tags": ["AI", "Copywriting", "Content Creation"]
     },
     {
-        "id": 6,
-        "name": "Synthesia",
-        "description": "AI video generation platform that creates professional video content from text input",
-        "image": "src/assets/images/synthesia.jpg",
-        "url": "https://www.synthesia.io",
-        "categories": ["video"],
-        "tags": ["video generation", "marketing", "education"]
+      "id": 6,
+      "name": "Stable Diffusion",
+      "description": "Open-source AI art generator that creates detailed images from text descriptions.",
+      "url": "https://stability.ai/",
+      "image": "src/assets/images/tools/stablediffusion.png",
+      "categories": ["image", "design", "creativity"],
+      "tags": ["AI", "Image Generation", "Open Source", "Art"]
     },
     {
-        "id": 7,
-        "name": "Descript",
-        "description": "AI-powered audio and video editing tool offering transcription, editing, and synthesis capabilities",
-        "image": "src/assets/images/descript.jpg",
-        "url": "https://www.descript.com",
-        "categories": ["audio", "video"],
-        "tags": ["audio editing", "video editing", "transcription"]
+      "id": 7,
+      "name": "Notion AI",
+      "description": "AI writing assistant integrated with Notion that helps draft, edit, and summarize content.",
+      "url": "https://www.notion.so/product/ai",
+      "image": "src/assets/images/tools/notionai.png",
+      "categories": ["writing", "productivity", "organization"],
+      "tags": ["AI", "Writing Assistant", "Productivity", "Note-taking"]
     },
     {
-        "id": 8,
-        "name": "GitHub Copilot",
-        "description": "AI programming assistant that provides code suggestions based on comments and existing code",
-        "image": "src/assets/images/github-copilot.jpg",
-        "url": "https://github.com/features/copilot",
-        "categories": ["code"],
-        "tags": ["programming", "development", "code generation"]
+      "id": 8,
+      "name": "Grammarly",
+      "description": "AI-powered writing assistant that checks grammar, spelling, and enhances writing style.",
+      "url": "https://www.grammarly.com/",
+      "image": "src/assets/images/tools/grammarly.png",
+      "categories": ["writing", "productivity", "education"],
+      "tags": ["AI", "Grammar Checker", "Writing Assistant"]
     },
     {
-        "id": 9,
-        "name": "Otter.ai",
-        "description": "AI meeting assistant and transcription tool that can record and summarize meeting content in real-time",
-        "image": "src/assets/images/otter.jpg",
-        "url": "https://otter.ai",
-        "categories": ["audio", "productivity"],
-        "tags": ["meetings", "transcription", "notes"]
+      "id": 9,
+      "name": "Otter.ai",
+      "description": "AI-powered meeting assistant that records, transcribes, and summarizes conversations.",
+      "url": "https://otter.ai/",
+      "image": "src/assets/images/tools/otterai.png",
+      "categories": ["productivity", "transcription", "meetings"],
+      "tags": ["AI", "Transcription", "Meeting Assistant", "Notes"]
     },
     {
-        "id": 10,
-        "name": "Grammarly",
-        "description": "AI writing assistant that provides grammar checking, spell correction, and writing suggestions",
-        "image": "src/assets/images/grammarly.jpg",
-        "url": "https://www.grammarly.com",
-        "categories": ["writing", "productivity"],
-        "tags": ["writing", "grammar", "proofreading"]
+      "id": 10,
+      "name": "Synthesia",
+      "description": "AI video generation platform that creates videos with virtual avatars from text.",
+      "url": "https://www.synthesia.io/",
+      "image": "src/assets/images/tools/synthesia.png",
+      "categories": ["video", "marketing", "creativity"],
+      "tags": ["AI", "Video Generation", "Avatars", "Marketing"]
     },
     {
-        "id": 11,
-        "name": "Claude",
-        "description": "Conversational AI assistant developed by Anthropic, focused on safety and helpfulness",
-        "image": "src/assets/images/claude.jpg",
-        "url": "https://www.anthropic.com/claude",
-        "categories": ["chat", "writing"],
-        "tags": ["conversation", "writing", "Q&A"]
+      "id": 11,
+      "name": "Descript",
+      "description": "All-in-one audio/video editing platform with AI transcription and voice cloning.",
+      "url": "https://www.descript.com/",
+      "image": "src/assets/images/tools/descript.png",
+      "categories": ["video", "audio", "editing"],
+      "tags": ["AI", "Video Editing", "Audio Editing", "Transcription"]
     },
     {
-        "id": 12,
-        "name": "Stable Diffusion",
-        "description": "Open-source AI image generation model capable of creating images in various styles",
-        "image": "src/assets/images/stable-diffusion.jpg",
-        "url": "https://stability.ai",
-        "categories": ["image"],
-        "tags": ["image generation", "open source", "creative"]
+      "id": 12,
+      "name": "RunwayML",
+      "description": "Creative toolkit with AI magic tools for content creation and editing.",
+      "url": "https://runwayml.com/",
+      "image": "src/assets/images/tools/runwayml.png",
+      "categories": ["video", "image", "creativity"],
+      "tags": ["AI", "Video Editing", "Image Generation", "Creative Tools"]
+    },
+    {
+      "id": 13,
+      "name": "Murf.ai",
+      "description": "AI voice generator that creates studio-quality voiceovers in realistic voices.",
+      "url": "https://murf.ai/",
+      "image": "src/assets/images/tools/murfai.png",
+      "categories": ["audio", "voice", "marketing"],
+      "tags": ["AI", "Voice Generation", "Text-to-Speech", "Voiceover"]
+    },
+    {
+      "id": 14,
+      "name": "Krisp",
+      "description": "AI-powered noise cancellation app that removes background noise from calls.",
+      "url": "https://krisp.ai/",
+      "image": "src/assets/images/tools/krisp.png",
+      "categories": ["audio", "productivity", "meetings"],
+      "tags": ["AI", "Noise Cancellation", "Audio Enhancement", "Meetings"]
+    },
+    {
+      "id": 15,
+      "name": "Lumen5",
+      "description": "Video creation platform that turns text into video presentations using AI.",
+      "url": "https://lumen5.com/",
+      "image": "src/assets/images/tools/lumen5.png",
+      "categories": ["video", "marketing", "social media"],
+      "tags": ["AI", "Video Creation", "Marketing", "Content"]
+    },
+    {
+      "id": 16,
+      "name": "Tome",
+      "description": "AI-powered storytelling format that generates presentations and narratives.",
+      "url": "https://tome.app/",
+      "image": "src/assets/images/tools/tome.png",
+      "categories": ["presentation", "productivity", "creativity"],
+      "tags": ["AI", "Presentations", "Storytelling", "Design"]
+    },
+    {
+      "id": 17,
+      "name": "Beautiful.ai",
+      "description": "Presentation software with AI design intelligence to create professional slides.",
+      "url": "https://www.beautiful.ai/",
+      "image": "src/assets/images/tools/beautifulai.png",
+      "categories": ["presentation", "design", "productivity"],
+      "tags": ["AI", "Presentations", "Design", "Slides"]
+    },
+    {
+      "id": 18,
+      "name": "Fireflies.ai",
+      "description": "AI meeting assistant that records, transcribes, and analyzes voice conversations.",
+      "url": "https://fireflies.ai/",
+      "image": "src/assets/images/tools/firefliesai.png",
+      "categories": ["productivity", "meetings", "transcription"],
+      "tags": ["AI", "Meeting Assistant", "Transcription", "Notes"]
+    },
+    {
+      "id": 19,
+      "name": "Perplexity AI",
+      "description": "AI-powered search engine that provides comprehensive answers to complex questions.",
+      "url": "https://www.perplexity.ai/",
+      "image": "src/assets/images/tools/perplexity.png",
+      "categories": ["search", "research", "productivity"],
+      "tags": ["AI", "Search Engine", "Research", "Information"]
+    },
+    {
+      "id": 20,
+      "name": "Claude",
+      "description": "Anthropic's AI assistant designed to be helpful, harmless, and honest.",
+      "url": "https://claude.ai/",
+      "image": "src/assets/images/tools/claude.png",
+      "categories": ["chatbot", "writing", "productivity"],
+      "tags": ["AI", "Language Model", "Assistant", "Text Generation"]
+    },
+    {
+      "id": 21,
+      "name": "Gemini",
+      "description": "Google's multimodal AI model that can understand and generate text, images, audio, and more.",
+      "url": "https://gemini.google.com/",
+      "image": "src/assets/images/tools/gemini.png",
+      "categories": ["chatbot", "multimodal", "productivity"],
+      "tags": ["AI", "Language Model", "Google", "Multimodal"]
+    },
+    {
+      "id": 22,
+      "name": "Hugging Face",
+      "description": "Platform for machine learning with thousands of pre-trained models and datasets.",
+      "url": "https://huggingface.co/",
+      "image": "src/assets/images/tools/huggingface.png",
+      "categories": ["development", "machine learning", "research"],
+      "tags": ["AI", "Machine Learning", "Models", "Development"]
+    },
+    {
+      "id": 23,
+      "name": "Replicate",
+      "description": "Platform that lets you run machine learning models with a cloud API.",
+      "url": "https://replicate.com/",
+      "image": "src/assets/images/tools/replicate.png",
+      "categories": ["development", "machine learning", "api"],
+      "tags": ["AI", "API", "Machine Learning", "Cloud"]
+    },
+    {
+      "id": 24,
+      "name": "Anthropic",
+      "description": "AI safety company working to build reliable, interpretable, and steerable AI systems.",
+      "url": "https://www.anthropic.com/",
+      "image": "src/assets/images/tools/anthropic.png",
+      "categories": ["research", "safety", "language models"],
+      "tags": ["AI", "Safety", "Research", "Language Models"]
+    },
+    {
+      "id": 25,
+      "name": "Eleven Labs",
+      "description": "AI voice technology that generates realistic and expressive voice clones.",
+      "url": "https://elevenlabs.io/",
+      "image": "src/assets/images/tools/elevenlabs.png",
+      "categories": ["audio", "voice", "creativity"],
+      "tags": ["AI", "Voice Generation", "Voice Cloning", "Text-to-Speech"]
     }
 ]
