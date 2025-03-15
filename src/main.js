@@ -100,17 +100,11 @@ function renderToolCards(tools) {
     
     cardGrid.innerHTML = tools.map(tool => `
         <div class="card">
-            <div class="card-image">
-                <img src="${tool.image}" alt="${tool.name}" onerror="this.src='src/assets/images/placeholder.svg'">
-            </div>
             <div class="card-content">
-                <h3 class="card-title">${tool.name}</h3>
+                <h2 class="card-title"><a href="${tool.url}" target="_blank">${tool.name}</a></h2>
                 <p class="card-description">${tool.description}</p>
                 <div class="card-tags">
                     ${tool.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
-                </div>
-                <div class="card-footer">
-                    <a href="${tool.url}" class="btn" target="_blank">${t('visitWebsite')}</a>
                 </div>
             </div>
         </div>

@@ -11,8 +11,9 @@ export const translations = {
     logout: "Logout",
     
     // Homepage
-    heroTitle: "Discover the Best AI Tools",
-    heroSubtitle: "Find the perfect AI tools to enhance your productivity and creativity",
+    heroTitle: "Your Complete AI Resource Directory",
+    heroSubtitle: "Explore 1000+ AI tools across 25+ categories to enhance your workflow, boost productivity, and unlock creative potential",
+    
     searchPlaceholder: "Search AI tools...",
     allCategories: "All Categories",
     
@@ -43,7 +44,7 @@ export const translations = {
     noResults: "No AI tools found. Please try another search term.",
     
     // Footer
-    copyright: "© 2023 AI Tools Navigator. All rights reserved.",
+    copyright: "© 2025 AI Tools Navigator. All rights reserved.",
     privacyPolicy: "Privacy Policy",
     termsOfService: "Terms of Service",
     contactUs: "Contact Us",
@@ -69,7 +70,12 @@ export const translations = {
     searchTools: "Search tools...",
     noToolsFound: "No tools found",
     categoriesHelp: "Separate categories with commas",
-    tagsHelp: "Separate tags with commas"   
+    tagsHelp: "Separate tags with commas"   ,
+    
+    // Search sources
+    searchSite: "AITools",
+    searchGoogle: "Search on Google...",
+    searchBing: "Search on Bing...",
   },
   cn: {
     // Header
@@ -82,40 +88,40 @@ export const translations = {
     loginWithGoogle: "使用Google登录",
     logout: "退出",
     
-    // Homepage
-    heroTitle: "发现最佳AI工具",
-    heroSubtitle: "找到完美的AI工具，提升您的生产力和创造力",
-    searchPlaceholder: "搜索AI工具...",
-    allCategories: "所有分类",
+    // Chinese version
+    heroTitle: "AI工具导航: 您的完整AI资源目录",
+    heroSubtitle: "探索1000+个AI工具，涵盖25+类别，提升您的工作流程，提高生产力，释放creative潜能",
+    searchPlaceholder: "Search AI tools...",
+    allCategories: "All Categories",
     
     // New Categories
-    chatbot: "聊天机器人",
-    design: "设计",
-    creativity: "创意",
-    marketing: "营销",
-    voice: "语音",
-    transcription: "转录",
-    meetings: "会议",
-    presentation: "演示",
-    search: "搜索",
-    research: "研究",
-    development: "开发",
-    machineLearning: "机器学习",
-    api: "API接口",
-    safety: "安全",
-    education: "教育",
-    organization: "组织",
-    socialMedia: "社交媒体",
-    editing: "编辑",
-    multimodal: "多模态",
-    languageModels: "语言模型",
+    chatbot: "Chatbot",
+    design: "Design",
+    creativity: "Creativity",
+    marketing: "Marketing",
+    voice: "Voice",
+    transcription: "Transcription",
+    meetings: "Meetings",
+    presentation: "Presentation",
+    search: "Search",
+    research: "Research",
+    development: "Development",
+    machineLearning: "Machine Learning",
+    api: "API",
+    safety: "Safety",
+    education: "Education",
+    organization: "Organization",
+    socialMedia: "Social Media",
+    editing: "Editing",
+    multimodal: "Multimodal",
+    languageModels: "Language Models",
     
     // Card
-    visitWebsite: "访问网站",
-    noResults: "没有找到匹配的AI工具，请尝试其他搜索词。",
+    visitWebsite: "Visit Website",
+    noResults: "No AI tools found. Please try another search term.",
     
     // Footer
-    copyright: "© 2023 AI导航. 保留所有权利。",
+    copyright: "© 2025 AI导航. 保留所有权利。",
     privacyPolicy: "隐私政策",
     termsOfService: "服务条款",
     contactUs: "联系我们",
@@ -141,6 +147,11 @@ export const translations = {
     searchTools: "搜索工具...",
     noToolsFound: "未找到工具",
     categoriesHelp: "用逗号分隔多个分类",
-    tagsHelp: "用逗号分隔多个标签"
+    tagsHelp: "用逗号分隔多个标签",
+    
+    // Search sources
+    searchSite: "本站",
+    searchGoogle: "在Google上搜索...",
+    searchBing: "在Bing上搜索...",
   }
 };

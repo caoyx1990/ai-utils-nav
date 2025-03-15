@@ -14,9 +14,9 @@ export function renderHeader() {
     
     header.innerHTML = `
         <div class="container header-container">
-            <div class="logo">AI Navigator</div>
+            <div class="logo">AI Tools Navigator</div>
             <ul class="nav-menu">
-                <li><a href="index.html" class="active">${t('home')}</a></li>
+                <li><a href="/" class="active">${t('home')}</a></li>
                 <li><a href="#">${t('popularTools')}</a></li>
                 <li><a href="#">${t('newTools')}</a></li>
                 <li><a href="#">${t('submitTool')}</a></li>

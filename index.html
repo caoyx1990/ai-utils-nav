@@ -12,7 +12,7 @@
     </script>
     
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     
     <!-- SEO optimized title and description -->
     <title>AI Tools Navigator - Discover Premium AI Tools & Resources</title>
@@ -59,6 +59,11 @@
     <script type="module" src="src/main.js"></script>
     
     <!-- Structured data for better SEO -->
+    <!-- 在 head 部分添加 -->
+    <link rel="alternate" hreflang="en" href="https://aitoolsnav.cloud/en">
+    <link rel="alternate" hreflang="x-default" href="https://aitoolsnav.cloud">
+    
+    <!-- 扩展结构化数据 -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -70,7 +75,11 @@
         "@type": "SearchAction",
         "target": "https://aitoolsnav.cloud?search={search_term_string}",
         "query-input": "required name=search_term_string"
-      }
+      },
+      "sameAs": [
+        "https://twitter.com/aitoolsnav",
+        "https://facebook.com/aitoolsnav"
+      ]
     }
     </script>
     

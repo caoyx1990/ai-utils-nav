@@ -11,8 +11,21 @@ export function renderHomePage() {
                 <h1>${t('heroTitle')}</h1>
                 <p>${t('heroSubtitle')}</p>
                 <div class="search-container">
-                    <input type="text" class="search-input" placeholder="${t('searchPlaceholder')}">
-                    <button class="search-button"><i class="fas fa-search"></i></button>
+                    <div class="search-input-wrapper">
+                        <div class="search-source-dropdown">
+                            <button class="search-source-selected">
+                                <span>${t('searchSite')}</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            <div class="search-source-options">
+                                <div class="search-source-option active" data-source="site">${t('searchSite')}</div>
+                                <div class="search-source-option" data-source="google">Google</div>
+                                <div class="search-source-option" data-source="bing">Bing</div>
+                            </div>
+                        </div>
+                        <input type="text" class="search-input" placeholder="${t('searchPlaceholder')}">
+                        <button class="search-button"><i class="fas fa-search"></i></button>
+                    </div>
                 </div>
             </div>
         </section>
@@ -57,6 +70,11 @@ export function renderHomePage() {
                 </div>
             </div>
         </section>
+        
+        <!-- Back to top button -->
+        <button id="backToTopBtn" class="back-to-top-btn" title="Back to top">
+            <i class="fas fa-arrow-up"></i>
+        </button>
     `;
     
     // Add scroll functionality for categories
@@ -90,4 +108,102 @@ export function renderHomePage() {
                 categories.scrollWidth > categories.clientWidth ? 'flex' : 'none';
         }, 100);
     }
+    
+    // Add back to top button functionality
+    const backToTopBtn = document.getElementById('backToTopBtn');
+    
+    // Show button when user scrolls down 300px from the top
+    window.addEventListener('scroll', () => {
+        if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+            backToTopBtn.classList.add('show');
+        } else {
+            backToTopBtn.classList.remove('show');
+        }
+    });
+    
+    // Scroll to top when button is clicked
+    backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+    
+    // Add search source dropdown functionality
+    const searchSourceDropdown = document.querySelector('.search-source-dropdown');
+    const searchSourceSelected = document.querySelector('.search-source-selected');
+    const searchSourceOptions = document.querySelector('.search-source-options');
+    const searchSourceOptionsList = document.querySelectorAll('.search-source-option');
+    const searchInput = document.querySelector('.search-input');
+    const searchButton = document.querySelector('.search-button');
+    let currentSearchSource = 'site';
+    
+    // Toggle dropdown when clicking on the selected option
+    searchSourceSelected.addEventListener('click', (e) => {
+        e.stopPropagation();
+        searchSourceOptions.classList.toggle('show');
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', () => {
+        searchSourceOptions.classList.remove('show');
+    });
+    
+    // Prevent dropdown from closing when clicking inside it
+    searchSourceOptions.addEventListener('click', (e) => {
+        e.stopPropagation();
+    });
+    
+    // Handle option selection
+    searchSourceOptionsList.forEach(option => {
+        option.addEventListener('click', () => {
+            // Remove active class from all options
+            searchSourceOptionsList.forEach(opt => opt.classList.remove('active'));
+            
+            // Add active class to clicked option
+            option.classList.add('active');
+            
+            // Update selected text
+            searchSourceSelected.querySelector('span').textContent = option.textContent;
+            
+            // Update current search source
+            currentSearchSource = option.dataset.source;
+            
+            // Update placeholder based on selected search source
+            if (currentSearchSource === 'site') {
+                searchInput.placeholder = t('searchPlaceholder');
+            } else if (currentSearchSource === 'google') {
+                searchInput.placeholder = t('searchGoogle');
+            } else if (currentSearchSource === 'bing') {
+                searchInput.placeholder = t('searchBing');
+            }
+            
+            // Close dropdown
+            searchSourceOptions.classList.remove('show');
+        });
+    });
+    
+    // Handle search button click
+    searchButton.addEventListener('click', () => {
+        const query = searchInput.value.trim();
+        if (!query) return;
+        
+        if (currentSearchSource === 'site') {
+            // Use the existing site search functionality
+            // This is already handled in main.js
+        } else if (currentSearchSource === 'google') {
+            // Open Google search in a new tab
+            window.open(`https://www.google.com/search?q=${encodeURIComponent(query + ' AI tool')}`, '_blank');
+        } else if (currentSearchSource === 'bing') {
+            // Open Bing search in a new tab
+            window.open(`https://www.bing.com/search?q=${encodeURIComponent(query + ' AI tool')}`, '_blank');
+        }
+    });
+    
+    // Handle Enter key press in search input
+    searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            searchButton.click();
+        }
+    });
 }
