@@ -1,0 +1,28 @@
+[
+  {
+    "id": 16,
+    "name": "Tome",
+    "description": "AI-powered storytelling format that generates presentations and narratives.",
+    "url": "https://tome.app/",
+    "image": "src/assets/images/tools/tome.png",
+    "tags": [
+      "Presentations",
+      "Storytelling",
+      "Design"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 17,
+    "name": "Beautiful.ai",
+    "description": "Presentation software with AI design intelligence to create professional slides.",
+    "url": "https://www.beautiful.ai/",
+    "image": "src/assets/images/tools/beautifulai.png",
+    "tags": [
+      "Presentations",
+      "Design",
+      "Slides"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

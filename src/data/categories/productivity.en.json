@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "description": "Advanced language model by OpenAI that can understand and generate human-like text based on context.",
+    "url": "https://chat.openai.com/",
+    "image": "src/assets/images/tools/chatgpt.png",
+    "tags": [
+      "Language Model",
+      "OpenAI",
+      "Text Generation"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 4,
+    "name": "Jasper",
+    "description": "AI content platform that helps create marketing copy, social media posts, and more.",
+    "url": "https://www.jasper.ai/",
+    "image": "src/assets/images/tools/jasper.png",
+    "tags": [
+      "Content Creation",
+      "Marketing",
+      "Copywriting"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 7,
+    "name": "Notion AI",
+    "description": "AI writing assistant integrated with Notion that helps draft, edit, and summarize content.",
+    "url": "https://www.notion.so/product/ai",
+    "image": "src/assets/images/tools/notionai.png",
+    "tags": [
+      "Writing Assistant",
+      "Productivity",
+      "Note-taking"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 8,
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant that checks grammar, spelling, and enhances writing style.",
+    "url": "https://www.grammarly.com/",
+    "image": "src/assets/images/tools/grammarly.png",
+    "tags": [
+      "Grammar Checker",
+      "Writing Assistant"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 9,
+    "name": "Otter.ai",
+    "description": "AI-powered meeting assistant that records, transcribes, and summarizes conversations.",
+    "url": "https://otter.ai/",
+    "image": "src/assets/images/tools/otterai.png",
+    "tags": [
+      "Transcription",
+      "Meeting Assistant",
+      "Notes"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 14,
+    "name": "Krisp",
+    "description": "AI-powered noise cancellation app that removes background noise from calls.",
+    "url": "https://krisp.ai/",
+    "image": "src/assets/images/tools/krisp.png",
+    "tags": [
+      "Noise Cancellation",
+      "Audio Enhancement",
+      "Meetings"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 16,
+    "name": "Tome",
+    "description": "AI-powered storytelling format that generates presentations and narratives.",
+    "url": "https://tome.app/",
+    "image": "src/assets/images/tools/tome.png",
+    "tags": [
+      "Presentations",
+      "Storytelling",
+      "Design"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 17,
+    "name": "Beautiful.ai",
+    "description": "Presentation software with AI design intelligence to create professional slides.",
+    "url": "https://www.beautiful.ai/",
+    "image": "src/assets/images/tools/beautifulai.png",
+    "tags": [
+      "Presentations",
+      "Design",
+      "Slides"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 18,
+    "name": "Fireflies.ai",
+    "description": "AI meeting assistant that records, transcribes, and analyzes voice conversations.",
+    "url": "https://fireflies.ai/",
+    "image": "src/assets/images/tools/firefliesai.png",
+    "tags": [
+      "Meeting Assistant",
+      "Transcription",
+      "Notes"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 19,
+    "name": "Perplexity AI",
+    "description": "AI-powered search engine that provides comprehensive answers to complex questions.",
+    "url": "https://www.perplexity.ai/",
+    "image": "src/assets/images/tools/perplexity.png",
+    "tags": [
+      "Search Engine",
+      "Research",
+      "Information"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 20,
+    "name": "Claude",
+    "description": "Anthropic's AI assistant designed to be helpful, harmless, and honest.",
+    "url": "https://claude.ai/",
+    "image": "src/assets/images/tools/claude.png",
+    "tags": [
+      "Language Model",
+      "Assistant",
+      "Text Generation"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 21,
+    "name": "Gemini",
+    "description": "Google's multimodal AI model that can understand and generate text, images, audio, and more.",
+    "url": "https://gemini.google.com/",
+    "image": "src/assets/images/tools/gemini.png",
+    "tags": [
+      "Language Model",
+      "Google",
+      "Multimodal"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

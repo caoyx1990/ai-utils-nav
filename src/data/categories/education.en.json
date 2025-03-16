@@ -1,0 +1,14 @@
+[
+  {
+    "id": 8,
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant that checks grammar, spelling, and enhances writing style.",
+    "url": "https://www.grammarly.com/",
+    "image": "src/assets/images/tools/grammarly.png",
+    "tags": [
+      "Grammar Checker",
+      "Writing Assistant"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

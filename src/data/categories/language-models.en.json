@@ -1,0 +1,15 @@
+[
+  {
+    "id": 24,
+    "name": "Anthropic",
+    "description": "AI safety company working to build reliable, interpretable, and steerable AI systems.",
+    "url": "https://www.anthropic.com/",
+    "image": "src/assets/images/tools/anthropic.png",
+    "tags": [
+      "Safety",
+      "Research",
+      "Language Models"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

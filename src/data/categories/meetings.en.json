@@ -1,0 +1,41 @@
+[
+  {
+    "id": 9,
+    "name": "Otter.ai",
+    "description": "AI-powered meeting assistant that records, transcribes, and summarizes conversations.",
+    "url": "https://otter.ai/",
+    "image": "src/assets/images/tools/otterai.png",
+    "tags": [
+      "Transcription",
+      "Meeting Assistant",
+      "Notes"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 14,
+    "name": "Krisp",
+    "description": "AI-powered noise cancellation app that removes background noise from calls.",
+    "url": "https://krisp.ai/",
+    "image": "src/assets/images/tools/krisp.png",
+    "tags": [
+      "Noise Cancellation",
+      "Audio Enhancement",
+      "Meetings"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 18,
+    "name": "Fireflies.ai",
+    "description": "AI meeting assistant that records, transcribes, and analyzes voice conversations.",
+    "url": "https://fireflies.ai/",
+    "image": "src/assets/images/tools/firefliesai.png",
+    "tags": [
+      "Meeting Assistant",
+      "Transcription",
+      "Notes"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

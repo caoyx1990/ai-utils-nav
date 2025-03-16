@@ -1,0 +1,28 @@
+[
+  {
+    "id": 22,
+    "name": "Hugging Face",
+    "description": "Platform for machine learning with thousands of pre-trained models and datasets.",
+    "url": "https://huggingface.co/",
+    "image": "src/assets/images/tools/huggingface.png",
+    "tags": [
+      "Machine Learning",
+      "Models",
+      "Development"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 23,
+    "name": "Replicate",
+    "description": "Platform that lets you run machine learning models with a cloud API.",
+    "url": "https://replicate.com/",
+    "image": "src/assets/images/tools/replicate.png",
+    "tags": [
+      "API",
+      "Machine Learning",
+      "Cloud"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

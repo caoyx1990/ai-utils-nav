@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "description": "Advanced language model by OpenAI that can understand and generate human-like text based on context.",
+    "url": "https://chat.openai.com/",
+    "image": "src/assets/images/tools/chatgpt.png",
+    "tags": [
+      "Language Model",
+      "OpenAI",
+      "Text Generation"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 20,
+    "name": "Claude",
+    "description": "Anthropic's AI assistant designed to be helpful, harmless, and honest.",
+    "url": "https://claude.ai/",
+    "image": "src/assets/images/tools/claude.png",
+    "tags": [
+      "Language Model",
+      "Assistant",
+      "Text Generation"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 21,
+    "name": "Gemini",
+    "description": "Google's multimodal AI model that can understand and generate text, images, audio, and more.",
+    "url": "https://gemini.google.com/",
+    "image": "src/assets/images/tools/gemini.png",
+    "tags": [
+      "Language Model",
+      "Google",
+      "Multimodal"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

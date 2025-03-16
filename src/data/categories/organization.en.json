@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7,
+    "name": "Notion AI",
+    "description": "AI writing assistant integrated with Notion that helps draft, edit, and summarize content.",
+    "url": "https://www.notion.so/product/ai",
+    "image": "src/assets/images/tools/notionai.png",
+    "tags": [
+      "Writing Assistant",
+      "Productivity",
+      "Note-taking"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

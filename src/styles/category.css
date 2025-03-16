@@ -1,0 +1,30 @@
+/* Styled page title */
+.page-title {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.page-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: var(--primary-color);
+    border-radius: 2px;
+}
+
+/* Add responsive styling */
+@media (max-width: 768px) {
+    .page-title {
+        font-size: 2rem;
+        margin: 30px 0;
+    }
+}

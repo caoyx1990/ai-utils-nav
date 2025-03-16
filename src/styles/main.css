@@ -84,9 +84,10 @@ header {
 
 .header-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     width: 100%;
+    gap: 40px; /* Add space between logo and nav menu */
 }
 
 /* 添加登录相关样式 */
@@ -154,6 +155,7 @@ header {
     display: flex;
     list-style: none;
     gap: 24px;
+    margin-right: auto; /* Push other elements to the right */
 }
 
 .nav-menu li a {

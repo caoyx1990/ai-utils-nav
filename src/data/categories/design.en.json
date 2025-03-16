@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2,
+    "name": "Midjourney",
+    "description": "AI art generator that creates images from textual descriptions using advanced machine learning.",
+    "url": "https://www.midjourney.com/",
+    "image": "src/assets/images/tools/midjourney.png",
+    "tags": [
+      "Image Generation",
+      "Art",
+      "Design"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 3,
+    "name": "DALL-E",
+    "description": "OpenAI's system that creates realistic images and art from natural language descriptions.",
+    "url": "https://openai.com/dall-e/",
+    "image": "src/assets/images/tools/dalle.png",
+    "tags": [
+      "Image Generation",
+      "OpenAI",
+      "Art"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 6,
+    "name": "Stable Diffusion",
+    "description": "Open-source AI art generator that creates detailed images from text descriptions.",
+    "url": "https://stability.ai/",
+    "image": "src/assets/images/tools/stablediffusion.png",
+    "tags": [
+      "Image Generation",
+      "Open Source",
+      "Art"
+    ],
+    "create_date": "2025-03-16"
+  },
+  {
+    "id": 17,
+    "name": "Beautiful.ai",
+    "description": "Presentation software with AI design intelligence to create professional slides.",
+    "url": "https://www.beautiful.ai/",
+    "image": "src/assets/images/tools/beautifulai.png",
+    "tags": [
+      "Presentations",
+      "Design",
+      "Slides"
+    ],
+    "create_date": "2025-03-16"
+  }
+]

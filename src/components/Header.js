@@ -17,10 +17,10 @@ export function renderHeader() {
             <div class="logo">AI Tools Navigator</div>
             <ul class="nav-menu">
                 <li><a href="/" class="active">${t('home')}</a></li>
-                <li><a href="#">${t('popularTools')}</a></li>
+                <li><a href="/category.html">${t('allCategory')}</a></li>
                 <li><a href="#">${t('newTools')}</a></li>
-                <li><a href="#">${t('submitTool')}</a></li>
-                <li><a href="#">${t('aboutUs')}</a></li>
+                <li><a href="/submit-tool.html">${t('submitTool')}</a></li>
+                <!-- <li><a href="#">${t('aboutUs')}</a></li> -->
             </ul>
             <div class="header-actions">
                 <!-- Language toggle button removed -->

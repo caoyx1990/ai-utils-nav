@@ -3,6 +3,7 @@ export const translations = {
     // Header
     home: "Home",
     popularTools: "Popular Tools",
+    allCategory: "Category",
     newTools: "New Tools",
     submitTool: "Submit Tool",
     adminTools: "Admin",
