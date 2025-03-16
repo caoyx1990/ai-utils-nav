@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
             showStatus('loading', 'Submitting your tool...');
             
             // Replace with your actual API endpoint
-            const response = await fetch('http://localhost:3000/api/submit-tool', {
+            const response = await fetch('https://aitoolsnav.cloud:3000/api/submit-tool', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

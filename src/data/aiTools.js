@@ -4,10 +4,10 @@ import { getLanguage } from '../services/i18nService.js';
 export async function loadAiTools() {
     try {
         // First try to load from localStorage
-        const storedTools = localStorage.getItem('aiTools');
-        if (storedTools) {
-            return JSON.parse(storedTools);
-        }
+        // const storedTools = localStorage.getItem('aiTools');
+        // if (storedTools) {
+        //     return JSON.parse(storedTools);
+        // }
         
         // Get current language
         const currentLang = getLanguage();
