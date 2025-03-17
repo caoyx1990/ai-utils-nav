@@ -13,39 +13,23 @@ export async function loadAiTools() {
         const currentLang = getLanguage();
         const langSuffix = currentLang === 'en' ? '.en' : '';
         
-        // Dynamically get categories by fetching the directory listing
-        let categories = [];
-        try {
-            // Fetch the list of category files
-            const dirResponse = await fetch(`src/data/categories/`);
-            if (dirResponse.ok) {
-                const dirListing = await dirResponse.text();
-                // Extract filenames from directory listing
-                const fileRegex = new RegExp(`([\\w-]+)${langSuffix}\\.json`, 'g');
-                let match;
-                while ((match = fileRegex.exec(dirListing)) !== null) {
-                    categories.push(match[1]);
-                }
-            }
-        } catch (error) {
-            console.warn('Failed to dynamically load categories, using fallback list', error);
-            // Fallback to a basic list if directory listing fails
-            categories = [
-                'chatbot', 'writing', 'productivity', 'image', 'design', 
-                'creativity', 'marketing', 'video', 'audio', 'voice', 
-                'transcription', 'meetings', 'presentation', 'search', 
-                'research', 'development', 'machine-learning', 'api', 
-                'safety', 'education', 'organization', 'social-media', 
-                'editing', 'multimodal', 'language-models'
-            ];
-        }
+        // Use the predefined categories list instead of trying to fetch directory listing
+        // This avoids the 404 error on Vercel
+        const categories = [
+            'chatbot', 'writing', 'productivity', 'image', 'design', 
+            'creativity', 'marketing', 'video', 'audio', 'voice', 
+            'transcription', 'meetings', 'presentation', 'search', 
+            'research', 'development', 'machine-learning', 'api', 
+            'safety', 'education', 'organization', 'social-media', 
+            'editing', 'multimodal', 'language-models'
+        ];
         
         // Load tools from each category file
         let allTools = [];
         
         for (const category of categories) {
             try {
-                const response = await fetch(`/data/categories/${category}${langSuffix}.json`);
+                const response = await fetch(`/src/data/categories/${category}${langSuffix}.json`);
                 if (response.ok) {
                     const categoryTools = await response.json();
                     // Add category information to each tool since it's not in the file anymore
