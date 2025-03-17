@@ -4,10 +4,10 @@ import { getLanguage } from '../services/i18nService.js';
 export async function loadAiTools() {
     try {
         // First try to load from localStorage
-        // const storedTools = localStorage.getItem('aiTools');
-        // if (storedTools) {
-        //     return JSON.parse(storedTools);
-        // }
+        const storedTools = localStorage.getItem('aiTools');
+        if (storedTools) {
+            return JSON.parse(storedTools);
+        }
         
         // Get current language
         const currentLang = getLanguage();
@@ -45,7 +45,7 @@ export async function loadAiTools() {
         
         for (const category of categories) {
             try {
-                const response = await fetch(`src/data/categories/${category}${langSuffix}.json`);
+                const response = await fetch(`/data/categories/${category}${langSuffix}.json`);
                 if (response.ok) {
                     const categoryTools = await response.json();
                     // Add category information to each tool since it's not in the file anymore
