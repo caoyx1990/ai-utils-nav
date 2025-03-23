@@ -1,0 +1,8835 @@
+[
+  {
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "updf-ai",
+    "description": "UPDF AI",
+    "url": "https://updf.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "nanonets",
+    "description": "Nanonets",
+    "url": "https://nanonets.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
+    "url": "https://sourcetable.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "zeni-ai",
+    "description": "Zeni",
+    "url": "https://zeni.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "digits-accounting-reimagined",
+    "description": "Digits",
+    "url": "https://digits.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "salescloser-ai-1",
+    "description": "SalesCloser AI",
+    "url": "https://salescloser.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "cpa-pilot",
+    "description": "CPA Pilot",
+    "url": "https://www.cpapilot.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "receipt-ai-for-startup",
+    "description": "Receipt-AI",
+    "url": "https://receipt-ai.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "quanta",
+    "description": "Quanta",
+    "url": "https://www.usequanta.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "ai-search-by-mesha",
+    "description": "mesha",
+    "url": "https://www.mesha.club",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "ai-invoicer",
+    "description": "AI Invoicer",
+    "url": "https://aiinvoicer.in",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "snaptobook",
+    "description": "SnaptoBook",
+    "url": "https://www.snaptobook.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "bank-statement-convert",
+    "description": "Bank Statement Convert",
+    "url": "https://bankstatementconvert.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "entendre-finance",
+    "description": "Entendre",
+    "url": "https://entendre.finance",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "iota",
+    "description": "IOTA.UZ",
+    "url": "https://www.iota.uz/en",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "unitedtax-ai",
+    "description": "United Tax",
+    "url": "https://unitedtax.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "crbit",
+    "description": "Crbit",
+    "url": "https://crbit.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "ai-accounting-apps",
+    "description": "AI Accounting Apps",
+    "url": "https://www.aiaccountingapps.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "simpla-ai",
+    "description": "Simpla",
+    "url": "https://www.simpla.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "expense-sorted",
+    "description": "Expense Sorted",
+    "url": "https://www.expensesorted.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "billy-ai-invoicing-made-effortless",
+    "description": "Billy",
+    "url": "https://getbilly.co",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "aisance",
+    "description": "Aisance",
+    "url": "https://aisance.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 25,
+    "name": "accelbooks",
+    "description": "AccelBooks",
+    "url": "https://www.accelbooks.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "taxbuzz-ai",
+    "description": "TaxBuzz Ai",
+    "url": "https://chromewebstore.google.com/detail/taxbuzz-ai/opikndfepbbekgnhehdaaomhbiejgpkj",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "financial-fusion",
+    "description": "Financial Fusion",
+    "url": "https://financialfusion.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "unmess",
+    "description": "unMess AI Agents for Financial Planning",
+    "url": "https://unmess.xyz",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "astor-ai-data-entry-for-chrome",
+    "description": "Astor.ai Data Entry",
+    "url": "https://chromewebstore.google.com/detail/astorai-data-entry-for-ch/lojaondoepcbdlcohngoheldclaongdf",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "free-accounting-software-by-slickpie",
+    "description": "SlickPie",
+    "url": "https://chromewebstore.google.com/detail/free-accounting-software/oalnjhnakfpklfbnmnbgidfhemncplef",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "resipt-ai",
+    "description": "Resipt.ai",
+    "url": "https://chromewebstore.google.com/detail/resiptai/anomndcmkfcikiogiabbacfeompolpci",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "rupease",
+    "description": "Rupease",
+    "url": "https://rupease.co",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "receipt-invoice-capture-match-categorize",
+    "description": "Clyr",
+    "url": "https://chromewebstore.google.com/detail/receipt-invoice-capture-m/jodphgcfdncpimhcpfnddnankbagmjjf",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "vent",
+    "description": "Vent AI",
+    "url": "https://useventapp.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "facturasaexcel",
+    "description": "facturasaexcel",
+    "url": "https://facturasaexcel.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "ai-consulting-for-finance-teams",
+    "description": "GenFinance.AI",
+    "url": "https://genfinance.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "billie",
+    "description": "Billie on macOS",
+    "url": "https://getbillie.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "dunlin-extension",
+    "description": "Dunlin.ai",
+    "url": "https://chromewebstore.google.com/detail/dunlin-extension/emjeofdnkoamhjahamninjnjlifgdocd",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "payguard-ai",
+    "description": "PayGuard",
+    "url": "https://payguardai.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "finance-brain",
+    "description": "Finance Brain",
+    "url": "https://financebrain.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "fortune",
+    "description": "Fortune App",
+    "url": "https://www.fortune.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "expensee",
+    "description": "ExpenSee",
+    "url": "https://expensee.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "eliteinvoice",
+    "description": "EliteInvoice",
+    "url": "https://eliteinvoice.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "datawisr",
+    "description": "DataWisr",
+    "url": "https://www.datawisr.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "capitara",
+    "description": "Capitara",
+    "url": "https://capitara.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "harriet-ai",
+    "description": "Harriet",
+    "url": "https://www.harrietcfo.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "accountable-de",
+    "description": "Accountable",
+    "url": "https://accountable.de",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "kick",
+    "description": "Kick",
+    "url": "https://kick.co",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "osfin-ai",
+    "description": "Osfin.ai",
+    "url": "https://osfin.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "clienthub-app",
+    "description": "Client Hub",
+    "url": "https://clienthub.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "taxly-ai",
+    "description": "Taxly.ai - Hassle-Free Tax Filing and Professional Tax Preparation",
+    "url": "https://taxly.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "monai",
+    "description": "MonAi - AI powered expense tracker",
+    "url": "https://get-monai.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "ledgerbox",
+    "description": "LedgerBox",
+    "url": "https://ledgerbox.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "cc-monet-home",
+    "description": "cc:Monet Home - AI Finance Assistant",
+    "url": "https://www.ccmonet.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "vuala-1-0",
+    "description": "Vuala",
+    "url": "https://vualapp.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "dewey-beta",
+    "description": "Dewey: Your new accountability buddy",
+    "url": "https://withdewey.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "inbuild",
+    "description": "inBuild",
+    "url": "https://www.inbuild.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "finalle",
+    "description": "Finalle.ai",
+    "url": "https://finalle.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "receipt-cat",
+    "description": "Receipt Cat",
+    "url": "https://www.receiptcat.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "7assets",
+    "description": "7Assets",
+    "url": "https://7assets.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "precanto",
+    "description": "Precanto",
+    "url": "https://precanto.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "turbodoc",
+    "description": "TurboDoc",
+    "url": "https://turbodoc.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "accountingsolverai",
+    "description": "AccountingSolverAI",
+    "url": "https://accountingsolver.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "myiq-ai",
+    "description": "MyiQ.Ai",
+    "url": "https://www.myiq.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "serina",
+    "description": "Serina - Automate Invoice Processing",
+    "url": "https://www.serina.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "recordme",
+    "description": "RecordMe",
+    "url": "https://recordme.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "olabooks-co",
+    "description": "Olabooks",
+    "url": "https://olabooks.co",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "the-freelance-app",
+    "description": "LANCE - Freelance Income & Expense Tracker App",
+    "url": "https://www.thefreelance.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "midaflow",
+    "description": "MidaFlow",
+    "url": "https://www.midaflow.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "mej-erp-ai",
+    "description": "ERP AI",
+    "url": "https://mejerpai.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "slayed-ai",
+    "description": "Slayed.ai | AI Invoicing & Payments",
+    "url": "http://slayed.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "xbert-extension",
+    "description": "XBert",
+    "url": "https://chromewebstore.google.com/detail/xbert-extension/nigdbicmeinmmhflhbhcnpidibbiojbf",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "fattura-ai",
+    "description": "Fattura AI",
+    "url": "https://www.fattura-ai.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "agree-com",
+    "description": "Agree.com",
+    "url": "https://agree.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "skwad",
+    "description": "Skwad App",
+    "url": "https://skwad.app",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "marcus-your-ai-billing-agent",
+    "description": "mesha",
+    "url": "https://trymesha.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "trezy",
+    "description": "Trezy",
+    "url": "https://www.trezy.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "nuvio",
+    "description": "Nuvio",
+    "url": "https://www.nuvio.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "arte",
+    "description": "ARTE - AI Real Estate Tax Expert and Research Assistant",
+    "url": "https://www.deferred.com/real-estate-tax-chatbot",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "received",
+    "description": "Received AI",
+    "url": "https://received.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "assist-biz",
+    "description": "ASSIST Document Management Software",
+    "url": "https://www.assist.biz",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "finology",
+    "description": "Finology",
+    "url": "https://www.finology.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "findataquest",
+    "description": "Findataquest",
+    "url": "https://findataquest.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "flowsecure-io",
+    "description": "Flowsecure",
+    "url": "https://www.flowsecure.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "genkin",
+    "description": "Genkin",
+    "url": "https://genkin.site",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "fincheck-by-trezy",
+    "description": "FinCheck by Trezy",
+    "url": "https://fincheck.trezy.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "invoicemint",
+    "description": "Invoicemint",
+    "url": "https://invoicemint.in",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "oversight-com",
+    "description": "Oversight",
+    "url": "https://oversight.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "oly-ai",
+    "description": "OLY.AI",
+    "url": "https://www.oly.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "empress-eco",
+    "description": "Empress",
+    "url": "https://empress.eco",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "backdrop",
+    "description": "Backdrop",
+    "url": "https://www.joinbackdrop.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "promptiz",
+    "description": "Promptiz",
+    "url": "https://promptiz.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "fdo-ai",
+    "description": "fdo.ai",
+    "url": "https://fdo.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "hexar-ai",
+    "description": "HexarAI",
+    "url": "https://hexarai.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "occam-ai",
+    "description": "Occam.ai",
+    "url": "https://www.occam.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "receiptup",
+    "description": "ReceiptUp",
+    "url": "https://www.receiptup.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "Business",
+    "tags": [
+      "accounting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "openai",
+    "description": "OpenAI",
+    "url": "https://openai.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "semantic-scholar",
+    "description": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "smodin",
+    "description": "Smodin",
+    "url": "https://smodin.io",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "elicit",
+    "description": "Elicit AI",
+    "url": "https://elicit.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "globe-explorer",
+    "description": "Globe Explorer",
+    "url": "https://explorer.globe.engineer",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "rayyan",
+    "description": "Rayyan",
+    "url": "https://www.rayyan.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "researchrabbit",
+    "description": "ResearchRabbit",
+    "url": "https://www.researchrabbit.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "harvey",
+    "description": "Harvey",
+    "url": "https://www.harvey.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "into-the-block",
+    "description": "IntoTheBlock",
+    "url": "https://www.intotheblock.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "scisummary",
+    "description": "SciSummary",
+    "url": "https://scisummary.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "biobrain-insights-mrops-platform",
+    "description": "BioBrain",
+    "url": "https://www.biobrain.io",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "ai-search-engine-of-pathofexile-2-poe2db",
+    "description": "AI Search Engine of Pathofexile 2 -poe2db",
+    "url": "https://poe2db.org",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "modelslab",
+    "description": "ModelsLab",
+    "url": "https://modelslab.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "intellectia-ai",
+    "description": "Intellectia.Ai",
+    "url": "https://intellectia.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "pearai",
+    "description": "PearAI",
+    "url": "https://trypear.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "segment-anything",
+    "description": "Segment Anything",
+    "url": "https://segment-anything.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "keychain",
+    "description": "Keychain",
+    "url": "http://www.keychain.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "ai21-maestro",
+    "description": "AI21 Maestro",
+    "url": "https://www.ai21.com/maestro",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "conch-ai",
+    "description": "Conch AI",
+    "url": "https://getconch.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "papergen",
+    "description": "PaperGen",
+    "url": "https://www.papergen.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "octoparse-ai-workflow-automation-software",
+    "description": "Octoparse AI - Workflow Automation Software",
+    "url": "https://www.octoparse.ai/",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "truescope",
+    "description": "Truescope",
+    "url": "https://truescope.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "ottogrid",
+    "description": "Otto AI Research Agent",
+    "url": "https://ottogrid.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "sigma-ai-browser",
+    "description": "Sigma AI Browser",
+    "url": "https://sigmabrowser.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "iris-ai",
+    "description": "ResearchPlatform",
+    "url": "https://iris.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "findr",
+    "description": "Findr",
+    "url": "https://www.usefindr.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "dressplay",
+    "description": "DressPlay",
+    "url": "https://dressplay.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "kompas-ai",
+    "description": "Kompas AI",
+    "url": "https://kompas.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "floraincognita-de",
+    "description": "Flora Incognita",
+    "url": "https://floraincognita.de",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "dr-oracle",
+    "description": "Dr.Oracle",
+    "url": "https://droracle.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "transcripci-n",
+    "description": "Transcripción+",
+    "url": "https://transcripcionplus.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "nfig-ai",
+    "description": "Nfig",
+    "url": "https://nfig.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "heyday",
+    "description": "Heyday",
+    "url": "https://heyday.xyz",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "wizdom-ai",
+    "description": "wizdom.ai",
+    "url": "https://wizdom.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "stockgpt",
+    "description": "StockGPT",
+    "url": "https://www.askstockgpt.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "sparkbase",
+    "description": "Sparkbase",
+    "url": "https://sparkbase.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "endgame-2-0",
+    "description": "Endgame",
+    "url": "https://www.endgame.io",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "topicmojo",
+    "description": "Topic Mojo",
+    "url": "https://topicmojo.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "fomo-ai",
+    "description": "FOMO.ai",
+    "url": "https://fomo.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "fellou-ai-browser",
+    "description": "Fellou",
+    "url": "https://fellou.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "accuratescribe-ai",
+    "description": "AccurateScribe.ai",
+    "url": "https://accuratescribe.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "chartpixel",
+    "description": "ChartPixel",
+    "url": "https://www.chartpixel.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "mool-ai",
+    "description": "Mool.AI",
+    "url": "https://www.mool.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "epochai-org",
+    "description": "Epoch AI",
+    "url": "https://epochai.org",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "isaac",
+    "description": "Isaac",
+    "url": "https://isaaceditor.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "inkwise-ai",
+    "description": "Inkwise AI",
+    "url": "https://inkwise.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "decipher",
+    "description": "DECipher",
+    "url": "https://devme.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "innhold-ai",
+    "description": "Innhold.AI",
+    "url": "https://innhold.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "yasna-ai",
+    "description": "Yasna.ai",
+    "url": "https://yasna.ai/",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "insight",
+    "description": "Insight",
+    "url": "https://insightai.dev",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "answergrid",
+    "description": "AnswerGrid",
+    "url": "https://answergrid.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "ai-summarizer-best",
+    "description": "AI Summarizer",
+    "url": "https://summarizer.best",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "viableview",
+    "description": "ViableView",
+    "url": "https://www.viableview.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "deep-research",
+    "description": "Deep Research",
+    "url": "https://deepresearcher.net",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "fileread-ai",
+    "description": "Fileread AI",
+    "url": "https://fileread.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "beloga",
+    "description": "Beloga",
+    "url": "https://beloga.xyz",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "cure-ai",
+    "description": "Cure AI",
+    "url": "https://askcureai.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "paperbrain",
+    "description": "PaperBrain",
+    "url": "https://www.paperbrain.study",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "knowledgegpt",
+    "description": "KnowledgeGPT",
+    "url": "https://knowledgegpt.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "stratosiq",
+    "description": "StratosIQ",
+    "url": "https://www.stratosiq.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "podseeker",
+    "description": "PodSeeker",
+    "url": "https://www.podseekerai.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "rize-capital",
+    "description": "Rize Capital",
+    "url": "https://rize.capital",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "monexa",
+    "description": "Monexa - Financial Analysis Platform",
+    "url": "https://www.monexa.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "seamless",
+    "description": "Seamless - AI Literature Review Tool for Scientific Research",
+    "url": "https://seaml.es",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "mindlib",
+    "description": "mindlib",
+    "url": "https://mindlib.de",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "research-studio",
+    "description": "Research Studio",
+    "url": "https://researchstudio.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "gyatagpt",
+    "description": "GyataGPT.ai",
+    "url": "https://gyatagpt.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "profundo",
+    "description": "Profundo",
+    "url": "https://profundo.app",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "paper-pilot",
+    "description": "Paper Pilot",
+    "url": "https://paperpilot.xyz",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "soma",
+    "description": "SOMA: Research Automation Platform",
+    "url": "https://soma.science",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "parafact",
+    "description": "Parafact",
+    "url": "https://parafactai.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "guest-glance",
+    "description": "Guest Glance",
+    "url": "https://guestglance.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "mochii",
+    "description": "Mochii",
+    "url": "https://www.mochii.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "daas",
+    "description": "DAAS AI",
+    "url": "https://ai-daas.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "summifyai",
+    "description": "Summify",
+    "url": "https://www.summifyai.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "glowify-your-reading-assistant",
+    "description": "Glowify",
+    "url": "https://chromewebstore.google.com/detail/glowify-your-reading-assi/cponpggghojjgjglfpcagclobgcghjig",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "bioseek-reader",
+    "description": "BioSeek Reader",
+    "url": "https://chromewebstore.google.com/detail/bioseek-reader/mkfaibcieogbhcneiohnhggglkdmncmo",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "screenova",
+    "description": "Screenova",
+    "url": "https://chromewebstore.google.com/detail/screenova/fmhekgellkjicpokedhgoealchlgpcom",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "paperlens",
+    "description": "PaperLens",
+    "url": "https://thepaperlens.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "vidsum-youtube-video-summarizer",
+    "description": "YouTube Video Summarizer",
+    "url": "https://chromewebstore.google.com/detail/vidsum-youtube-video-summ/lnlncmgmjnbhbiijhigaekcfgenpmepg",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "vitral-ai",
+    "description": "Vitral",
+    "url": "https://vitral.ai",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "cognify-insights",
+    "description": "Cognify Insights",
+    "url": "https://cognify.so",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "hippocratesai",
+    "description": "HippocratesAI",
+    "url": "https://www.hippocrates.es",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "top-themes",
+    "description": "Top Themes",
+    "url": "https://top-themes.com",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "videmak-research-ai",
+    "description": "Videmak Research AI",
+    "url": "https://videmak.net",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "askpaper-research-chatgpt-for-any-article",
+    "description": "AskPaper",
+    "url": "https://chromewebstore.google.com/detail/askpaper-–-research-chatg/eabkffkifnfojefnnoohamhdfjajgepm",
+    "category": "Business",
+    "tags": [
+      "research-tool"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "namelix",
+    "description": "Namelix",
+    "url": "https://namelix.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "mindmap-ai-app",
+    "description": "MindMap AI",
+    "url": "https://mindmapai.app",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "clipzap-ai",
+    "description": "ClipZap AI",
+    "url": "https://www.clipzap.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "bizway",
+    "description": "Bizway",
+    "url": "https://bizway.io",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "namesnack",
+    "description": "NameSnack",
+    "url": "https://www.namesnack.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "gptbots-ai",
+    "description": "GPTBots.ai",
+    "url": "https://www.gptbots.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "ideapicker",
+    "description": "IdeaPicker",
+    "url": "https://ideapicker.io",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "indieideas-io",
+    "description": "indieideas.io",
+    "url": "https://indieideas.io",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "informly",
+    "description": "Informly",
+    "url": "https://validator.informly.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "powermode-ai",
+    "description": "PowerMode",
+    "url": "https://powermodeai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "free-ai-business-idea-generator",
+    "description": "Space Leads Pro",
+    "url": "https://www.spaceleads.pro/business-ideas-generator",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "rebeccai-it-s-your-idea",
+    "description": "RebeccAi - AI-powered business idea evaluation and validation tool",
+    "url": "https://rebecc.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "idea-generator",
+    "description": "Idea Generator",
+    "url": "https://www.ideagenerator.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "uniplan-ai",
+    "description": "Uniplan.ai",
+    "url": "https://uniplan.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "business-plan-factory",
+    "description": "Your AI Business Suite",
+    "url": "https://businessplanfactory.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "startup-ideas-ai",
+    "description": "Startup Ideas AI",
+    "url": "https://www.startupideasai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "pick-my-niche",
+    "description": "Pick My Niche",
+    "url": "https://www.pickmyniche.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "ideamaster",
+    "description": "AI Business Plan Generator",
+    "url": "https://www.ideamaster.io",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "micro-saas-gpt",
+    "description": "Micro SaaS GPT",
+    "url": "https://microsaasgpt.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "nichefind-ai",
+    "description": "NicheFind AI",
+    "url": "https://nichefindai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "supreme-plans-ai",
+    "description": "SupremePlans",
+    "url": "https://www.supremeplans.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "businessideaprompts",
+    "description": "Business Idea Prompts",
+    "url": "https://www.businessideaprompts.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "openchat",
+    "description": "OpenChat",
+    "url": "https://openchatjobs.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "beaseness",
+    "description": "Beaseness",
+    "url": "https://www.beaseness.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "companycraft",
+    "description": "CompanyCraft",
+    "url": "https://www.companycraft.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "sharktank-ai",
+    "description": "SharkTank AI",
+    "url": "https://www.sharktank-ai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "hustlix-make-money-with-ai",
+    "description": "Hustlix",
+    "url": "https://hustlix.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "idea2domain",
+    "description": "idea2domain",
+    "url": "https://idea2domain.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "side-hustle-ai",
+    "description": "Side Hustle",
+    "url": "https://side-hustle.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "ideamate-ai-idea-generator",
+    "description": "IdeaMate",
+    "url": "https://ideamate.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "startupsparkai",
+    "description": "StartupSparkAI",
+    "url": "https://startupsparkai.bubbleapps.io",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "moonidea",
+    "description": "Moonidea",
+    "url": "https://moonidea.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "hopbz",
+    "description": "Hopbz - AI Business Ideas & Opportunities Generator",
+    "url": "https://hopbz.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "flowkitten",
+    "description": "FlowKitten",
+    "url": "https://www.FlowKitten.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "brainstormbud",
+    "description": "BrainstormBud",
+    "url": "https://www.brainstormbud.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "validated-saas-ideas",
+    "description": "Micro SaaS Ideas",
+    "url": "https://ValidatedSaaS.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "firefinder",
+    "description": "Firefinder",
+    "url": "https://firefinder.me",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 238,
+    "name": "ainameit",
+    "description": "AiNameIt",
+    "url": "https://ainameit.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 239,
+    "name": "dozero",
+    "description": "Dozero",
+    "url": "https://dozero.vc",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 240,
+    "name": "slara-ai",
+    "description": "Slara.ai",
+    "url": "https://www.slara.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 241,
+    "name": "yclens",
+    "description": "YCLens",
+    "url": "https://yclens.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 242,
+    "name": "breikin",
+    "description": "Breikin",
+    "url": "https://breikin.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 243,
+    "name": "imerch-ai",
+    "description": "iMerch.ai",
+    "url": "https://imerch.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 244,
+    "name": "ai-business-idea-generator-free",
+    "description": "Onlift",
+    "url": "https://onlift.co",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 245,
+    "name": "fireup-ai-startup-generator",
+    "description": "FireUp",
+    "url": "https://apps.apple.com/us/app/fireup-ai-startup-generator/id6737740837",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 246,
+    "name": "claqr",
+    "description": "Claqr",
+    "url": "https://claqr.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 247,
+    "name": "tube-genie-pro",
+    "description": "Tube Genie Pro",
+    "url": "https://chromewebstore.google.com/detail/tube-genie-pro/dddglooennnghjepkagndfiefllnbnec",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 248,
+    "name": "product-roaster",
+    "description": "Product Roaster",
+    "url": "https://proaster.site",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 249,
+    "name": "whomakemoney-ai",
+    "description": "WhoMakeMoney AI",
+    "url": "https://whomakemoney.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 250,
+    "name": "reddit-hidden-gold-mines",
+    "description": "Reddit Hidden Gold Mines",
+    "url": "https://chromewebstore.google.com/detail/reddit-hidden-gold-mines/dcdhcaglkmmilfbhlohmmoicfikdkmbe",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 251,
+    "name": "startupidea-ai",
+    "description": "STARTUPIDEA.AI",
+    "url": "https://startupidea.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 252,
+    "name": "lean-canvas-game",
+    "description": "Lean Canvas Game",
+    "url": "https://LeanCanvasGame.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 253,
+    "name": "validate-first",
+    "description": "ValidateFirst",
+    "url": "https://www.validate-first.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 254,
+    "name": "iterra-ai",
+    "description": "Iterra AI",
+    "url": "https://iterraai.co.uk",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 255,
+    "name": "namegener-ai-name-generator",
+    "description": "AI Business Name Generator",
+    "url": "https://namegener.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 256,
+    "name": "eyidea",
+    "description": "EyIdea",
+    "url": "https://eyidea-ai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 257,
+    "name": "ratemybizidea",
+    "description": "RateMyBizIdea",
+    "url": "https://ratemybizidea.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 258,
+    "name": "venturekit",
+    "description": "Venturekit",
+    "url": "https://venturekit.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 259,
+    "name": "venturusai",
+    "description": "VenturusAI",
+    "url": "https://venturusai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 260,
+    "name": "simbly",
+    "description": "simbly",
+    "url": "https://www.simbly.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 261,
+    "name": "painkiller-saas-ideas-generator",
+    "description": "MySaaSIdeas",
+    "url": "https://my-saas-ideas.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 262,
+    "name": "hell-s-pitching",
+    "description": "Hell's Pitching",
+    "url": "https://hellspitching.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 263,
+    "name": "redditchatlab",
+    "description": "RedditChatLab",
+    "url": "https://redditchatlab.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 264,
+    "name": "paperade",
+    "description": "Paperade",
+    "url": "https://www.paperade.co",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 265,
+    "name": "namefinder-ai",
+    "description": "NameFinder | Free AI-Powered Domain Generator",
+    "url": "https://www.namefinder.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 266,
+    "name": "gotely",
+    "description": "Gotely",
+    "url": "https://gotely.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 267,
+    "name": "ideator-dev",
+    "description": "ideator.dev",
+    "url": "https://ideator.dev",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 268,
+    "name": "grow-my-small-business-ai",
+    "description": "Grow My Small Business - AI",
+    "url": "https://growmysmallbusiness-ai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 269,
+    "name": "huntd",
+    "description": "Huntd",
+    "url": "https://huntd.xyz",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 270,
+    "name": "askgiraffe",
+    "description": "AskGiraffe",
+    "url": "https://askgiraffe.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 271,
+    "name": "kip-scout",
+    "description": "KIP Scout",
+    "url": "https://chromewebstore.google.com/detail/kip-scout/pochehggealgploidnpgpejmcflkjegb",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 272,
+    "name": "looka",
+    "description": "Looka Logo Maker",
+    "url": "https://looka.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 273,
+    "name": "nichesss",
+    "description": "nichesss",
+    "url": "https://nichesss.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 274,
+    "name": "validator-ai",
+    "description": "Validator AI",
+    "url": "https://www.validatorai.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 275,
+    "name": "frederick-ai",
+    "description": "Frederick AI",
+    "url": "https://frederick.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 276,
+    "name": "ai-business-coach",
+    "description": "AI Business Coach",
+    "url": "https://www.business-coach.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 277,
+    "name": "decode-investing",
+    "description": "Decode Investing",
+    "url": "https://decodeinvesting.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 278,
+    "name": "stackie-ai-notes-tracker-memo-more",
+    "description": "Stackie.AI (Notes, Tracker, Memo & More)",
+    "url": "https://stackie.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 279,
+    "name": "pitchyouridea-ai",
+    "description": "Pitchyouridea.ai",
+    "url": "https://pitchyouridea.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 280,
+    "name": "your-perfect-presents",
+    "description": "Your Perfect Presents",
+    "url": "https://yourperfectpresents.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 281,
+    "name": "spective",
+    "description": "Spective",
+    "url": "https://www.spectiveinnovation.com",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 282,
+    "name": "seabiscuit-business-gpts-start-your-business-legacy",
+    "description": "Seabiscuit",
+    "url": "https://seabiscuit.ai",
+    "category": "Business",
+    "tags": [
+      "ai-business-ideas-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 283,
+    "name": "tanka",
+    "description": "Tanka",
+    "url": "https://www.tanka.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 284,
+    "name": "macky-ai",
+    "description": "macky",
+    "url": "https://macky.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 285,
+    "name": "take-care",
+    "description": "Take Care",
+    "url": "https://www.takecare.uk",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 286,
+    "name": "solvecube",
+    "description": "SolveCube",
+    "url": "https://solvecube.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 287,
+    "name": "corvus-link",
+    "description": "Corvus Link",
+    "url": "https://www.corvuslink.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 288,
+    "name": "tekclarion",
+    "description": "TekClarion",
+    "url": "https://www.tekclarion.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 289,
+    "name": "ace-interview-ai-interview-assistant",
+    "description": "Ace Interview - AI Interview Assistant",
+    "url": "https://aceinterview.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 290,
+    "name": "ai-advantage",
+    "description": "AI Advantage",
+    "url": "https://aiadvantage.com.au",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 291,
+    "name": "plani-ai",
+    "description": "Plani.ai",
+    "url": "https://plani.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 292,
+    "name": "jurnii-ai",
+    "description": "Jurnii AI",
+    "url": "https://jurnii.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 293,
+    "name": "prepbuddy",
+    "description": "PrepBuddy",
+    "url": "https://prepbuddy.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 294,
+    "name": "gpt-4-consulting",
+    "description": "GPT-4 Consulting",
+    "url": "https://www.gpt4.consulting",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 295,
+    "name": "churchai",
+    "description": "Church AI",
+    "url": "https://churchai.xyz",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 296,
+    "name": "krecicki",
+    "description": "Krecicki - A.I. Sales Call Analysis Consulting",
+    "url": "https://krecicki.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 297,
+    "name": "qwip",
+    "description": "Instant Experts",
+    "url": "https://apps.apple.com/us/app/qwip/id6446320830",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 298,
+    "name": "soratech",
+    "description": "Soratech - AI & Workflow Automation Consulting",
+    "url": "https://soratech.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 299,
+    "name": "gotomarket-ai",
+    "description": "GoToMarket-AI",
+    "url": "https://www.gotomarket-ai.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 300,
+    "name": "resumeready",
+    "description": "ResumeReady",
+    "url": "http://resumeready.site",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 301,
+    "name": "casegenius",
+    "description": "CaseGenius",
+    "url": "https://casegenius.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 302,
+    "name": "productcore",
+    "description": "Productcore",
+    "url": "https://productcore.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 303,
+    "name": "perspectives",
+    "description": "Perspectives Job Decision-Making",
+    "url": "https://perspective-gpt.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 304,
+    "name": "gendm",
+    "description": "GenDM",
+    "url": "https://gendm.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 305,
+    "name": "ndeck-io",
+    "description": "NDeck",
+    "url": "https://ndeck.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 306,
+    "name": "genval",
+    "description": "Genval",
+    "url": "https://genval.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 307,
+    "name": "bizfast-io",
+    "description": "Bizfast",
+    "url": "https://bizfast.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 308,
+    "name": "terraprime",
+    "description": "TerraPrime",
+    "url": "https://www.terraprime.estate",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 309,
+    "name": "bourdain",
+    "description": "Bourdain",
+    "url": "https://bourdain.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 310,
+    "name": "smith-tech-solutions",
+    "description": "SmithTech",
+    "url": "https://smithtech.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 311,
+    "name": "pythia-ai",
+    "description": "Pythia AI",
+    "url": "https://www.pythiacopilot.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 312,
+    "name": "hirequotient",
+    "description": "HireQuotient",
+    "url": "https://hirequotient.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 313,
+    "name": "tryolabs-com",
+    "description": "Tryolabs",
+    "url": "https://tryolabs.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 314,
+    "name": "width-ai",
+    "description": "Width.ai",
+    "url": "https://width.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 315,
+    "name": "getsite",
+    "description": "GetSite",
+    "url": "https://www.getsite.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 316,
+    "name": "criya-site",
+    "description": "Criya",
+    "url": "https://criya.site",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 317,
+    "name": "balm-ai",
+    "description": "AI Therapy Platform",
+    "url": "https://www.balm.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 318,
+    "name": "mgrworkbench-ai",
+    "description": "MgrWorkbench.ai",
+    "url": "https://www.mgrworkbench.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 319,
+    "name": "gitsul-group",
+    "description": "Gitsul Group",
+    "url": "https://gitsulgroup.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 320,
+    "name": "temo",
+    "description": "Temo",
+    "url": "https://www.temo.co.uk",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 321,
+    "name": "sarah-ai",
+    "description": "SplenderAI",
+    "url": "https://splenderai.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 322,
+    "name": "b12-io",
+    "description": "B12",
+    "url": "https://b12.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 323,
+    "name": "wonsultingai",
+    "description": "Wonsulting",
+    "url": "https://wonsulting.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 324,
+    "name": "invisible-technologies-inc",
+    "description": "Invisible Technologies",
+    "url": "http://inv.tech",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 325,
+    "name": "kvitly",
+    "description": "🌱kvitly",
+    "url": "https://kvitly.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 326,
+    "name": "symanto-text-insights",
+    "description": "Symanto",
+    "url": "https://www.symanto.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 327,
+    "name": "dr-tail",
+    "description": "Dr.Tail",
+    "url": "https://www.drtail.us",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 328,
+    "name": "palm",
+    "description": "Palm - Competency and Career Management Platform",
+    "url": "https://palm-app.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 329,
+    "name": "adaptiv-me",
+    "description": "Adaptiv Me",
+    "url": "https://www.adaptiv.me",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "docue-ai",
+    "description": "Docue.AI",
+    "url": "https://docue.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 331,
+    "name": "dairytech-ai",
+    "description": "Dairytech.ai",
+    "url": "https://www.dairytech.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 332,
+    "name": "moonbeam-exchange",
+    "description": "Moonbeam Exchange",
+    "url": "https://moonbeam.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 333,
+    "name": "subvention-app",
+    "description": "Subvention.app",
+    "url": "https://subvention.app",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 334,
+    "name": "editoreview-com",
+    "description": "editoReview",
+    "url": "https://editoReview.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 335,
+    "name": "odyssei",
+    "description": "Odyssei",
+    "url": "https://odyssei.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 336,
+    "name": "chatgpt-in-privacy",
+    "description": "32AI",
+    "url": "https://32ai.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 337,
+    "name": "naval-ai",
+    "description": "Naval AI",
+    "url": "https://navalai.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 338,
+    "name": "raqiai",
+    "description": "RaqiAI",
+    "url": "https://www.raqiai.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 339,
+    "name": "why-the-click",
+    "description": "Why the Click?",
+    "url": "https://www.whytheclick.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 340,
+    "name": "gless-ai",
+    "description": "Gless.ai",
+    "url": "https://gless.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 341,
+    "name": "nava-ai",
+    "description": "Nava AI",
+    "url": "https://www.trynava.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 342,
+    "name": "strangify",
+    "description": "Strangify",
+    "url": "https://strangify.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 343,
+    "name": "yana-by-careflick",
+    "description": "YANA Care",
+    "url": "https://www.careflick.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 344,
+    "name": "generative-ai-an-executive-guide",
+    "description": "Generative AI: An Executive Guide",
+    "url": "https://executiveguide.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 345,
+    "name": "llime",
+    "description": "LLime",
+    "url": "https://llime.co",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 346,
+    "name": "purpose-quest",
+    "description": "Purpose Quest",
+    "url": "https://www.purpose-quest.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 347,
+    "name": "one-click-gpt-for-business",
+    "description": "One-Click GPT for Business",
+    "url": "https://chromewebstore.google.com/detail/one-click-gpt-for-busines/lgcannchilipmpnhmnmlnblefamlfglk",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 348,
+    "name": "interviewjarvis",
+    "description": "InterviewJarvis",
+    "url": "https://interviewjarvis.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 349,
+    "name": "how-about-如何",
+    "description": "How About...",
+    "url": "https://www.ruhe.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 350,
+    "name": "nuntium-ai",
+    "description": "NuntiumAI",
+    "url": "https://www.nuntiumai.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 351,
+    "name": "career-io",
+    "description": "Career.io",
+    "url": "https://career.io",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 352,
+    "name": "mai",
+    "description": "Mai Writer",
+    "url": "https://www.maiwriter.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 353,
+    "name": "leonardo-labs",
+    "description": "Leonardo Labs",
+    "url": "https://leonardolaboratories.com",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 354,
+    "name": "datavise",
+    "description": "Datavise",
+    "url": "https://www.datavise.ai",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 355,
+    "name": "smart-waste-classification",
+    "description": "DataDep",
+    "url": "https://datadep.net",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 356,
+    "name": "200-chatgpt-mega-prompts-for-business",
+    "description": "200+ ChatGPT Mega-Prompts for Business",
+    "url": "https://www.godofprompt.ai/business-mega-prompts",
+    "category": "Business",
+    "tags": [
+      "ai-consulting-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 357,
+    "name": "stockstory-org",
+    "description": "StockStory",
+    "url": "https://stockstory.org",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 358,
+    "name": "tradytics-com",
+    "description": "Tradytics",
+    "url": "https://tradytics.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 359,
+    "name": "morpher-ai",
+    "description": "Morpher AI",
+    "url": "https://www.morpher.com/ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 360,
+    "name": "incite-advisor",
+    "description": "Incite",
+    "url": "https://inciteai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 361,
+    "name": "octobot",
+    "description": "OctoBot",
+    "url": "https://www.octobot.cloud",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 362,
+    "name": "gunbot-com",
+    "description": "Gunbot",
+    "url": "https://www.gunbot.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 363,
+    "name": "quantum-ai",
+    "description": "Quantum AI",
+    "url": "https://quantumaiplatform.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 364,
+    "name": "growlonix",
+    "description": "Growlonix",
+    "url": "https://www.growlonix.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 365,
+    "name": "coinscreener",
+    "description": "CoinScreener - AI crypto trading signals & insights",
+    "url": "https://www.coinscreener.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 366,
+    "name": "pine-script-wizard-ai",
+    "description": "Pine Script Wizard",
+    "url": "https://www.pinescriptwizard.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 367,
+    "name": "themis-for-crypto",
+    "description": "Themis For Crypto",
+    "url": "https://themisforcrypto.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 368,
+    "name": "prospero-ai",
+    "description": "Prospero.ai",
+    "url": "https://www.prospero.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 369,
+    "name": "coinsignal",
+    "description": "CoinSignal",
+    "url": "https://www.coinsignal.app",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 370,
+    "name": "betsync",
+    "description": "Betsync",
+    "url": "https://betsync.us",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 371,
+    "name": "tradergpt",
+    "description": "TraderGPT",
+    "url": "https://tradergpt.co",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 372,
+    "name": "optionsfy-com",
+    "description": "Optionsfy",
+    "url": "https://optionsfy.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 373,
+    "name": "chartchatai",
+    "description": "ChartChatAI",
+    "url": "https://chartchatai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 374,
+    "name": "hypeindex-ai",
+    "description": "HypeIndex",
+    "url": "https://www.hypeindex.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 375,
+    "name": "immediate-fastx",
+    "description": "Immediate FastX",
+    "url": "https://immediatefastxofficial.com/main-in",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 376,
+    "name": "aitradingpredictor",
+    "description": "AI Trading Predictor",
+    "url": "https://aitradingpredictor.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 377,
+    "name": "marketgpt",
+    "description": "MarketGPT: ChatGPT stock predictions",
+    "url": "https://www.marketgpt.app",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 378,
+    "name": "stratxai",
+    "description": "STRATxAI",
+    "url": "https://www.stratxai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 379,
+    "name": "bubbleai",
+    "description": "BubbleAI",
+    "url": "https://www.bubbleai.xyz",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 380,
+    "name": "scorebetai",
+    "description": "ScoreBetAI",
+    "url": "https://www.scorebetai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 381,
+    "name": "investilyze",
+    "description": "Investilyze",
+    "url": "https://www.investilyze.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 382,
+    "name": "quinetics",
+    "description": "QUINETICS",
+    "url": "https://quinetics.net",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 383,
+    "name": "tiblio-ai",
+    "description": "Tiblio AI",
+    "url": "https://tiblio.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 384,
+    "name": "fama-one",
+    "description": "Fama.one",
+    "url": "https://www.fama.one",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 385,
+    "name": "cryptocurrency-forecast-and-roboadvisor",
+    "description": "Merlu Crypto Trading",
+    "url": "https://www.merlu.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 386,
+    "name": "sagefusion",
+    "description": "SageFusion",
+    "url": "https://www.sagefusion.co",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 387,
+    "name": "chaplin",
+    "description": "Chaplin App",
+    "url": "https://www.chaplin.app",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 388,
+    "name": "ellisense",
+    "description": "Ellisense",
+    "url": "https://ellisense.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 389,
+    "name": "algovue",
+    "description": "AlgoVue",
+    "url": "https://algovue.app",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 390,
+    "name": "quordata",
+    "description": "Quordata",
+    "url": "https://quordata.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 391,
+    "name": "plutuschat",
+    "description": "PlutusChat",
+    "url": "https://www.plutus.chat",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 392,
+    "name": "robotalife",
+    "description": "RobotaLife",
+    "url": "https://robotalife.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 393,
+    "name": "bites",
+    "description": "Bites",
+    "url": "https://bitesapp.co",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 394,
+    "name": "apexalgo",
+    "description": "ApexAlgo",
+    "url": "https://apexalgo.xyz",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 395,
+    "name": "making-invest",
+    "description": "Making Invest",
+    "url": "https://makinginvest.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 396,
+    "name": "algomist",
+    "description": "Algomist",
+    "url": "https://algomist.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 397,
+    "name": "oriqon-ai",
+    "description": "ORIQON.AI",
+    "url": "https://oriqon.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 398,
+    "name": "ailtra-ai",
+    "description": "AI Crypto Bot",
+    "url": "https://ailtra.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 399,
+    "name": "kai-1-click-in-depth-tradingview-analytics-for-crypto-stocks-forex",
+    "description": "Kai Trading AI",
+    "url": "https://chromewebstore.google.com/detail/kai-1-click-in-depth-trad/fnjcejphjdobpoagmcjnghggcehdjbmj",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 400,
+    "name": "better-sensibull",
+    "description": "Better Sensibull",
+    "url": "https://chromewebstore.google.com/detail/better-sensibull/dmpojfnbhmlopobgponiakcmeokbickl",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 401,
+    "name": "alva",
+    "description": "Alva",
+    "url": "https://chromewebstore.google.com/detail/alva/moeiianjbcjnomgomanjhilnlmfafpbj",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 402,
+    "name": "meta-mevs",
+    "description": "MetaMevs Trading Solutions",
+    "url": "https://metamevs.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 403,
+    "name": "nitg",
+    "description": "NITG",
+    "url": "https://nitg.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 404,
+    "name": "options-chain",
+    "description": "Stock Options Chain Viewer",
+    "url": "https://chromewebstore.google.com/detail/options-chain/gbndfmahcbmbckghnffmddhmdlhpgbdh",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 405,
+    "name": "ai-supports-trading",
+    "description": "AI Supports Trading Extension",
+    "url": "https://chromewebstore.google.com/detail/ai-supports-trading/fiedjlfcocmbhamkgdbenahdfhhfpcmc",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 406,
+    "name": "marketalerts-ai",
+    "description": "MarketAlerts.ai",
+    "url": "https://www.marketalerts.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 407,
+    "name": "jiff-genius",
+    "description": "Jiff Genius AI",
+    "url": "https://jfgenius.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 408,
+    "name": "curlent",
+    "description": "Curlent",
+    "url": "https://curlent.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 409,
+    "name": "ai-stock-predictions-com",
+    "description": "AI Stock Predictions",
+    "url": "https://AI-Stock-Predictions.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 410,
+    "name": "candlepredict-predictionai",
+    "description": "CandlePredict: Prediction AI",
+    "url": "https://apps.apple.com/us/app/candlepredict-prediction-ai/id6602896564",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 411,
+    "name": "crystal-ballin",
+    "description": "Crystal Balling",
+    "url": "https://crystalballin.org",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 412,
+    "name": "navida",
+    "description": "Navida AI",
+    "url": "https://navida.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 413,
+    "name": "quantle",
+    "description": "Quantle - Visual Backtesting",
+    "url": "https://quantle.net",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 414,
+    "name": "stockaivisor",
+    "description": "Stockaivisor",
+    "url": "https://stockaivisor.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 415,
+    "name": "dextools-analyser",
+    "description": "AI Token Analyzer",
+    "url": "https://chromewebstore.google.com/detail/dextools-analyser/mpegmbiclnddcieohimkklfhnndjefhl",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 416,
+    "name": "gmgn-ai-data-extractor-ai-analyzer-crypto-data-tool",
+    "description": "GMGN AI Data Extractor & AI Analyzer",
+    "url": "https://chromewebstore.google.com/detail/gmgn-ai-data-extractor-ai/mafppfnhgoajffkkmfdldmombmpcoioa",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 417,
+    "name": "cryptolens-ai",
+    "description": "Cryptocurrency Market Analysis Assistant",
+    "url": "https://chromewebstore.google.com/detail/cryptolens-ai/lnjoaehdhfpnbfjppfkdgbbkngbfdkef",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 418,
+    "name": "cryptotrademate",
+    "description": "CryptoTradeMate",
+    "url": "https://cryptotrademate.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 419,
+    "name": "immediate-edge",
+    "description": "Immediate Edge",
+    "url": "https://immediateedgeappuk.com/ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 420,
+    "name": "pulsarion-network",
+    "description": "Pulsarion Network",
+    "url": "https://pulsarion-network-pl.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 421,
+    "name": "ain-finance",
+    "description": "Ain Finance",
+    "url": "https://ain.finance",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 422,
+    "name": "optimum-vertex-ai",
+    "description": "Optimum Vertex AI",
+    "url": "https://www.optimumvertex.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 423,
+    "name": "composer-your-ai-copilot-for-trading",
+    "description": "Composer",
+    "url": "https://www.composer.trade",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 424,
+    "name": "danelfin-com",
+    "description": "Danelfin",
+    "url": "https://danelfin.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 425,
+    "name": "ai-signals",
+    "description": "https://ai-signals.com",
+    "url": "https://ai-signals.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 426,
+    "name": "tickertrends",
+    "description": "TickerTrends",
+    "url": "https://tickertrends.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 427,
+    "name": "botlab-org",
+    "description": "BotLab",
+    "url": "https://botlab.org",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 428,
+    "name": "hoopsai",
+    "description": "hoopsAI",
+    "url": "https://hoopsai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 429,
+    "name": "rocketscooter-com",
+    "description": "Rocket Scooter",
+    "url": "https://rocketscooter.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 430,
+    "name": "candlestick-ai",
+    "description": "Candlestick",
+    "url": "https://candlestick.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 431,
+    "name": "eosi-finance",
+    "description": "Eosi Finance",
+    "url": "https://eosifinance.org",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 432,
+    "name": "alphanso",
+    "description": "Alphanso",
+    "url": "https://alphanso.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 433,
+    "name": "gorilla-terminal",
+    "description": "Gorilla Terminal",
+    "url": "https://gorillaterminal.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 434,
+    "name": "theoctagonoracle-com",
+    "description": "The Octagon Oracle: Next Generation UFC Fight Picks Powered By AI",
+    "url": "https://theoctagonoracle.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 435,
+    "name": "bonsai-trade",
+    "description": "Bonsai",
+    "url": "https://bonsai.trade",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 436,
+    "name": "keenai-wealth",
+    "description": "Keenai Wealth",
+    "url": "https://www.keenaiglobal.com/keenai-wealth",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 437,
+    "name": "solautobot",
+    "description": "SolAutoBot",
+    "url": "https://solautobot.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 438,
+    "name": "stocked-ai",
+    "description": "Stocked AI",
+    "url": "https://www.stockedai.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 439,
+    "name": "coin-wizard",
+    "description": "Coin Wizard",
+    "url": "https://coinwizard.ai",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 440,
+    "name": "flowtrade-com",
+    "description": "Flow Trade",
+    "url": "https://flowtrade.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 441,
+    "name": "odesis",
+    "description": "Odesis",
+    "url": "https://odesis.co",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 442,
+    "name": "wisdomise",
+    "description": "Wisdomise",
+    "url": "https://wisdomise.io",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 443,
+    "name": "track-trade",
+    "description": "Track Trade",
+    "url": "https://tracktradecrypto.com",
+    "category": "Business",
+    "tags": [
+      "ai-trading-bot-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 444,
+    "name": "taxtim-com",
+    "description": "TaxTim SA",
+    "url": "https://taxtim.com",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 445,
+    "name": "recap-nft-gallery-with-ai-appraisals",
+    "description": "Recap",
+    "url": "https://recap.io",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 446,
+    "name": "cantax",
+    "description": "CanTax.ai",
+    "url": "https://cantax.ai",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 447,
+    "name": "taxgenius",
+    "description": "TaxGenius",
+    "url": "https://taxgenius.app",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 448,
+    "name": "legal-ease-ai",
+    "description": "Tax Legalease",
+    "url": "https://chromewebstore.google.com/detail/legal-ease-ai/ifehlpobamjclgefnkgkhfoabnagfndc",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 449,
+    "name": "decode-tax",
+    "description": "Decode.tax",
+    "url": "https://decode.tax",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 450,
+    "name": "taxgpt",
+    "description": "TaxGPT",
+    "url": "https://www.taxgpt.com",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 451,
+    "name": "taxgpt-com",
+    "description": "TaxGPT: Your AI Tax Assistant",
+    "url": "https://taxgpt.com",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 452,
+    "name": "nri-gpt",
+    "description": "NRI GPT",
+    "url": "https://nrigpt.ai",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 453,
+    "name": "hr-payroll-software",
+    "description": "Infiverse.ai",
+    "url": "https://www.infiverse.ai",
+    "category": "Business",
+    "tags": [
+      "tax-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 454,
+    "name": "macromicro",
+    "description": "MacroMicro",
+    "url": "https://en.macromicro.me",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 455,
+    "name": "altindex",
+    "description": "AltIndex",
+    "url": "https://altindex.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 456,
+    "name": "portfoliopilot",
+    "description": "PortfolioPilot",
+    "url": "https://www.portfoliopilot.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 457,
+    "name": "heritcoin",
+    "description": "HeritCoin",
+    "url": "https://www.heritcoin.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 458,
+    "name": "rafa",
+    "description": "RAFA",
+    "url": "https://rafa.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 459,
+    "name": "toggle-ai",
+    "description": "Toggle AI",
+    "url": "https://toggle.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 460,
+    "name": "tendi-ai",
+    "description": "Tendi AI",
+    "url": "https://tendi.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 461,
+    "name": "uptrends-ai",
+    "description": "Uptrends ai",
+    "url": "https://www.uptrends.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 462,
+    "name": "mezzi",
+    "description": "Mezzi",
+    "url": "https://mezzi.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 463,
+    "name": "uprise-embedded",
+    "description": "Uprise",
+    "url": "https://uprise.us",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 464,
+    "name": "makir-ai",
+    "description": "Makir.ai",
+    "url": "https://makir.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 465,
+    "name": "finstreets",
+    "description": "Finstreets",
+    "url": "https://finstreets.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 466,
+    "name": "property-insights-uk-local-data",
+    "description": "Property Insights",
+    "url": "https://propertyinsights.io",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 467,
+    "name": "allmind-ai",
+    "description": "AllMind AI",
+    "url": "https://allmindinvestments.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 468,
+    "name": "alwin",
+    "description": "Algae",
+    "url": "https://www.algae-app.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 469,
+    "name": "robofin",
+    "description": "RoboFin",
+    "url": "https://robotika.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 470,
+    "name": "ml-alpha",
+    "description": "ML Alpha",
+    "url": "https://mlalpha.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 471,
+    "name": "portfoliogpt",
+    "description": "PortfolioGPT",
+    "url": "https://www.portfoliogpt.xyz",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 472,
+    "name": "cash-coach-ai",
+    "description": "CashCoach.ai",
+    "url": "https://cashcoach.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 473,
+    "name": "stockkhata",
+    "description": "StockKhata",
+    "url": "https://stockkhata.in",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 474,
+    "name": "maple",
+    "description": "MAPLE",
+    "url": "https://www.mymapleadvisor.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 475,
+    "name": "finwise-ai",
+    "description": "Finwise",
+    "url": "https://apps.apple.com/app/id6446466730",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 476,
+    "name": "investiment-io",
+    "description": "investiment.io",
+    "url": "https://www.investiment.io",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 477,
+    "name": "kairos-gpt",
+    "description": "Kairos GPT",
+    "url": "http://kairosgpt.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 478,
+    "name": "ask-warren-buffet-anything",
+    "description": "Ask Buffett Anything",
+    "url": "https://www.askanything.bio",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 479,
+    "name": "kairos-financial",
+    "description": "Kairos Financial",
+    "url": "https://www.kairos.financial",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 480,
+    "name": "investor-radar",
+    "description": "Investor Radar",
+    "url": "https://investorradar.io",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 481,
+    "name": "crypto-youtuber-ai-predictions",
+    "description": "Lars Solaris Bitcoin predictions",
+    "url": "https://www.larssolaris.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 482,
+    "name": "weinvest",
+    "description": "WeInvest",
+    "url": "https://weinvest.money",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 483,
+    "name": "chatterquant-com",
+    "description": "ChatterQuant",
+    "url": "https://chatterquant.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 484,
+    "name": "myinvestment-ai",
+    "description": "MyInvestment-AI",
+    "url": "https://myinvestment-ai.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 485,
+    "name": "risklabs",
+    "description": "RiskLabs",
+    "url": "https://www.risklabsai.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 486,
+    "name": "btcaura",
+    "description": "BTCAura",
+    "url": "https://btcaura.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 487,
+    "name": "alchemyze",
+    "description": "Alchemyze",
+    "url": "https://alchemyze.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 488,
+    "name": "estategpt-chatbot",
+    "description": "EstateGPT",
+    "url": "https://chromewebstore.google.com/detail/estategpt-chatbot/kekecndpbefenpnifkmdpldpoehigiim",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 489,
+    "name": "market-vibe-stock-sentiment-insights",
+    "description": "Market Vibe",
+    "url": "https://chromewebstore.google.com/detail/market-vibe-stock-sentime/npkojcpihnljkffboiknbpjhcalggkda",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 490,
+    "name": "mercury-degiro-portfolio-tracking-visualizations-ai-metrics",
+    "description": "Mercury",
+    "url": "https://chromewebstore.google.com/detail/mercury-degiro-portfolio/codebcdegkebiploiddbbofkljbcigij",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 491,
+    "name": "dollardrip-io",
+    "description": "DollarDrip",
+    "url": "https://dollardrip.io",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 492,
+    "name": "pocket-adviser",
+    "description": "Pocket Adviser AI Stock Market Adviser",
+    "url": "https://www.pocketadviser.com.au",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 493,
+    "name": "marketvibes",
+    "description": "MarketVibes",
+    "url": "https://marketvibes.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 494,
+    "name": "finterpret",
+    "description": "Finterpret",
+    "url": "https://www.finterpret.co",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 495,
+    "name": "investabloom",
+    "description": "Investor AI Insights",
+    "url": "https://chromewebstore.google.com/detail/investabloom/jpgnpmdlmnhcdnghhihliaolbmmbmpkg",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 496,
+    "name": "ipick-ai",
+    "description": "iPick.ai",
+    "url": "https://www.ipick.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 497,
+    "name": "sirius-investors",
+    "description": "Sirius Investors",
+    "url": "https://www.siriusinvestors.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 498,
+    "name": "imovel-certo",
+    "description": "Imovel Certo",
+    "url": "https://imovelcerto.co",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 499,
+    "name": "quantera-ai-buildspace-s5",
+    "description": "Quantera.ai",
+    "url": "https://www.quantera.ai",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 500,
+    "name": "aloangels",
+    "description": "VentureMate",
+    "url": "https://aloangels.me",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 501,
+    "name": "socratify",
+    "description": "Socratify",
+    "url": "https://www.socratify.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 502,
+    "name": "property-ai-maximize-rental-yield",
+    "description": "Property AI",
+    "url": "https://proptyai.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 503,
+    "name": "age-of-artificial",
+    "description": "AOA",
+    "url": "https://aoarti.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 504,
+    "name": "scorehood-bull-bear-crypto-analysis-app",
+    "description": "Scorehood",
+    "url": "https://scorehood.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 505,
+    "name": "folio-findr",
+    "description": "Folio Findr",
+    "url": "https://foliofindr.com",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 506,
+    "name": "pmpy-wallet",
+    "description": "Multi-Chain Exchange",
+    "url": "https://chromewebstore.google.com/detail/pmpy-wallet/cdchjcfedgnnakhfpmpgmjfeigoncnin",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 507,
+    "name": "fullfolio",
+    "description": "FullFolio",
+    "url": "https://www.fullfolio.de",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 508,
+    "name": "howmuchmortgage-xyz",
+    "description": "Howmuchmortgage.xyz",
+    "url": "https://howmuchmortgage.xyz",
+    "category": "Business",
+    "tags": [
+      "investing-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 509,
+    "name": "200-chatgpt-mega-prompts-for-sales",
+    "description": "200+ ChatGPT Mega-Prompts for Sales",
+    "url": "https://godofprompt.ai/sales-mega-prompts",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 510,
+    "name": "pipl-ai",
+    "description": "Pipl.ai",
+    "url": "https://pipl.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 511,
+    "name": "orum-com",
+    "description": "Orum - The Live Conversation Platform",
+    "url": "https://orum.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 512,
+    "name": "xleads-com",
+    "description": "XLeads",
+    "url": "https://xleads.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 513,
+    "name": "genius-ai",
+    "description": "Genius.AI",
+    "url": "https://genius.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 514,
+    "name": "studio-by-gan-ai-recorder",
+    "description": "Gan.AI Studio",
+    "url": "https://gan.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 515,
+    "name": "crustdata",
+    "description": "Crustdata",
+    "url": "https://crustdata.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 516,
+    "name": "regie",
+    "description": "Regie.ai",
+    "url": "https://www.regie.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 517,
+    "name": "trellus",
+    "description": "Trellus",
+    "url": "https://trellus.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 518,
+    "name": "second-nature-ai",
+    "description": "Second Nature",
+    "url": "https://secondnature.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 519,
+    "name": "ai-sales-battlecard",
+    "description": "Ignition",
+    "url": "https://www.haveignition.com/sales-battlecard-template",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 520,
+    "name": "outplayhq",
+    "description": "Outplay",
+    "url": "https://outplayhq.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 521,
+    "name": "jeeva-ai",
+    "description": "Jeeva",
+    "url": "https://www.jeeva.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 522,
+    "name": "solidroad",
+    "description": "Solidroad",
+    "url": "https://www.solidroad.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 523,
+    "name": "humantic-ai",
+    "description": "Humantic AI",
+    "url": "https://humantic.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 524,
+    "name": "regal",
+    "description": "Regal",
+    "url": "https://regal.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 525,
+    "name": "winn",
+    "description": "WINN.AI",
+    "url": "https://winn.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 526,
+    "name": "trumpet",
+    "description": "trumpet",
+    "url": "https://www.sendtrumpet.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 527,
+    "name": "salesken-ai",
+    "description": "Salesken",
+    "url": "https://salesken.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 528,
+    "name": "ignite",
+    "description": "BuzzBoard",
+    "url": "https://www.buzzboard.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 529,
+    "name": "goodmeetings",
+    "description": "Goodmeetings",
+    "url": "https://goodmeetings.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 530,
+    "name": "oliv",
+    "description": "Oliv",
+    "url": "https://www.oliv.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 531,
+    "name": "oliv-ai",
+    "description": "Oliv",
+    "url": "https://oliv.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 532,
+    "name": "sellmethispen-ai",
+    "description": "SellMeThisPen",
+    "url": "https://www.sellmethispen.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 533,
+    "name": "crono",
+    "description": "Crono",
+    "url": "https://www.crono.one",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 534,
+    "name": "1page",
+    "description": "1Page",
+    "url": "https://www.get1page.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 535,
+    "name": "atriumhq-com",
+    "description": "Atrium",
+    "url": "https://atriumhq.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 536,
+    "name": "neexa-ai",
+    "description": "Neexa",
+    "url": "https://neexa.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 537,
+    "name": "solda-ai",
+    "description": "Solda AI",
+    "url": "https://solda.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 538,
+    "name": "hints",
+    "description": "Sales AI | Sales Leaders | Hints AI",
+    "url": "https://hints.so",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 539,
+    "name": "zefram",
+    "description": "Zefram",
+    "url": "https://zefram.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 540,
+    "name": "kalendar-ai",
+    "description": "KalendarAI",
+    "url": "https://www.kalendar.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 541,
+    "name": "1price",
+    "description": "1Price",
+    "url": "https://1price.co",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 542,
+    "name": "trueroas-io",
+    "description": "True ROAS",
+    "url": "https://trueroas.io",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 543,
+    "name": "sendwo",
+    "description": "SendWo",
+    "url": "https://sendwo.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 544,
+    "name": "dreamline",
+    "description": "Dreamline",
+    "url": "https://www.dreamlinedigital.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 545,
+    "name": "inventoro-com",
+    "description": "Inventoro",
+    "url": "https://inventoro.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 546,
+    "name": "plazbot",
+    "description": "Plazbot",
+    "url": "https://www.plazbot.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 547,
+    "name": "such-much-ai",
+    "description": "Such Much AI",
+    "url": "https://www.suchmuch.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 548,
+    "name": "outreach-ai-assistant-connectflux-ai",
+    "description": "ConnectFlux.ai",
+    "url": "https://connectflux.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 549,
+    "name": "centralize",
+    "description": "AI-Powered Relationship Intelligence Platform",
+    "url": "https://www.usecentralize.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 550,
+    "name": "midfunnel-com",
+    "description": "MidFunnel.com",
+    "url": "https://www.midfunnel.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 551,
+    "name": "ditlead",
+    "description": "DitLead",
+    "url": "https://ditlead.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 552,
+    "name": "theos-sales-copilot",
+    "description": "Theos Sales Copilot",
+    "url": "https://www.theoscopilot.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 553,
+    "name": "projectbloom",
+    "description": "ProjectBloom",
+    "url": "https://projectbloom.io",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 554,
+    "name": "traq-ai",
+    "description": "Traq.ai",
+    "url": "https://www.Traq.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 555,
+    "name": "callr",
+    "description": "Callr",
+    "url": "https://callr.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 556,
+    "name": "precallai",
+    "description": "PreCallAI",
+    "url": "https://www.precallai.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 557,
+    "name": "redcar",
+    "description": "Redcar",
+    "url": "https://www.redcar.io",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 558,
+    "name": "thewordsmith-ai",
+    "description": "TheWordsmith.ai",
+    "url": "https://thewordsmith.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 559,
+    "name": "univw-ai",
+    "description": "Univw",
+    "url": "https://univw.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 560,
+    "name": "agentprod",
+    "description": "AgentProd",
+    "url": "https://agentprod.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 561,
+    "name": "mailroom-by-klipy",
+    "description": "Klipy",
+    "url": "https://useklipy.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 562,
+    "name": "sounder-ai",
+    "description": "Sounder",
+    "url": "https://sounder.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 563,
+    "name": "coldreach-yc-w23",
+    "description": "Coldreach",
+    "url": "https://coldreach.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 564,
+    "name": "ubique",
+    "description": "Ubique",
+    "url": "https://ubique.live",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 565,
+    "name": "copy-genius",
+    "description": "Copy Genius",
+    "url": "https://trycopygenius.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 566,
+    "name": "ezsales-ai",
+    "description": "ezsales.ai",
+    "url": "https://ezsales.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 567,
+    "name": "extrovert",
+    "description": "Extrovert",
+    "url": "https://goextrovert.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 568,
+    "name": "shopmate-ai",
+    "description": "ShopMate",
+    "url": "https://shopmateai.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 569,
+    "name": "flike",
+    "description": "AI Sales Co-Pilot",
+    "url": "https://flike.app",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 570,
+    "name": "supercalls",
+    "description": "SuperCalls",
+    "url": "https://supercalls.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 571,
+    "name": "vapa-ai",
+    "description": "VAPA",
+    "url": "https://vapa.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 572,
+    "name": "pitch-patterns",
+    "description": "Pitch Patterns",
+    "url": "https://www.pitchpatterns.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 573,
+    "name": "touch-ai",
+    "description": "Touch AI",
+    "url": "https://touch.app",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 574,
+    "name": "contlo-ai",
+    "description": "Contlo",
+    "url": "https://contlo.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 575,
+    "name": "monobot-ai-virtual-ai-assistant",
+    "description": "Monobot",
+    "url": "https://monobot.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 576,
+    "name": "skarbe",
+    "description": "Skarbe",
+    "url": "https://skarbe.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 577,
+    "name": "syndie-io",
+    "description": "Syndie.io",
+    "url": "https://syndie.io",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 578,
+    "name": "exie",
+    "description": "Exie",
+    "url": "https://exie.app",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 579,
+    "name": "profimatix-ai-sales-copilot",
+    "description": "Profimatix- AI Sales Copilot",
+    "url": "https://profimatix.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 580,
+    "name": "acvire-das-ki-sales-crm",
+    "description": "Acvire",
+    "url": "https://acvire.com",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 581,
+    "name": "verbeloquence-ai",
+    "description": "Verbeloquence",
+    "url": "https://verbeloquence.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 582,
+    "name": "v-retail",
+    "description": "V-retail",
+    "url": "https://www.vretail.space",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 583,
+    "name": "thaly",
+    "description": "Thaly AI",
+    "url": "https://thaly.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 584,
+    "name": "cretorial-ai",
+    "description": "Cretorial - The Smartest AI Writer",
+    "url": "https://www.cretorial.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 585,
+    "name": "smoc-ai",
+    "description": "SMOC.AI",
+    "url": "https://smoc.ai",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 586,
+    "name": "my-booking-hub",
+    "description": "BookingHub.AI",
+    "url": "https://www.mybookinghub.co.uk",
+    "category": "Business",
+    "tags": [
+      "sales-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 587,
+    "name": "alethea",
+    "description": "Alethea",
+    "url": "https://alethea.ai",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 588,
+    "name": "live24",
+    "description": "Live24 Fun",
+    "url": "https://live24.fun",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 589,
+    "name": "likn",
+    "description": "LIKN - Link Your Content to Web3",
+    "url": "https://www.likn.co",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 590,
+    "name": "blockbot",
+    "description": "BlockBot",
+    "url": "https://www.blockbot.ai",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 591,
+    "name": "worlds-beyond",
+    "description": "Worlds Beyond NFT",
+    "url": "https://worldsbeyondnft.com",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 592,
+    "name": "generative-bcg-prompt-monsters",
+    "description": "Prompt Monsters",
+    "url": "https://prompt-monsters.com",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 593,
+    "name": "nft-collection-generator-with-ai",
+    "description": "NFT Collection Generator | AI",
+    "url": "https://www.ainftgenerator.site",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 594,
+    "name": "securedai",
+    "description": "SecuredAI",
+    "url": "https://securedai.io",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 595,
+    "name": "apexgo",
+    "description": "Apexgo",
+    "url": "https://chromewebstore.google.com/detail/apexgo/jkckaekilfdidedahoooefmmkhcfneae",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 596,
+    "name": "tweetsyncai-ai-twitter-bot",
+    "description": "TweetSync AI",
+    "url": "https://tweetsync-ai.com",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 597,
+    "name": "prism-word-search-game",
+    "description": "Prism",
+    "url": "https://apps.apple.com/us/app/prism-word-search-game/id6739165422",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 598,
+    "name": "sheliapp",
+    "description": "SheliApp",
+    "url": "https://www.sheli.app",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 599,
+    "name": "dearbook",
+    "description": "DearBook",
+    "url": "https://dearbook.fun",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 600,
+    "name": "ai-satire-news",
+    "description": "AI Satire News",
+    "url": "https://satirical-news-hub.lovable.app",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 601,
+    "name": "maester",
+    "description": "Maester",
+    "url": "https://www.maester.xyz",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 602,
+    "name": "mements",
+    "description": "mements.xyz",
+    "url": "https://mements.xyz",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 603,
+    "name": "nifty-nft",
+    "description": "Nifty-NFT",
+    "url": "https://nifty-nft.xyz",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 604,
+    "name": "opennft",
+    "description": "Open NFT",
+    "url": "https://www.open-nft.tech",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 605,
+    "name": "itoka-museengine",
+    "description": "Itoka",
+    "url": "https://www.itoka.xyz",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 606,
+    "name": "aimons-xyz-ai-generated-creatures",
+    "description": "AiMon NFT Generator",
+    "url": "https://www.aimons.xyz",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 607,
+    "name": "nftngine",
+    "description": "NFTngine",
+    "url": "https://nftngine.com",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 608,
+    "name": "sketchar-io",
+    "description": "Sketchar™",
+    "url": "https://sketchar.io",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 609,
+    "name": "korus",
+    "description": "Korus",
+    "url": "https://korus.co",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 610,
+    "name": "sirens-gallery",
+    "description": "Sirens",
+    "url": "https://sirens.gallery",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 611,
+    "name": "tcg",
+    "description": "2025 First AIGG Trading Card Game",
+    "url": "https://tcgame.app",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 612,
+    "name": "pixelmind-ai",
+    "description": "Pixelmind",
+    "url": "https://pixelmind.ai",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 613,
+    "name": "definity-legend-a-i-game-builder",
+    "description": "DefinityLegend",
+    "url": "https://www.definitylegend.com",
+    "category": "Business",
+    "tags": [
+      "nfts"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 614,
+    "name": "qna3",
+    "description": "QnA3",
+    "url": "https://qna3.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 615,
+    "name": "spice-ai",
+    "description": "Spice.ai",
+    "url": "https://spice.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 616,
+    "name": "anchain-ai",
+    "description": "AnChainAI",
+    "url": "https://anchain.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 617,
+    "name": "mirada-ai",
+    "description": "Mirada AI",
+    "url": "https://mirada.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 618,
+    "name": "ratio1",
+    "description": "Ratio1",
+    "url": "https://ratio1.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 619,
+    "name": "meme-is-game",
+    "description": "MEME is Game",
+    "url": "https://memeisgame.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 620,
+    "name": "big-tech-company",
+    "description": "Big Tech Company",
+    "url": "https://www.bigtech.company",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 621,
+    "name": "kritisi",
+    "description": "Kritisi - Security Audit Explorer for Solidity",
+    "url": "https://www.kritisi.xyz",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 622,
+    "name": "dexcheck",
+    "description": "Data Insights",
+    "url": "https://dexcheck.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 623,
+    "name": "yotto",
+    "description": "Yotto Web3",
+    "url": "https://getyotto.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 624,
+    "name": "autobtc-ai",
+    "description": "AutoBTC",
+    "url": "https://autobtc.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 625,
+    "name": "thentic",
+    "description": "Thentic",
+    "url": "https://thentic.tech",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 626,
+    "name": "typography-ai-v2-0",
+    "description": "TypoGraphy AI",
+    "url": "https://app.typography.vip",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 627,
+    "name": "wallchain-beta",
+    "description": "Wallchain",
+    "url": "https://chromewebstore.google.com/detail/wallchain-beta/pmncocnjgifgcpjhcajakdblinimcmjo",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 628,
+    "name": "bytehunter",
+    "description": "Web3 Security Plugin",
+    "url": "https://chromewebstore.google.com/detail/bytehunter/kidhkonioajdkjglffdlojnnlpdbeeol",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 629,
+    "name": "blockdefend-ai",
+    "description": "BlockDefend AI",
+    "url": "https://chromewebstore.google.com/detail/blockdefend-ai/fbagodkhmijolnmjchkicejilapmaeib",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 630,
+    "name": "律动blockbeats-search-区块链新闻助手-crypto-区块链-ai-web-3-0",
+    "description": "BlockBeats Search",
+    "url": "https://chromewebstore.google.com/detail/律动blockbeats-search-区块链新闻/fkkcnnnmnkdfggpnlinkkglechfaaeoh",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 631,
+    "name": "astra-vision",
+    "description": "AstraAI Vision",
+    "url": "https://chromewebstore.google.com/detail/astra-vision/iibopihdfdknpelkknbflonbnhmehbkh",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 632,
+    "name": "aie-labs",
+    "description": "AIE Labs",
+    "url": "https://aielabs.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 633,
+    "name": "tokenguide",
+    "description": "TokenGuide Security",
+    "url": "https://tokenguide.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 634,
+    "name": "kapsul",
+    "description": "Kapsul",
+    "url": "https://kapsul.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 635,
+    "name": "opticonomy",
+    "description": "Opticonomy",
+    "url": "https://opticonomy.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 636,
+    "name": "lawyer-for-startups-solopreneurs-devops",
+    "description": "Legal99",
+    "url": "https://99legal.xyz",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 637,
+    "name": "layla-network-ai",
+    "description": "Layla Network AI",
+    "url": "https://www.layla.network",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 638,
+    "name": "inflectiv-ai",
+    "description": "Inflectiv.ai",
+    "url": "https://inflectiv.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 639,
+    "name": "codehound",
+    "description": "CyberSanctus",
+    "url": "https://cybersanctus.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 640,
+    "name": "chaingpt",
+    "description": "ChainGPT",
+    "url": "https://www.ChainGPT.org",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 641,
+    "name": "quickintel-io",
+    "description": "Quick Intel",
+    "url": "https://quickintel.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 642,
+    "name": "cortexlabs-ai",
+    "description": "Cortex Labs",
+    "url": "https://cortexlabs.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 643,
+    "name": "octavia-ai",
+    "description": "Octavia - Your crypto AI Assistant",
+    "url": "https://octavia.one",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 644,
+    "name": "cryptodo",
+    "description": "CryptoDo",
+    "url": "https://cryptodo.app",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 645,
+    "name": "assetlink",
+    "description": "AssetLink",
+    "url": "https://assetlink.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 646,
+    "name": "beepo",
+    "description": "Beepo App",
+    "url": "https://beepoapp.net",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 647,
+    "name": "indicia-labs-platform",
+    "description": "Indicia Labs",
+    "url": "https://www.indicia.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 648,
+    "name": "credit-chip",
+    "description": "Mobile Credits",
+    "url": "https://mobilecredits.app",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 649,
+    "name": "ircopilot",
+    "description": "IR Copilot",
+    "url": "https://www.ircopilot.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 650,
+    "name": "blynkkr",
+    "description": "Blynkkr - Your Decentralized Identity, Powered by AI",
+    "url": "https://blynkkr.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 651,
+    "name": "smarttrust-io",
+    "description": "ChainAware.ai",
+    "url": "https://smarttrust.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 652,
+    "name": "rosywhale",
+    "description": "RosyWhale",
+    "url": "https://www.rosywhale.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 653,
+    "name": "degen-den",
+    "description": "AI, Blockchain & Crypto Learning",
+    "url": "https://degenden.live",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 654,
+    "name": "smartpress-ai",
+    "description": "SmartPress - AI",
+    "url": "https://smartpress.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 655,
+    "name": "crypto-tide-price-prediction-algorithm",
+    "description": "Crypto Tide",
+    "url": "https://cryptotide.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 656,
+    "name": "coinfeeds",
+    "description": "Coinfeeds",
+    "url": "https://www.coinfeeds.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 657,
+    "name": "mayham-pay",
+    "description": "MAYHAM",
+    "url": "https://mayhampay.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 658,
+    "name": "chainrel",
+    "description": "Chainrel",
+    "url": "https://chainrel.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 659,
+    "name": "blockfence",
+    "description": "Blockfence Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 660,
+    "name": "tensorscan-ai",
+    "description": "TensorScan",
+    "url": "https://chromewebstore.google.com/detail/tensorscan-ai/epddphbihamnmmficgdpkimbfbhahdfk",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 661,
+    "name": "echooo-wallet",
+    "description": "Echooo",
+    "url": "https://chromewebstore.google.com/detail/echooo-wallet/lcmncloheoekhbmljjlhdlaobkedjbgd",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 662,
+    "name": "easysushii",
+    "description": "EasySushi",
+    "url": "https://easysushii.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 663,
+    "name": "trade-vector-ai",
+    "description": "Trade Vector AI",
+    "url": "https://tradevector-ai.com/base",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 664,
+    "name": "stable-capital-pro",
+    "description": "Stable capital pro",
+    "url": "https://stable-capitalpro.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 665,
+    "name": "heyelsa",
+    "description": "Elsa AI Crypto Copilot",
+    "url": "https://www.heyelsa.ai",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 666,
+    "name": "swaap-v2",
+    "description": "Swaap v2",
+    "url": "https://www.swaap.finance",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 667,
+    "name": "gearchain",
+    "description": "GearChain",
+    "url": "https://gearchain.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 668,
+    "name": "alvatix",
+    "description": "Alvatix",
+    "url": "https://www.alvatix.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 669,
+    "name": "nevermined",
+    "description": "Nevermined",
+    "url": "https://nevermined.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 670,
+    "name": "to-the-moon",
+    "description": "Zesh - AI-driven SocialFi",
+    "url": "https://zesh.io",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 671,
+    "name": "ethercto",
+    "description": "EtherCTO",
+    "url": "https://ethercto.com",
+    "category": "Business",
+    "tags": [
+      "blockchain"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 672,
+    "name": "namehassle",
+    "description": "NameHassle",
+    "url": "https://namehassle.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 673,
+    "name": "namy-ai",
+    "description": "Namy.ai",
+    "url": "https://namy.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 674,
+    "name": "onlycoms-com",
+    "description": "Onlycoms.com",
+    "url": "https://onlycoms.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 675,
+    "name": "tweetstorm-ai",
+    "description": "TweetStorm.ai - AI-powered Tweet Generator",
+    "url": "https://www.tweetstorm.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 676,
+    "name": "rocketpages",
+    "description": "RocketPages",
+    "url": "https://rocketpages.io",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 677,
+    "name": "comsensei",
+    "description": "COMSENSEI",
+    "url": "https://comsensei.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 678,
+    "name": "justcms",
+    "description": "JustCMS",
+    "url": "https://justcms.co",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 679,
+    "name": "domainchamp-com",
+    "description": "Domainchamp",
+    "url": "https://domainchamp.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 680,
+    "name": "name-brewery",
+    "description": "Name Brewery",
+    "url": "https://namebrewery.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 681,
+    "name": "unlock-domain",
+    "description": "Unlock.domains",
+    "url": "https://unlock.domains",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 682,
+    "name": "paazaa-is-a-smart-website-builder",
+    "description": "Paazaa",
+    "url": "https://paazaa.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 683,
+    "name": "techy-domains",
+    "description": "Techy Domains",
+    "url": "https://techy.domains",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 684,
+    "name": "idomains",
+    "description": "IDomain",
+    "url": "https://idomains.dev",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 685,
+    "name": "dotcombuddy",
+    "description": "DotComBuddy",
+    "url": "https://dotcombuddy.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 686,
+    "name": "ai-domain-gpt",
+    "description": "Multilanguage AI Domain Name Generator",
+    "url": "https://aidomaingpt.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 687,
+    "name": "free-aidomain-generator-brandable-domains",
+    "description": "AIDomain Name Generator",
+    "url": "https://chromewebstore.google.com/detail/free-aidomain-generator-b/ldgenemlgcogdjilnfipjncdlmmohlpp",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 688,
+    "name": "textpolite-ai",
+    "description": "TextPolite AI",
+    "url": "https://textpolite.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 689,
+    "name": "domain-crafter",
+    "description": "Domain Crafter",
+    "url": "https://domaincrafter.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 690,
+    "name": "fast-domain",
+    "description": "Fast Domain",
+    "url": "https://fast-doma.in",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 691,
+    "name": "domain-detective-domain-generator-and-expired-domains-hunter",
+    "description": "Domain Detective",
+    "url": "https://chromewebstore.google.com/detail/domain-detective-domain-g/idjoeibbbkgpjlffenlkbdilnmmdmggg",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 692,
+    "name": "indomain",
+    "description": "inDomain",
+    "url": "https://www.indomain.co",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 693,
+    "name": "near-domain",
+    "description": "Near Domain",
+    "url": "https://neardomain.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 694,
+    "name": "nametly",
+    "description": "Nametly",
+    "url": "https://nametly.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 695,
+    "name": "domainsnap-perfect-domain-name-finder",
+    "description": "DomainSnap",
+    "url": "https://domainsnap.net",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 696,
+    "name": "ai-name-genius",
+    "description": "AI Name Genius",
+    "url": "https://ainamegenius.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 697,
+    "name": "enterbox",
+    "description": "Enterbox",
+    "url": "https://www.enterbox.app",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 698,
+    "name": "ai-copilot",
+    "description": "Yaseen AI",
+    "url": "https://aicopilot.lol",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 699,
+    "name": "brandbolt",
+    "description": "BrandBolt",
+    "url": "https://BrandBolt.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 700,
+    "name": "aicallagent",
+    "description": "AICallAgent",
+    "url": "http://aicallagent.me",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 701,
+    "name": "domscan-domain-availability-checker-for-chatgpt-claude-etc",
+    "description": "Domscan",
+    "url": "https://chromewebstore.google.com/detail/domscan-domain-availabili/keeldbgannaofonkplcppccnmjfphcgb",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 702,
+    "name": "brandsnap-ai",
+    "description": "BrandSnap.ai",
+    "url": "https://brandsnap.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 703,
+    "name": "meq",
+    "description": "MEQ+",
+    "url": "https://meqplus.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 704,
+    "name": "my-ai-domain",
+    "description": "AI-Powered Domain Names",
+    "url": "https://myaidomain.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 705,
+    "name": "domainwoohoo",
+    "description": "DomainWoohoo | AI Domain Name Finder",
+    "url": "https://www.domainwoohoo.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 706,
+    "name": "your-ai-wingman",
+    "description": "Your AI Wingman",
+    "url": "https://www.your-ai-wingman.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 707,
+    "name": "rticolo",
+    "description": "Rticolo",
+    "url": "https://rticolo.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 708,
+    "name": "usable-names",
+    "description": "UsableNames.com",
+    "url": "https://www.usablenames.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 709,
+    "name": "verb-art",
+    "description": "Visualize",
+    "url": "https://verb.art",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 710,
+    "name": "scott-ai",
+    "description": "CustomerReply",
+    "url": "https://getscott.io",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 711,
+    "name": "domains-by-ai",
+    "description": "Domains By Ai",
+    "url": "https://www.domainsby.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 712,
+    "name": "namewizard",
+    "description": "NameWizard",
+    "url": "https://namewizardai.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 713,
+    "name": "expiredai",
+    "description": "ExpiredAI",
+    "url": "https://expiredai.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 714,
+    "name": "attrix-ai",
+    "description": "Attrix.ai",
+    "url": "https://attrix.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 715,
+    "name": "2pods",
+    "description": "2pods",
+    "url": "https://www.2pods.net",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 716,
+    "name": "aidomainideas",
+    "description": "AIDomainIdeas",
+    "url": "https://aidomainideas.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 717,
+    "name": "namewizard-ai",
+    "description": "namewizard.ai",
+    "url": "https://namewizard.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 718,
+    "name": "domainhuntai",
+    "description": "domainhuntai",
+    "url": "https://www.domainhuntai.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 719,
+    "name": "diode",
+    "description": "Diode",
+    "url": "https://diode.live",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 720,
+    "name": "winnerai",
+    "description": "WinnerAI",
+    "url": "https://winnerai.net",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 721,
+    "name": "finddomain-ai",
+    "description": "FindDomain.AI",
+    "url": "https://finddomain.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 722,
+    "name": "dropped-hub",
+    "description": "DroppedHub",
+    "url": "https://droppedhub.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 723,
+    "name": "name-fighters",
+    "description": "NameFighters",
+    "url": "https://www.namefighters.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 724,
+    "name": "namebeta",
+    "description": "NameBeta",
+    "url": "https://namebeta.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 725,
+    "name": "brandix-ai",
+    "description": "Brandix",
+    "url": "https://brandix.ai",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 726,
+    "name": "louply-ai-assistant",
+    "description": "Louply",
+    "url": "https://www.louply.io",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 727,
+    "name": "backdoms-com",
+    "description": "Backdoms.com",
+    "url": "https://backdoms.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 728,
+    "name": "smartbrandly",
+    "description": "SmartBrandly",
+    "url": "https://smartbrandly.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 729,
+    "name": "namefi",
+    "description": "Namefi",
+    "url": "https://www.namefi.io",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 730,
+    "name": "naming-magic",
+    "description": "Naming Magic",
+    "url": "https://www.namingmagic.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 731,
+    "name": "namingram",
+    "description": "Namingram",
+    "url": "https://namingram.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 732,
+    "name": "tradingview-scripter",
+    "description": "Backtesting Power",
+    "url": "https://tradingview-scripter.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 733,
+    "name": "eaziebuy",
+    "description": "EazieBuy",
+    "url": "https://www.eaziebuy.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 734,
+    "name": "saas-name-generator",
+    "description": "SaaS Name Generator",
+    "url": "https://saasnamegenerator.com",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 735,
+    "name": "ai-domain",
+    "description": "Aidomain",
+    "url": "https://aidomain.online",
+    "category": "Business",
+    "tags": [
+      "ai-domain-name-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 736,
+    "name": "vmake-ai",
+    "description": "Vmake AI",
+    "url": "https://vmake.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 737,
+    "name": "storebuild-ai",
+    "description": "Storebuild.ai",
+    "url": "https://storebuild.ai/toolify-ai/",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 738,
+    "name": "adminer-pro",
+    "description": "Adminer",
+    "url": "https://adminer.pro",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 739,
+    "name": "ai-agent-store",
+    "description": "AI Agent Store",
+    "url": "https://aiagentstore.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 740,
+    "name": "shoonya-ai",
+    "description": "Shoonya",
+    "url": "https://www.shoonya.computer",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 741,
+    "name": "ai-video-cut",
+    "description": "AI Video Cut",
+    "url": "https://www.aivideocut.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 742,
+    "name": "ugc-ads-ai",
+    "description": "UGC Ads AI",
+    "url": "https://ugcads.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 743,
+    "name": "boltic",
+    "description": "Boltic",
+    "url": "https://boltic.io",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 744,
+    "name": "aogen",
+    "description": "aoGen",
+    "url": "https://aogen.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 745,
+    "name": "metric-tech",
+    "description": "Metric.Tech",
+    "url": "https://www.metric.tech",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 746,
+    "name": "adwisely-com",
+    "description": "Adwisely",
+    "url": "https://adwisely.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 747,
+    "name": "vanchat",
+    "description": "Vanchat",
+    "url": "https://vanchat.io",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 748,
+    "name": "adspolar",
+    "description": "AdsPolar",
+    "url": "https://adspolar.com/en",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 749,
+    "name": "enalito-2-0",
+    "description": "Enalito - A better Marketing Experience for your eCommerce business",
+    "url": "https://enalito.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 750,
+    "name": "zolak",
+    "description": "Zolak",
+    "url": "https://zolak.tech",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 751,
+    "name": "zegashop",
+    "description": "Zegashop",
+    "url": "https://www.zegashop.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 752,
+    "name": "wthere",
+    "description": "WeThere",
+    "url": "https://wthere.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 753,
+    "name": "aeon-ai-assisted-video-production",
+    "description": "Aeon",
+    "url": "https://project-aeon.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 754,
+    "name": "sellraze",
+    "description": "SellRaze",
+    "url": "https://sellraze.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 755,
+    "name": "loop54-com",
+    "description": "Loop54",
+    "url": "https://loop54.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 756,
+    "name": "getwiser-ai",
+    "description": "Wiser Shopify App",
+    "url": "https://getwiser.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 757,
+    "name": "booleanmaths-pulse",
+    "description": "Boolean Maths",
+    "url": "https://booleanmaths.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 758,
+    "name": "genie",
+    "description": "Genie",
+    "url": "https://genie.io",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 759,
+    "name": "brightflow-ai",
+    "description": "Brightflow AI",
+    "url": "https://brightflow.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 760,
+    "name": "potions",
+    "description": "Potions",
+    "url": "https://get-potions.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 761,
+    "name": "convictional-com",
+    "description": "Convictional",
+    "url": "https://convictional.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 762,
+    "name": "caseo-ai",
+    "description": "Caseo.ai",
+    "url": "https://caseo.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 763,
+    "name": "provamoda",
+    "description": "Provamoda",
+    "url": "https://provamoda.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 764,
+    "name": "shopeasy-ai",
+    "description": "Shopeasy",
+    "url": "https://shopeasy.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 765,
+    "name": "pokee-ai-all-in-one-ecommerce-ai-agent",
+    "description": "Pokee AI",
+    "url": "https://pokee.ai/verticals/e-commerce",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 766,
+    "name": "depopaid",
+    "description": "DepopAid",
+    "url": "https://depopaid.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 767,
+    "name": "buyscout-1",
+    "description": "BuyScout™",
+    "url": "https://www.buyscout.app",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 768,
+    "name": "convosearch",
+    "description": "ConvoSearch",
+    "url": "https://www.convosearch.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 769,
+    "name": "jsrates-custom-shipping-rates",
+    "description": "JsRates",
+    "url": "https://jsrates.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 770,
+    "name": "xbuilder-ai",
+    "description": "xBuilder.ai",
+    "url": "https://xbuilder.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 771,
+    "name": "sellesta-com",
+    "description": "Sellesta",
+    "url": "https://sellesta.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 772,
+    "name": "cloud-store-ai-smart-shopping-api",
+    "description": "Cloud Store",
+    "url": "https://www.nubestore.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 773,
+    "name": "product-fetcher",
+    "description": "Product Fetcher",
+    "url": "https://product-fetcher.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 774,
+    "name": "roach-ai",
+    "description": "Roach",
+    "url": "https://roach.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 775,
+    "name": "ugc-ads",
+    "description": "UGC Ads",
+    "url": "https://www.ugcads.io",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 776,
+    "name": "response-cx",
+    "description": "ReSponse CX",
+    "url": "https://response.cx",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 777,
+    "name": "ai-customer-support-chatbot",
+    "description": "AI247Bot",
+    "url": "https://www.ai247bot.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 778,
+    "name": "letsroll-ai",
+    "description": "Letsroll.ai",
+    "url": "https://letsroll.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 779,
+    "name": "productify-ai",
+    "description": "Productify.ai",
+    "url": "https://productify.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 780,
+    "name": "viewon-ai",
+    "description": "ViewOn.Ai",
+    "url": "https://viewon.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 781,
+    "name": "describa",
+    "description": "Describa",
+    "url": "https://describa.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 782,
+    "name": "crowise-ai",
+    "description": "CROwise",
+    "url": "https://crowise.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 783,
+    "name": "lixsa-ai",
+    "description": "Lixsa.ai",
+    "url": "https://lixsa.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 784,
+    "name": "firecrawl",
+    "description": "FireScrap",
+    "url": "https://firecrawl.site",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 785,
+    "name": "uniqin-ai",
+    "description": "UniQin",
+    "url": "https://uniqin.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 786,
+    "name": "skutrue",
+    "description": "SkuTrue",
+    "url": "https://skutrue.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 787,
+    "name": "giftcoach",
+    "description": "Giftcoach",
+    "url": "https://giftcoa.ch",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 788,
+    "name": "viral-magic-ai",
+    "description": "Viral Magic Ai",
+    "url": "https://viralmagic.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 789,
+    "name": "chatblu",
+    "description": "ChatBlu",
+    "url": "https://chatblu.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 790,
+    "name": "ai-store-manager",
+    "description": "AI Store Manager",
+    "url": "https://aistoremanager.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 791,
+    "name": "promptoprint",
+    "description": "PrompToPrint - AI-Designed T-shirts",
+    "url": "https://www.promptoprint.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 792,
+    "name": "linkfox",
+    "description": "LinkFox",
+    "url": "https://chromewebstore.google.com/detail/linkfox/jlmkillmemkjkinffglnffekacoogndm",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 793,
+    "name": "storelauncher-free-ai-powered-shopify-store-builder",
+    "description": "StoreLauncher - Free AI Powered Shopify Store Builder",
+    "url": "https://storelauncher.app",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 794,
+    "name": "salesbot-co",
+    "description": "Salesbot",
+    "url": "https://salesbot.co",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 795,
+    "name": "promediafy",
+    "description": "ProMediafy",
+    "url": "https://promediafy.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 796,
+    "name": "dropship-ecommerce-spypro-the-best-free-adspy-tools-products-reseach",
+    "description": "Dropship SpyPro",
+    "url": "https://chromewebstore.google.com/detail/dropship-ecommerce-spypro/achijecdaokoahclipncimpjnanpjbpe",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 797,
+    "name": "speek-ai",
+    "description": "Speek",
+    "url": "https://www.speekhq.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 798,
+    "name": "doc2cart",
+    "description": "Doc2cart",
+    "url": "https://doc2cart.com",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 799,
+    "name": "cartfuls",
+    "description": "Cartfuls",
+    "url": "https://cartfuls.io",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 800,
+    "name": "vaivr",
+    "description": "VAIVR",
+    "url": "https://vaivr.ai",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 801,
+    "name": "hi-chat-assistant",
+    "description": "Hi Chat Assistant",
+    "url": "https://hichat.com.ar",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 802,
+    "name": "scribfy",
+    "description": "Scribfy",
+    "url": "https://www.scribfy.app",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 803,
+    "name": "embed-chat",
+    "description": "EmbedChat",
+    "url": "https://embedchat.app",
+    "category": "Business",
+    "tags": [
+      "e-commerce-assistant"
+    ],
+    "create_date": "2025-03-23"
+  }
+]

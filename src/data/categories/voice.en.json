@@ -1,28 +1,6921 @@
 [
   {
-    "id": 13,
-    "name": "Murf.ai",
-    "description": "AI voice generator that creates studio-quality voiceovers in realistic voices.",
-    "url": "https://murf.ai/",
-    "image": "src/assets/images/tools/murfai.png",
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "Voice",
     "tags": [
-      "Voice Generation",
-      "Text-to-Speech",
-      "Voiceover"
+      "ai-audio-enhancer"
     ],
-    "create_date": "2025-03-16"
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "riffusion",
+    "description": "Riffusion",
+    "url": "https://www.riffusion.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "loudly-ai-music-generator",
+    "description": "Loudly AI Music Generator",
+    "url": "https://www.loudly.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "modelslab",
+    "description": "ModelsLab",
+    "url": "https://modelslab.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "audio-ai-dynamics",
+    "description": "Audio AI Dynamics - AAID",
+    "url": "https://audioaidynamics.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "splitter-ai",
+    "description": "Splitter.ai",
+    "url": "https://splitter.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "listen-monster",
+    "description": "ListenMonster",
+    "url": "https://listenmonster.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "diktatorial-suite",
+    "description": "DIKTATORIAL",
+    "url": "https://diktatorial.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "extendmusic-ai",
+    "description": "ExtendMusic.AI",
+    "url": "https://www.extendmusic.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "audiomuse",
+    "description": "AudioMuse",
+    "url": "https://audiomuse.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "audio-strip",
+    "description": "AudioStrip",
+    "url": "https://www.audiostrip.co.uk",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "gensfx",
+    "description": "GenSFX",
+    "url": "https://gensfx.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "sound-effect-generator",
+    "description": "Sound Effect Generator",
+    "url": "https://soundeffectgenerator.org",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "alphy",
+    "description": "Alphy",
+    "url": "https://alphy.app",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "audiogest-app",
+    "description": "Audiogest",
+    "url": "https://audiogest.app",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "stems-st-02",
+    "description": "Stems",
+    "url": "https://stems.app",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "alexaudiobutler-com",
+    "description": "End Boost",
+    "url": "https://alexaudiobutler.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "tuneflow",
+    "description": "TuneFlow - Intelligent Music Making Platform, Powered by AI",
+    "url": "https://tuneflow.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "novels-ai",
+    "description": "Novels AI",
+    "url": "https://novels-ai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "audiobriefs",
+    "description": "AudioBriefs",
+    "url": "https://www.audiobriefs.app",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "allinpod",
+    "description": "Allinpod.ai",
+    "url": "https://allinpod.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "mastermallow",
+    "description": "Mastermallow",
+    "url": "https://mastermallow.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 25,
-    "name": "Eleven Labs",
-    "description": "AI voice technology that generates realistic and expressive voice clones.",
-    "url": "https://elevenlabs.io/",
-    "image": "src/assets/images/tools/elevenlabs.png",
+    "name": "leelo-ai",
+    "description": "Leelo: AI-powered Text-to-Speech Tool for Your Business",
+    "url": "http://leelo-ai.com",
+    "category": "Voice",
     "tags": [
-      "Voice Generation",
-      "Voice Cloning",
-      "Text-to-Speech"
+      "ai-audio-enhancer"
     ],
-    "create_date": "2025-03-16"
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "speechki-chatgpt-plugin-anything-audio",
+    "description": "Speechki ChatGPT Plugin",
+    "url": "https://speechki.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "xsaudio",
+    "description": "EZClone",
+    "url": "https://XSAUDIO.PRO",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "article-audio",
+    "description": "Article.Audio",
+    "url": "https://article.audio",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "databass-ai",
+    "description": "Databass AI",
+    "url": "https://www.databass.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "audioninja",
+    "description": "AudioNinja",
+    "url": "https://theaudioninja.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "translatio-ai",
+    "description": "Translatio.AI",
+    "url": "https://translatioai.net",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "echoscribe",
+    "description": "EchoScribe",
+    "url": "https://echoscribe.xyz",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "lyrist",
+    "description": "Lyrist",
+    "url": "https://lyrist.app",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "splitsong-com",
+    "description": "SplitSong",
+    "url": "https://www.splitsong.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "ioaudio",
+    "description": "ioAudio",
+    "url": "https://ioaudio.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "masterednow",
+    "description": "MasteredNow",
+    "url": "https://masterednow.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "audibles",
+    "description": "Audibles",
+    "url": "https://audibles.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "cozyeq",
+    "description": "CozyEQ",
+    "url": "https://chromewebstore.google.com/detail/cozyeq/oahdihianbigojpobnkhmihiejnjpdch",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "vertate",
+    "description": "Vertate",
+    "url": "https://vertate.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "musajjel-inc",
+    "description": "Musajjel",
+    "url": "https://www.musajjel.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "videovoice",
+    "description": "VideoVoice",
+    "url": "https://app.aipodcast.ing/content/processing/audio-cleanup",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "hitpaw-video-enhancer",
+    "description": "HitPaw Video Enhancer",
+    "url": "https://www.hitpaw.com/hitpaw-video-enhancer.html",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "hitpaw-com",
+    "description": "HitPaw Official",
+    "url": "https://hitpaw.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "moises",
+    "description": "Moises App",
+    "url": "https://moises.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "cleanvoice-ai",
+    "description": "Cleanvoice AI",
+    "url": "https://cleanvoice.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "dubbing-ai",
+    "description": "Dubbing AI",
+    "url": "https://dubbingai.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "crikk",
+    "description": "Crikk - Text To Speech",
+    "url": "https://crikk.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "music-ai",
+    "description": "Music.AI",
+    "url": "https://music.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "videotube",
+    "description": "VideoTube",
+    "url": "https://videotube.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "stable-audio",
+    "description": "Stable Audio",
+    "url": "https://stableaudio.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "mmaudio",
+    "description": "MMAudio",
+    "url": "https://mmaudio.net",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "xound-io",
+    "description": "Xound.io",
+    "url": "https://xound.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "audioshake",
+    "description": "Stem Distribution",
+    "url": "https://indie.audioshake.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "audiobot",
+    "description": "AudioBot",
+    "url": "https://audio-bot.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "hance-ai-audio-enhancement",
+    "description": "Hance.ai",
+    "url": "https://hance.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "voqul-io",
+    "description": "Voqul",
+    "url": "https://voqul.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "koolio-ai",
+    "description": "koolio.ai",
+    "url": "https://www.koolio.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "getsound",
+    "description": "GetSound.ai",
+    "url": "https://www.getsound.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "speechki-org",
+    "description": "Speechki",
+    "url": "https://speechki.org",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "clone-anyone-s-voice-in-seconds-with-ai",
+    "description": "clonemyvoice.io",
+    "url": "https://clonemyvoice.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "audiogen",
+    "description": "Audiogen",
+    "url": "https://www.audiogen.co",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "text2audio",
+    "description": "Text2Audio",
+    "url": "https://text2audio.cc",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "read-this-ai",
+    "description": "Read-this.ai",
+    "url": "https://read-this.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "clonedub",
+    "description": "CloneDub",
+    "url": "https://www.clonedub.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "muzify-ai",
+    "description": "Muzify",
+    "url": "https://muzify.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "oneaudio-ai",
+    "description": "OneAudio",
+    "url": "https://oneaudio.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "ai-music-sampler",
+    "description": "AI Music Sampler",
+    "url": "https://www.aimusicsampler.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "the-new-endel-for-mac",
+    "description": "Productivity Tool",
+    "url": "https://apps.apple.com/us/app/endel-focus-sleep-relax/id1346247457",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "speechkit",
+    "description": "BeyondWords",
+    "url": "http://www.speechkit.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "heardthat",
+    "description": "HeardThat",
+    "url": "https://heardthatapp.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "fix-subs-ai-powered-youtube-subtitle",
+    "description": "Fix Subs",
+    "url": "https://fixsubs.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "audioverflow",
+    "description": "AudiOverFlow",
+    "url": "https://www.audioverflow.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "avbeam",
+    "description": "AVbeam",
+    "url": "https://avbeam.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "bara-platform",
+    "description": "Bara",
+    "url": "https://bara.so",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "aurk",
+    "description": "Aurk",
+    "url": "https://www.aurkai.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "wondera",
+    "description": "Wondera",
+    "url": "https://www.wondera.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "audeo-ai-audio-stem-splitter-audio-enhancer",
+    "description": "audeo.ai",
+    "url": "https://chromewebstore.google.com/detail/audeo-ai-audio-stem-split/ckikoghlogdgajmdephliodnmeioccjd",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "stable-audio-open",
+    "description": "Stable Audio Open",
+    "url": "https://stable-audio-open.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "adobe-podcast",
+    "description": "Adobe Podcast",
+    "url": "https://podcast.adobe.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "hitpaw-photo-ai",
+    "description": "HitPaw Photo AI",
+    "url": "https://www.hitpaw.com/photo-ai.html",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "landr",
+    "description": "LANDR: Creative Tools for Musicians",
+    "url": "https://www.landr.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "loudly-com",
+    "description": "Loudly",
+    "url": "https://loudly.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "upscalepics",
+    "description": "Upscalepics",
+    "url": "https://upscalepics.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "scriptme",
+    "description": "ScriptMe",
+    "url": "https://scriptme.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "texttovoice-online",
+    "description": "Online Text to Speech with Emotions",
+    "url": "https://www.texttovoice.online",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "detangleai",
+    "description": "Detangle",
+    "url": "https://detangle.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "auidie-ai",
+    "description": "AuthorsVoice.AI",
+    "url": "https://audie.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "voicepen-ai",
+    "description": "VoicePen",
+    "url": "https://voicepen.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "audiopod-ai",
+    "description": "AudioPod AI",
+    "url": "https://www.audiopod.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "squawk-market",
+    "description": "Squawk Market",
+    "url": "https://squawk-market.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "decrackle-playground-apis",
+    "description": "Decrackle",
+    "url": "https://decrackle.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "Voice",
+    "tags": [
+      "ai-audio-enhancer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "udio-ai-make-your-music",
+    "description": "Udio",
+    "url": "https://www.udio.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "suno-ai",
+    "description": "Suno AI",
+    "url": "https://suno.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "soundraw",
+    "description": "SOUNDRAW - AI Music Generator",
+    "url": "https://soundraw.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "make-best-music",
+    "description": "MakeBestMusic",
+    "url": "https://makebestmusic.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "suno-music-generator",
+    "description": "Suno AI Music Free Online",
+    "url": "https://aimusic.so",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "suno-music-downloader",
+    "description": "Suno Downloader",
+    "url": "https://www.sunodownloader.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "musicfy",
+    "description": "Musicfy",
+    "url": "https://musicfy.lol",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "songgenerator-io-ai-music-generator-free-online",
+    "description": "SongGenerator.io: AI Music Generator Free Online",
+    "url": "https://songgenerator.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "aiva",
+    "description": "AIVA - The AI composing emotional soundtrack music",
+    "url": "https://www.aiva.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "brev-ai-ai-music-generator-free-online",
+    "description": "Brev.ai: AI Music Generator Free Online",
+    "url": "https://brev.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "beatoven-ai",
+    "description": "Beatoven.ai",
+    "url": "https://www.beatoven.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "boomy",
+    "description": "Boomy",
+    "url": "https://boomy.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "aimusicgen",
+    "description": "AI Music Generator",
+    "url": "https://aimusicgen.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "song-do",
+    "description": "Song.do",
+    "url": "https://song.do",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "soundful",
+    "description": "Soundful",
+    "url": "https://soundful.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "free-ai-song-generator-ai-song-ai",
+    "description": "Free AI Song Generator - AI-Song.AI",
+    "url": "https://ai-song.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "free-ai-song-generator",
+    "description": "Free AI Song Generator",
+    "url": "https://aisonggenerator.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "free-ai-music-generator-by-sunoai",
+    "description": "SunoAI",
+    "url": "https://sunoai.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "sunoai",
+    "description": "SunoAI Music Generator",
+    "url": "https://sunoai.ai/sunoai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "sunocc-ai",
+    "description": "SunoCC.com",
+    "url": "https://sunocc.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "musicmuse",
+    "description": "MusicMuse",
+    "url": "https://www.musicmuse.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "ai-music-free",
+    "description": "AI Music (Free)",
+    "url": "https://aimusiclab.co",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "tempolor",
+    "description": "TemPolor",
+    "url": "https://www.tempolor.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "tad-ai",
+    "description": "Tad AI",
+    "url": "https://tad.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "songmeaning-ai",
+    "description": "Songmeaning AI",
+    "url": "https://www.songmeaning.io/ja",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "suno-ai-music",
+    "description": "Suno AI Music",
+    "url": "https://sunoai-music.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "music-prompt-generator",
+    "description": "Suno AI Music Prompt Generator",
+    "url": "https://sunoprompt.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "musick-ai",
+    "description": "Musick AI",
+    "url": "https://musick.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "animate-ai",
+    "description": "AnimateAI",
+    "url": "https://animateai.pro",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "similar-songs-finder",
+    "description": "Similar Songs Finder",
+    "url": "https://www.similarsongsfinder.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "createthat",
+    "description": "Createthat.ai",
+    "url": "https://www.createthat.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "songr",
+    "description": "SongR",
+    "url": "https://www.songr.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "music-ai-1",
+    "description": "MusicAI",
+    "url": "https://aimusic.fm",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "playlistai",
+    "description": "PlaylistAI",
+    "url": "https://www.playlistai.app",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "ai-music-generator",
+    "description": "AI Music Generator",
+    "url": "https://musicgeneratorai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "splashmusic",
+    "description": "Splash",
+    "url": "https://www.splashmusic.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "sprunki-pyramixed",
+    "description": "Sprunki Pyramixed",
+    "url": "https://pyramixed.net",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "melohunt",
+    "description": "MeloHunt",
+    "url": "https://melohunt.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "base-for-music",
+    "description": "Base for Music",
+    "url": "https://www.baseformusic.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "cassetteai",
+    "description": "CassetteAI",
+    "url": "https://cassetteai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "suno-top",
+    "description": "Suno-Top",
+    "url": "https://suno-top.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "chord-identifier",
+    "description": "Chord Identifier",
+    "url": "https://chordidentifier.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "flowtunes",
+    "description": "FlowTunes",
+    "url": "https://www.flowtunes.app",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "vocalremover-co",
+    "description": "VocalRemover.co",
+    "url": "https://vocalremover.co",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "midigen-melody-generator",
+    "description": "MIDIGEN",
+    "url": "https://midigen.app",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "beatbot",
+    "description": "BeatBot",
+    "url": "https://www.beatbot.fm",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "hydra-by-rightsify",
+    "description": "Hydra - Advanced AI Music Generation from Rightsify",
+    "url": "https://rightsify.com/hydra",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "hypelist",
+    "description": "Hypelist",
+    "url": "https://hypelist.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "soundify",
+    "description": "Soundify",
+    "url": "https://soundifytext.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "musicstar-ai",
+    "description": "MusicStar.AI",
+    "url": "https://musicstar.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "udio-ai",
+    "description": "UdioAI.ai",
+    "url": "https://udioai.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "story321-music-ai",
+    "description": "Story321 Music AI",
+    "url": "https://story321.com/music",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "harmonai",
+    "description": "Harmonai",
+    "url": "https://www.harmonai.org",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "zona-ai-song-music-generator-app",
+    "description": "Zona: AI Song & Music Generator",
+    "url": "https://zona.app-vision.co",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "generatesong-ai",
+    "description": "GenerateSong AI",
+    "url": "https://generatesongai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "suno-all-in-one",
+    "description": "Suno Everything",
+    "url": "https://suno.works",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "audoir-com",
+    "description": "AUDOIR",
+    "url": "https://audoir.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "ai-song-maker",
+    "description": "AI Song Maker",
+    "url": "https://www.aisongmaker.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "suno-ai-free",
+    "description": "Suno AI Free",
+    "url": "https://sunoaifree.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "moodset",
+    "description": "Moodset",
+    "url": "https://moodset.life",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "hello-wonder",
+    "description": "Hello Wonder",
+    "url": "https://hellowonder.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "melodio-ai",
+    "description": "Melodio AI",
+    "url": "https://melodio.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "moodplaylist-ai-powered-playlists",
+    "description": "Moodplaylist - AI Powered Playlists",
+    "url": "https://moodplaylist.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "songcleaner",
+    "description": "SongCleaner",
+    "url": "https://songcleaner.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "united-market-music",
+    "description": "United Market",
+    "url": "https://unitedmarket.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "songburst",
+    "description": "Songburst",
+    "url": "https://www.songburst.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "musixy-ai",
+    "description": "Musixy.ai",
+    "url": "https://musixy.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "beatbuzz",
+    "description": "BeatBuzz",
+    "url": "https://beatbuzz.io",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "izsit",
+    "description": "Izsit",
+    "url": "https://www.izsit.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "artificial-intelligence-radio",
+    "description": "Artificial Intelligence Radio",
+    "url": "https://artificialintelligenceradio.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "text-to-music-app",
+    "description": "Text to Music",
+    "url": "https://www.texttomusic.app",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "natural-language-playlist",
+    "description": "Natural Language Playlist",
+    "url": "https://www.naturallanguageplaylist.com",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "musicai-top-ai-music-generator",
+    "description": "Music AI",
+    "url": "https://www.musicai.pro",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "sonico",
+    "description": "Sonico",
+    "url": "https://sonico.app",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "youmusic-ai",
+    "description": "YouMusic.AI",
+    "url": "https://youmusic.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "the-papaya",
+    "description": "Papaya",
+    "url": "https://www.thepapaya.co",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "songfinder-ai-music-discovery",
+    "description": "SongFinder",
+    "url": "https://apps.apple.com/us/app/songfinder-ai-music-discovery/id6731746123",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "metronome-record-beat-tempo",
+    "description": "Music Mastery",
+    "url": "https://apps.apple.com/app/id6444655456",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "song-demo-ai",
+    "description": "Song Demo AI",
+    "url": "https://songdemo.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "song-words",
+    "description": "Song Quote Generator",
+    "url": "https://www.songwords.xyz",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "mashup",
+    "description": "PhotoBlend",
+    "url": "https://apps.apple.com/us/app/midjourney-photo-blender/id6446422287",
+    "category": "Voice",
+    "tags": [
+      "ai-music-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "elevenlabs-io",
+    "description": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "speechify-studio-ai-voice-generator",
+    "description": "Speechify Studio - AI Voice Generator",
+    "url": "https://speechify.com/ai-voice-generator",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "ttsmaker",
+    "description": "TTSMaker",
+    "url": "https://ttsmaker.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "weights-gg",
+    "description": "Weights",
+    "url": "https://www.weights.gg",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "finevoice",
+    "description": "FineVoice",
+    "url": "https://www.fineshare.com/ai-voice-generator",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "voicemaker",
+    "description": "Voicemaker®",
+    "url": "https://voicemaker.in",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "kits-ai",
+    "description": "Kits AI",
+    "url": "https://kits.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "deepgram-ai-voice-generator",
+    "description": "Deepgram AI Voice Generator",
+    "url": "https://deepgram.com/ai-voice-generator",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "fakeyou",
+    "description": "FakeYou - Deep Fake Text to Speech",
+    "url": "https://fakeyou.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "blipcut-ai-video-translator",
+    "description": "BlipCut AI Video Translator",
+    "url": "https://videotranslator.blipcut.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "fish-speech",
+    "description": "Fish Speech",
+    "url": "https://fish.audio",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "typecast-ai",
+    "description": "Typecast",
+    "url": "https://typecast.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "resemble",
+    "description": "Resemble AI Voice Generator with Text-to-Speech and Speech-to-Speech",
+    "url": "https://www.resemble.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "ttsopenai-com",
+    "description": "PDF to Audiobook",
+    "url": "https://ttsopenai.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "uberduck",
+    "description": "Uberduck",
+    "url": "https://uberduck.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "poppop-ai-text-to-speech",
+    "description": "PopPop AI Text to Speech",
+    "url": "https://poppop.ai/ai-text-to-speech",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "coefont-cloud",
+    "description": "CoeFont",
+    "url": "https://coefont.cloud",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "colossyan-creator",
+    "description": "Colossyan",
+    "url": "https://www.colossyan.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "kreado-ai-video-creation-platform",
+    "description": "KreadoAI - Free AI Video Generator",
+    "url": "https://www.kreadoai.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "coqui",
+    "description": "Coqui",
+    "url": "https://coqui.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "wellsaidlabs",
+    "description": "WellSaid Labs",
+    "url": "https://wellsaidlabs.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "deepdub-ai",
+    "description": "Deepdub",
+    "url": "https://deepdub.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "voxify",
+    "description": "Voxify",
+    "url": "https://voxify.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "aivoov-text-to-speech-solution",
+    "description": "AiVOOV",
+    "url": "https://aivoov.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "viralvideo",
+    "description": "ViralVideo",
+    "url": "https://viralvideo.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "text-to-speech-online",
+    "description": "Text to Speech Online",
+    "url": "https://texttospeech.online",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "just-think-ai",
+    "description": "Just Think",
+    "url": "https://justthink.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "notis-ai",
+    "description": "Voice to Notion",
+    "url": "https://notis.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "text-reader-ai",
+    "description": "Text Reader",
+    "url": "https://textreader.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "f5-tts",
+    "description": "F5-TTS",
+    "url": "https://f5tts.org",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "voice-out",
+    "description": "Voice Out",
+    "url": "https://voiceout.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "tiktok-voice-tiktok音声",
+    "description": "TikTok Voice",
+    "url": "https://tiktokvoice.net",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "lazybird",
+    "description": "LazyBird | AI Voice Over Studio",
+    "url": "https://lazybird.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "myvocal-voice-synthesizer",
+    "description": "MyVocal.ai",
+    "url": "https://www.myvocal.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "vocera",
+    "description": "Vocera",
+    "url": "https://www.vocera.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "saze-ai",
+    "description": "SazeAI",
+    "url": "https://sazeai.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "texttospeech-im-convert-text-to-speech-free-online",
+    "description": "TexttoSpeech.im: Convert  Text to Speech Free Online",
+    "url": "https://texttospeech.im",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "notebookai-podcast",
+    "description": "AIdeaflow Podcast",
+    "url": "https://aideaflowpodcast.com//",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "generador-de-voz",
+    "description": "Generador de voz",
+    "url": "https://generadordevoz.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "ttsvox-free-text-to-speech-ai",
+    "description": "TTSVox",
+    "url": "https://ttsvox.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "dubformer",
+    "description": "Dubformer",
+    "url": "https://dubformer.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "gpt-reader-a-free-ai-text-to-speech",
+    "description": "GPT Reader",
+    "url": "https://gpt-reader.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "ttslabs",
+    "description": "TTSLabs",
+    "url": "https://ttslabs.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "hey-watcher-ai",
+    "description": "Hey Watcher",
+    "url": "https://heywatcher.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "anytospeech",
+    "description": "AnyToSpeech",
+    "url": "https://anytospeech.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "ditto-speak-preview",
+    "description": "Ditto Speak",
+    "url": "https://dittodub.com/dashboard/toolbox",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "tubeiq",
+    "description": "TubeIQ",
+    "url": "https://tubeiq.site",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "shortsninja",
+    "description": "ShortsNinja",
+    "url": "https://shortsninja.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 238,
+    "name": "vocode-dev",
+    "description": "Vocode",
+    "url": "https://vocode.dev",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 239,
+    "name": "coval",
+    "description": "Coval",
+    "url": "https://www.coval.dev",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 240,
+    "name": "aeon-ai-assisted-video-production",
+    "description": "Aeon",
+    "url": "https://project-aeon.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 241,
+    "name": "ms-text-to-speech-downloader",
+    "description": "Microsoft Text-to-Speech Downloader",
+    "url": "https://www.microsoft-tts-downloader.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 242,
+    "name": "speechlab",
+    "description": "SpeechLab",
+    "url": "https://speechlab.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 243,
+    "name": "speechimo",
+    "description": "Speechimo",
+    "url": "https://speechimo.io",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 244,
+    "name": "voicv-voice-cloning",
+    "description": "Voicv",
+    "url": "https://voicv.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 245,
+    "name": "shortfactory",
+    "description": "ShortFactory",
+    "url": "https://short-factory.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 246,
+    "name": "voice-gen",
+    "description": "Voice-Gen",
+    "url": "https://www.voice-gen.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 247,
+    "name": "mmaudio-pro",
+    "description": "MMAudio",
+    "url": "https://www.mmaudio.pro",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 248,
+    "name": "beepbooply",
+    "description": "beepbooply",
+    "url": "https://beepbooply.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 249,
+    "name": "luppa-ai",
+    "description": "Luppa AI",
+    "url": "https://luppa.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 250,
+    "name": "x-to-voice",
+    "description": "X to Voice",
+    "url": "https://xtovoice.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 251,
+    "name": "juicyai",
+    "description": "JuicyAI",
+    "url": "https://juicyai.io",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 252,
+    "name": "lmao",
+    "description": "LMAO AI Prank Calls",
+    "url": "https://lmaoai.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 253,
+    "name": "countless-dev",
+    "description": "Countless.dev",
+    "url": "https://countless.dev",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 254,
+    "name": "speaktrackai",
+    "description": "SpeakTrackAI",
+    "url": "https://speaktrack.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 255,
+    "name": "xpeacho",
+    "description": "Xpeacho Best AI-Based Text To Speech",
+    "url": "https://xpeacho.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 256,
+    "name": "article2audio",
+    "description": "article2audio",
+    "url": "https://article2audio.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 257,
+    "name": "slidesorator",
+    "description": "SlidesOrator",
+    "url": "https://www.slidesorator.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 258,
+    "name": "web-whisper",
+    "description": "Web Whisper",
+    "url": "https://webwhisper.online",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 259,
+    "name": "imbatts-free-unlimited-text-to-speech",
+    "description": "ImbaTTS",
+    "url": "https://imbaTTS.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 260,
+    "name": "advanced-voice",
+    "description": "Advanced Voice",
+    "url": "https://advanced-voice.net",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 261,
+    "name": "kokoro-web",
+    "description": "Kokoro Web",
+    "url": "https://voice-generator.pages.dev",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 262,
+    "name": "soundoftext-app",
+    "description": "Sound of Text",
+    "url": "https://soundoftext.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 263,
+    "name": "octopra",
+    "description": "Octopra",
+    "url": "https://octopra.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 264,
+    "name": "volt-intelligence",
+    "description": "Volt Intelligence",
+    "url": "https://voltintelligence.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 265,
+    "name": "monobot-ai-virtual-ai-assistant",
+    "description": "Monobot",
+    "url": "https://monobot.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-speech"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 266,
+    "name": "turboscribe-ai",
+    "description": "TurboScribe",
+    "url": "https://turboscribe.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 267,
+    "name": "transkriptor-com",
+    "description": "Transkriptor",
+    "url": "https://transkriptor.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 268,
+    "name": "happyscribe-com",
+    "description": "Happy Scribe",
+    "url": "https://happyscribe.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 269,
+    "name": "assemblyai",
+    "description": "AssemblyAI",
+    "url": "https://www.assemblyai.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 270,
+    "name": "salad-transcription-api",
+    "description": "Salad Transcription API",
+    "url": "https://salad.com/transcription",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 271,
+    "name": "cockatoo",
+    "description": "Cockatoo",
+    "url": "https://www.cockatoo.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 272,
+    "name": "superwhisper",
+    "description": "SuperWhisper",
+    "url": "https://superwhisper.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 273,
+    "name": "lockedin-ai",
+    "description": "LockedIn AI",
+    "url": "https://www.lockedinai.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 274,
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
+    "url": "https://sourcetable.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 275,
+    "name": "rev-ai",
+    "description": "Rev AI",
+    "url": "https://rev.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 276,
+    "name": "vatis-tech",
+    "description": "Vatis Tech",
+    "url": "https://vatis.tech",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 277,
+    "name": "shoonya-ai",
+    "description": "Shoonya",
+    "url": "https://www.shoonya.computer",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 278,
+    "name": "ai-video-cut",
+    "description": "AI Video Cut",
+    "url": "https://www.aivideocut.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 279,
+    "name": "minutes-ai-meeting-notes-transcripts",
+    "description": "Minutes AI",
+    "url": "https://myminutes.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 280,
+    "name": "transcribeme",
+    "description": "TranscribeMe",
+    "url": "https://www.transcribeme.app",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 281,
+    "name": "malloy",
+    "description": "Malloy",
+    "url": "https://malloy.sg",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 282,
+    "name": "vomo-ai",
+    "description": "VOMO",
+    "url": "https://vomo.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 283,
+    "name": "fluently-ai",
+    "description": "Fluently AI",
+    "url": "https://getfluently.app",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 284,
+    "name": "whisperui-text-to-speech",
+    "description": "WhisperUI",
+    "url": "https://whisperui.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 285,
+    "name": "videotap",
+    "description": "Video Tap",
+    "url": "https://videotap.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 286,
+    "name": "speechpulse",
+    "description": "SpeechPulse",
+    "url": "https://speechpulse.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 287,
+    "name": "your-personal-ai",
+    "description": "Your Personal AI",
+    "url": "https://yourpersonalai.net",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 288,
+    "name": "scribebuddy",
+    "description": "ScribeBuddy",
+    "url": "https://scribebuddy.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 289,
+    "name": "transcribetotext-ai",
+    "description": "TranscribetoText.AI",
+    "url": "https://transcribetotext.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 290,
+    "name": "sunoh-ai",
+    "description": "Sunoh.ai",
+    "url": "https://sunoh.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 291,
+    "name": "cuckoo",
+    "description": "Cuckoo",
+    "url": "https://www.cuckoo.so",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 292,
+    "name": "shadow",
+    "description": "Shadow",
+    "url": "https://www.shadow.do",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 293,
+    "name": "captioncreator-cc",
+    "description": "CaptionCreator",
+    "url": "https://captioncreator.cc",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 294,
+    "name": "file-organizer-2000",
+    "description": "File Organizer 2000",
+    "url": "https://fileorganizer2000.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 295,
+    "name": "plainscribe",
+    "description": "PlainScribe",
+    "url": "https://www.plainscribe.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 296,
+    "name": "callr",
+    "description": "Callr",
+    "url": "https://callr.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 297,
+    "name": "voiceink",
+    "description": "VoiceInk",
+    "url": "https://tryvoiceink.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 298,
+    "name": "gami",
+    "description": "Gami",
+    "url": "https://gaminote.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 299,
+    "name": "swiftink",
+    "description": "Swiftink",
+    "url": "https://swiftink.io",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 300,
+    "name": "dialogai",
+    "description": "Dialogai",
+    "url": "https://dialogai.io",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 301,
+    "name": "scrybe-quill",
+    "description": "Scrybe",
+    "url": "https://www.scrybequill.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 302,
+    "name": "voxa-pro",
+    "description": "Voxa",
+    "url": "https://voxa.pro",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 303,
+    "name": "whisper-memos",
+    "description": "Whisper Memos",
+    "url": "https://whispermemos.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 304,
+    "name": "jumper",
+    "description": "Jumper",
+    "url": "https://getjumper.io",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 305,
+    "name": "unvoice",
+    "description": "Unvoice Bot - Your AI WhatsApp Voice Transcriber",
+    "url": "https://unvoice.online",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 306,
+    "name": "supercalls",
+    "description": "SuperCalls",
+    "url": "https://supercalls.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 307,
+    "name": "tunk",
+    "description": "Tunk.AI",
+    "url": "https://www.tunk.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 308,
+    "name": "babelphone-call-translator",
+    "description": "BabelPhone",
+    "url": "https://www.babelphoneai.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 309,
+    "name": "aisoap-ai-soap-notes",
+    "description": "AiSOAP",
+    "url": "https://aisoap.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 310,
+    "name": "ace-interview-ai-interview-assistant",
+    "description": "Ace Interview - AI Interview Assistant",
+    "url": "https://aceinterview.co",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 311,
+    "name": "ibis",
+    "description": "Ibis",
+    "url": "https://ibis.chat",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 312,
+    "name": "perfect-memory-ai",
+    "description": "Perfect Memory AI",
+    "url": "https://www.perfectmemory.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 313,
+    "name": "chatpods",
+    "description": "ChatPods",
+    "url": "https://www.chatpods.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 314,
+    "name": "nullity-ai",
+    "description": "Nullity AI",
+    "url": "https://nullityai.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 315,
+    "name": "crbit",
+    "description": "Crbit",
+    "url": "https://crbit.io",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 316,
+    "name": "rapidtranscribe-com",
+    "description": "RapidTranscribe",
+    "url": "https://rapidtranscribe.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 317,
+    "name": "transcribe-video-audio-to-text-free-online",
+    "description": "VideoToWords AI",
+    "url": "https://www.videotowords.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 318,
+    "name": "sixtyfour-platform",
+    "description": "Sixtyfour Platform",
+    "url": "https://64.rw",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 319,
+    "name": "video-subtitles",
+    "description": "VideoSubtitles",
+    "url": "https://videosubtitles.io",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 320,
+    "name": "nurtured",
+    "description": "Nurtured",
+    "url": "https://nurtured.so",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 321,
+    "name": "type-ai-ai-powered-writing-tool-for-emails",
+    "description": "Type.AI",
+    "url": "https://chromewebstore.google.com/detail/typeai-ai-powered-writing/hnbioiaopbihafipckabcieklbamipeo",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 322,
+    "name": "tali-ai",
+    "description": "Tali Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/tali-ai/cmfdaldondfeihfgblhhjpaoddmmopgl",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 323,
+    "name": "chatvocgpt",
+    "description": "ChatVocGPT",
+    "url": "https://chromewebstore.google.com/detail/chatvocgpt/egoimpfoejioacpfhdicncabblffflhk",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 324,
+    "name": "floomy-save-time-with-meeting-minutes-mom",
+    "description": "MeetingMate",
+    "url": "https://chromewebstore.google.com/detail/floomy-save-time-with-mee/fncjpolcghakbeeeglfahcpjhnghephh",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 325,
+    "name": "smartnote-ai",
+    "description": "Smart Note AI",
+    "url": "https://smartnote.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 326,
+    "name": "legal-intern-ai",
+    "description": "Legal Intern AI",
+    "url": "https://legalinternai.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 327,
+    "name": "axofy-ai",
+    "description": "Axofy AI",
+    "url": "https://axofy.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 328,
+    "name": "notaly-note-taking-ai",
+    "description": "Notaly",
+    "url": "https://apps.apple.com/us/app/notaly-note-taking-ai/id6737820381",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 329,
+    "name": "karax-ai",
+    "description": "KaraX.ai",
+    "url": "https://karax.ai",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "ai-transcribe",
+    "description": "AI Transcribe",
+    "url": "https://apps.apple.com/app/id6445858353",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 331,
+    "name": "bai",
+    "description": "bai",
+    "url": "https://chromewebstore.google.com/detail/bai/ajmhckcjkinmcngkepplpelhfgmefmpj",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 332,
+    "name": "huddlenow-insights",
+    "description": "MeetMindful",
+    "url": "https://chromewebstore.google.com/detail/huddlenow-insights/nghclpmbhfjdhhnkaaogkfokekmeabgo",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 333,
+    "name": "ai-speech-to-text",
+    "description": "Speech to Text",
+    "url": "https://apps.apple.com/us/app/ai-speech-to-text/id6445964986",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 334,
+    "name": "talkery-ai-rephraser",
+    "description": "Speech Rephraser",
+    "url": "https://chromewebstore.google.com/detail/talkery-ai-rephraser/pgegaeceldjfbhockhhlfnhiilopfkil",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 335,
+    "name": "translate-my-audio",
+    "description": "Translate My Audio",
+    "url": "https://www.translatemyaudio.com",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 336,
+    "name": "chatgpt-voice-assistant",
+    "description": "Voice2Text",
+    "url": "https://chrome.google.com/webstore/detail/chatgpt-voice-assistant/hpofmmlapeelmljmomdeapaoigofekpm",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 337,
+    "name": "axonscribe",
+    "description": "AXONscribe",
+    "url": "https://chromewebstore.google.com/detail/axonscribe/kdckiahifhnmebggkmjndhndgkjopcaf",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 338,
+    "name": "talking-chatgpt",
+    "description": "ChatGPT Speech-to-Text Extension",
+    "url": "https://chromewebstore.google.com/detail/talking-chatgpt/dppbeenbobngogcdfnocicajiegcofmo",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 339,
+    "name": "meetklu",
+    "description": "Klu Meet",
+    "url": "https://chromewebstore.google.com/detail/meetklu/mdbhgacfdfdachgalpnabcdnpgbfdgho",
+    "category": "Voice",
+    "tags": [
+      "speech-to-text"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 340,
+    "name": "emastered",
+    "description": "eMastered",
+    "url": "https://emastered.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 341,
+    "name": "gling-ai",
+    "description": "Gling AI",
+    "url": "https://gling.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 342,
+    "name": "covers-ai",
+    "description": "Covers AI",
+    "url": "https://www.covers.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 343,
+    "name": "ai-mastering",
+    "description": "AI Mastering",
+    "url": "https://aimastering.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 344,
+    "name": "voice-swap-ai",
+    "description": "Voice-Swap",
+    "url": "https://voice-swap.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 345,
+    "name": "soundry-ai",
+    "description": "Soundry AI",
+    "url": "https://soundry.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 346,
+    "name": "duzo-ai-video-translations",
+    "description": "Duzo AI Video Translations",
+    "url": "https://duzo.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 347,
+    "name": "toneshift",
+    "description": "ToneShift",
+    "url": "https://www.toneshift.cc",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 348,
+    "name": "guest-glance",
+    "description": "Guest Glance",
+    "url": "https://guestglance.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 349,
+    "name": "ai-voice-cover",
+    "description": "VoiceForge AI",
+    "url": "https://chromewebstore.google.com/detail/ai-voice-cover/cpjhnkdcdpifokijolehlmomppnfflop",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 350,
+    "name": "bangin-audio-recorder",
+    "description": "Bangin' Audio Recorder",
+    "url": "https://www.banginaudiorecorder.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 351,
+    "name": "ai-spy",
+    "description": "Ai-SPY",
+    "url": "https://ai-spy.xyz",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 352,
+    "name": "krisp",
+    "description": "Krisp",
+    "url": "https://krisp.ai",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 353,
+    "name": "voicechanger-io",
+    "description": "Voice Changer",
+    "url": "https://voicechanger.io",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 354,
+    "name": "edit-on-the-spot",
+    "description": "Edit on the Spot",
+    "url": "https://editonthespot.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 355,
+    "name": "talkfamous",
+    "description": "Talk Famous - AI Voice Generator",
+    "url": "https://www.talkfamous.xyz",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 356,
+    "name": "mememes",
+    "description": "MeMemes",
+    "url": "https://mememes.app",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 357,
+    "name": "clueso",
+    "description": "Clueso",
+    "url": "https://www.clueso.io",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 358,
+    "name": "smart-media-cutter",
+    "description": "Smart Media Cutter",
+    "url": "https://smartmediacutter.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 359,
+    "name": "allseek-一键尽揽所有搜索结果",
+    "description": "Search AI Hub",
+    "url": "https://chromewebstore.google.com/detail/allseek-一键尽揽所有搜索结果/hliodnbeiihfklkhhehcgmibcmklfedp",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 360,
+    "name": "vagabond-ai",
+    "description": "Vagabond AI",
+    "url": "https://www.vagabondai.com",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 361,
+    "name": "claude-quick-prompts",
+    "description": "Claude",
+    "url": "https://chromewebstore.google.com/detail/claude-quick-prompts/negfjabpohinhjephegckokbmjdgakln",
+    "category": "Voice",
+    "tags": [
+      "voice-audio-editing"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 362,
+    "name": "voicemod",
+    "description": "Voicemod",
+    "url": "https://www.voicemod.net",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 363,
+    "name": "fliflik-voice-changer",
+    "description": "FliFlik Voice Changer",
+    "url": "https://fliflik.com/voice-changer",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 364,
+    "name": "voicechanger-im-ai-voice-cloner-text-to-speech-free-online",
+    "description": "VoiceChanger.im: AI Voice Cloner & Text to Speech Free Online",
+    "url": "https://voicechanger.im",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 365,
+    "name": "overtune",
+    "description": "Overtune",
+    "url": "https://www.overtune.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 366,
+    "name": "abox",
+    "description": "ABox",
+    "url": "https://www.aboxapps.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 367,
+    "name": "shook-ai",
+    "description": "VoiceLingo",
+    "url": "https://getshook.app",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 368,
+    "name": "celebrity-voice-changer",
+    "description": "Celebrity Voice Changer",
+    "url": "https://chromewebstore.google.com/detail/celebrity-voice-changer/kbmhekonnnamchnjelhooeagiabhggfo",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 369,
+    "name": "chatgpt-lets-talk",
+    "description": "ChatGPT Voice",
+    "url": "https://chrome.google.com/webstore/detail/chatgpt-lets-talk/ldkeljfcpadfpkfdloofmhamhkgdcpbo",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 370,
+    "name": "voices-ai-change-your-voice",
+    "description": "Voices AI",
+    "url": "https://apps.apple.com/us/app/voices-ai-change-your-voice/id6461268224",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 371,
+    "name": "vozard",
+    "description": "Vozard",
+    "url": "https://www.imobie.com/vozard",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 372,
+    "name": "vocs-ai",
+    "description": "Vocs AI",
+    "url": "https://vocs.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 373,
+    "name": "instant-singer",
+    "description": "Instant Singer",
+    "url": "https://instantsinger.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 374,
+    "name": "maxine-ai",
+    "description": "AiFriend",
+    "url": "https://apps.apple.com/us/app/maxine-ai/id6445803636",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-changer"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 375,
+    "name": "joyland-ai",
+    "description": "Joyland",
+    "url": "https://joyland.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 376,
+    "name": "thundr",
+    "description": "Thundr.tv",
+    "url": "https://www.thundr.tv",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 377,
+    "name": "talking-avatar",
+    "description": "Talking Avatar",
+    "url": "https://www.talkingavatar.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 378,
+    "name": "lovegpt",
+    "description": "LoveGPT: Enhance Your Romantic Relationships with AI-powered Conversational Support",
+    "url": "https://lovegpt.co.in",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 379,
+    "name": "prankgpt",
+    "description": "PrankGPT",
+    "url": "https://prankgpt.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 380,
+    "name": "banterai-app",
+    "description": "BanterAI",
+    "url": "https://banterai.app",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 381,
+    "name": "learnlingo",
+    "description": "LearnLingo",
+    "url": "https://learnlingo.dev",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 382,
+    "name": "livestream-chats-to-speech-chattrain",
+    "description": "ChatTrain",
+    "url": "https://chromewebstore.google.com/detail/livestream-chats-to-speec/fbhoaadbbiigppnljkjgfoofcdinnpap",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 383,
+    "name": "lamda",
+    "description": "Lamda",
+    "url": "https://lamda.count.land",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 384,
+    "name": "meslai",
+    "description": "MeslAI",
+    "url": "https://meslai.app",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 385,
+    "name": "voice-to-chatgpt",
+    "description": "Voice-to-ChatGPT",
+    "url": "https://chromewebstore.google.com/detail/voice-to-chatgpt/ljfaalmmbjiogndhkndfilcianhlbkbc",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 386,
+    "name": "meet-an-ai",
+    "description": "MeetAI",
+    "url": "https://MeetAnAI.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 387,
+    "name": "ai-persona-chat",
+    "description": "Chat Revolution",
+    "url": "https://apps.apple.com/us/app/ai-personas-characters/id6456891746",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 388,
+    "name": "dan-ai-voice-chat",
+    "description": "Dan - AI Voice Chat Companion",
+    "url": "https://apps.apple.com/us/app/dan-ai-voice-chat-companion/id6502860590",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 389,
+    "name": "imagetochat-ai",
+    "description": "ImagetoChat",
+    "url": "https://imagetochat.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 390,
+    "name": "gabbygpt",
+    "description": "GabbyGPT",
+    "url": "https://www.gabbygpt.uk",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 391,
+    "name": "xbuddy",
+    "description": "XBuddy",
+    "url": "https://apps.apple.com/app/xbuddy-ai/id6457063272",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 392,
+    "name": "formvox",
+    "description": "FormVox",
+    "url": "https://www.formvox.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 393,
+    "name": "speaksyncs",
+    "description": "Multilingual Speak Sync",
+    "url": "http://speaksyncs.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 394,
+    "name": "voiceai-chat",
+    "description": "VoiceAI Chat",
+    "url": "https://apps.apple.com/app/id6445994863",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 395,
+    "name": "pit-stop-chattergpt",
+    "description": "Pit Stop ChatterGPT",
+    "url": "https://apps.apple.com/app/pit-stop-chattergpt/id6449394370",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 396,
+    "name": "had-a-call-ai-calling-platform",
+    "description": "Had-a Call",
+    "url": "https://hadacall.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 397,
+    "name": "talkdirtyai-com",
+    "description": "TalkDirtyAI",
+    "url": "https://talkdirtyai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 398,
+    "name": "langchats",
+    "description": "Langchats",
+    "url": "https://www.langchats.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 399,
+    "name": "translaite",
+    "description": "Translation Hub",
+    "url": "https://www.translaite.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 400,
+    "name": "q-the-ultimate-ai-voice-chatbot",
+    "description": "Q - AI Voice Chatbot",
+    "url": "https://q-bot.app",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 401,
+    "name": "chatcat",
+    "description": "ChatSuggest",
+    "url": "https://chromewebstore.google.com/detail/chatcat/oagmafjnibbdcpejjpjobfhnpiipknck",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 402,
+    "name": "talk-gpt",
+    "description": "GPT Voice Chat Support",
+    "url": "https://chromewebstore.google.com/detail/talk-gpt/gjklbbmneaddgofaclhlldbldjnpblck",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 403,
+    "name": "epicurus",
+    "description": "Epicurus",
+    "url": "https://epicurusapp.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 404,
+    "name": "superchat-ai-virtual-chat",
+    "description": "Superchat",
+    "url": "https://apps.apple.com/us/app/superchat-ai-virtual-chat/id6447100327",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 405,
+    "name": "ai-twin-anonymous-voice-chat-app",
+    "description": "AI Twin: Voice Social Chat",
+    "url": "https://apps.apple.com/us/app/ai-twin-your-digital-self/id6472042910",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 406,
+    "name": "driftroom",
+    "description": "Driftroom",
+    "url": "https://www.driftroom.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 407,
+    "name": "talkpersona",
+    "description": "TalkPersona",
+    "url": "https://talkpersona.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 408,
+    "name": "get-cheezy-with-dr-aaron-ozee",
+    "description": "Chat with Dr. Aaron Ozee",
+    "url": "https://apps.apple.com/app/get-cheezy-with-dr-aaron-ozee/id1642331303",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 409,
+    "name": "dreamrp",
+    "description": "DreamRP",
+    "url": "https://www.dreamrp.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 410,
+    "name": "ftchatai-chatgpt-for-iphone",
+    "description": "FTChatAI",
+    "url": "https://apps.apple.com/us/app/ftchatai/id6446242414",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 411,
+    "name": "chatme-at",
+    "description": "ChatMe.At",
+    "url": "https://chatme.at",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 412,
+    "name": "aoi-speak",
+    "description": "Language Speak",
+    "url": "https://apps.apple.com/us/app/aoi-speak-learning-languages/id6456224117",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 413,
+    "name": "rednit",
+    "description": "Rednit",
+    "url": "https://rednit.fun",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 414,
+    "name": "twinit",
+    "description": "AI Companion platform",
+    "url": "https://twinit.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 415,
+    "name": "chatgpt-soliloquy",
+    "description": "ChatGPT-Soliloquy",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-soliloquy/kflbaflenonjdfgegkoogldipabeenin",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 416,
+    "name": "yaki",
+    "description": "Yaki",
+    "url": "https://apps.apple.com/us/app/yaki-chat/id6446706313",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 417,
+    "name": "vme-call-by-your-avatar-and-voice",
+    "description": "Avatarify",
+    "url": "https://chromewebstore.google.com/detail/vme-call-by-your-avatar-a/pelgnggcjpglfkfkdfdhcmliconijjdb",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-chat-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 418,
+    "name": "conversational-replicas-by-tavus",
+    "description": "Tavus",
+    "url": "https://www.tavus.io",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 419,
+    "name": "respeecher",
+    "description": "Respeecher",
+    "url": "https://www.respeecher.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 420,
+    "name": "controlla-xyz",
+    "description": "Controlla: interactive, remixable songs",
+    "url": "https://controlla.xyz",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 421,
+    "name": "visionstory-ai",
+    "description": "VisionStory AI",
+    "url": "https://www.visionstory.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 422,
+    "name": "ai-cover",
+    "description": "AI Cover Generator",
+    "url": "https://aicover.fun",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 423,
+    "name": "yourbestaccent-com",
+    "description": "YourBestAccent",
+    "url": "https://www.yourbestaccent.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 424,
+    "name": "salemaker",
+    "description": "Salemaker",
+    "url": "https://getsalemaker.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 425,
+    "name": "wannafake-com",
+    "description": "Wannafake",
+    "url": "https://wannafake.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 426,
+    "name": "translatevideos-io",
+    "description": "TranslateVideos",
+    "url": "https://translatevideos.io",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 427,
+    "name": "echovoiceai",
+    "description": "Echo Voice AI",
+    "url": "https://echovoiceai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 428,
+    "name": "sufy",
+    "description": "SUFY",
+    "url": "https://sufy.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 429,
+    "name": "deepfakes-lol",
+    "description": "Deepfakes.lol",
+    "url": "https://deepfakes.lol",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 430,
+    "name": "voxwave-ai",
+    "description": "Voxwave",
+    "url": "https://www.voxwaveai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 431,
+    "name": "clippah",
+    "description": "Clippah",
+    "url": "https://www.clippah.co",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 432,
+    "name": "twinning-ai",
+    "description": "Twinning",
+    "url": "https://twinning.me",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 433,
+    "name": "poddy-ai",
+    "description": "Poddy.ai",
+    "url": "https://poddy.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 434,
+    "name": "speaking-ai",
+    "description": "Speaking AI",
+    "url": "https://speaking.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 435,
+    "name": "copycat-actor",
+    "description": "CopyCat",
+    "url": "https://copycat.actor",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 436,
+    "name": "parrot-talk",
+    "description": "Parrot Talk",
+    "url": "https://www.parrottalk.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 437,
+    "name": "myclony",
+    "description": "MyClony",
+    "url": "https://myclony.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 438,
+    "name": "audiogenius-ai",
+    "description": "AudioGenius.ai",
+    "url": "https://www.audiogenius.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 439,
+    "name": "cugent",
+    "description": "Cugent",
+    "url": "https://cugent.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 440,
+    "name": "ai-voicer",
+    "description": "AI Voicer",
+    "url": "https://apps.apple.com/us/app/ai-voicer-voice-over/id6464452140",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 441,
+    "name": "ai-prank-call",
+    "description": "PrankCaller.fun",
+    "url": "https://prankcaller.fun",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 442,
+    "name": "maibrain",
+    "description": "Maibrain",
+    "url": "https://www.maibrain.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 443,
+    "name": "psyche-ai",
+    "description": "PSYCHE AI",
+    "url": "https://www.psycheai.jp",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 444,
+    "name": "shamaze",
+    "description": "Shamaze",
+    "url": "https://www.shamaze.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 445,
+    "name": "voicecanvas",
+    "description": "VoiceCanvas",
+    "url": "https://voicecanvas.org",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 446,
+    "name": "topmediai-com",
+    "description": "TopMediai®",
+    "url": "https://topmediai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 447,
+    "name": "celebrity-ai-voice-generator",
+    "description": "Celebrity AI Voice Generator",
+    "url": "https://www.celebrityaivoice.net",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 448,
+    "name": "wavel-ai",
+    "description": "Wavel AI",
+    "url": "https://wavel.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 449,
+    "name": "tangia-co",
+    "description": "Tangia",
+    "url": "https://tangia.co",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 450,
+    "name": "voicemy-ai",
+    "description": "Voicemy.ai",
+    "url": "https://www.voicemy.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 451,
+    "name": "papercup",
+    "description": "Papercup - AI Dubbing and Video Translation Software",
+    "url": "https://www.papercup.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 452,
+    "name": "deepreel-com",
+    "description": "DeepReel",
+    "url": "https://deepreel.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 453,
+    "name": "re-create-video",
+    "description": "RE:Create Video",
+    "url": "https://recreate.video",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 454,
+    "name": "deepshot",
+    "description": "Deepshot",
+    "url": "https://www.deepshot.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-cloning"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 455,
+    "name": "sendfame",
+    "description": "SendFame",
+    "url": "https://sendfame.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 456,
+    "name": "starvoiceai",
+    "description": "StarVoice | Celebrity Ai Voice Generator",
+    "url": "https://starvoiceai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 457,
+    "name": "celebu-co",
+    "description": "CelebU",
+    "url": "https://celebu.co",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 458,
+    "name": "vocalreplica",
+    "description": "VocalReplica",
+    "url": "https://vocalreplica.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 459,
+    "name": "voxdazz",
+    "description": "Voxdazz",
+    "url": "https://voxdazz.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 460,
+    "name": "kliplab",
+    "description": "KlipLab",
+    "url": "https://kliplab.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 461,
+    "name": "person-cloner",
+    "description": "VoiceLip",
+    "url": "https://person-cloner.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 462,
+    "name": "starstruck",
+    "description": "Starstruck",
+    "url": "https://apps.apple.com/au/app/starstruck-message-anyone/id6446234281",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 463,
+    "name": "voicefy",
+    "description": "Voicefy",
+    "url": "https://www.voicefy.com.br",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 464,
+    "name": "forever-voices-companion",
+    "description": "Forever Voices",
+    "url": "https://forevervoices.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 465,
+    "name": "voicejacket",
+    "description": "Voice Jacket",
+    "url": "https://voicejacket.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 466,
+    "name": "vanillavoice-com",
+    "description": "VanillaVoice",
+    "url": "https://vanillavoice.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 467,
+    "name": "vaanee-ai-engine",
+    "description": "Vaanee AI",
+    "url": "http://vaanee.co",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 468,
+    "name": "bollywoodai-hindi-voice-ai",
+    "description": "BOLLYWOODAI",
+    "url": "https://www.bollywoodai.app",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 469,
+    "name": "steosvoice",
+    "description": "SteosVoice",
+    "url": "https://cybervoice.io",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 470,
+    "name": "speechforms",
+    "description": "SpeechForms",
+    "url": "https://www.speechforms.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 471,
+    "name": "babylon-voice-ai-voice-gpt-and-voiceid",
+    "description": "BabylonVoice",
+    "url": "https://babylonvoice.com",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 472,
+    "name": "virtualyou",
+    "description": "VideoTalk",
+    "url": "https://virtualyou.art",
+    "category": "Voice",
+    "tags": [
+      "ai-celebrity-voice-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 473,
+    "name": "rap-generator",
+    "description": "Rap Generator",
+    "url": "https://rapgenerator.net",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 474,
+    "name": "jarvis-lyrics-com",
+    "description": "Jarvis",
+    "url": "https://jarvis-lyrics.com",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 475,
+    "name": "rhyme-cool",
+    "description": "Rhyme.cool",
+    "url": "https://rhyme.cool",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 476,
+    "name": "rapli-co",
+    "description": "Rapli - AI Rap Generator",
+    "url": "https://Rapli.co",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 477,
+    "name": "oneplus-ai-music-studio",
+    "description": "OnePlus AI Music Studio",
+    "url": "https://aimusicstudio.oneplus.com",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 478,
+    "name": "drayk-it",
+    "description": "drayk.it",
+    "url": "https://drayk.it",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 479,
+    "name": "roast-me-ai",
+    "description": "Roast Me AI",
+    "url": "https://roastme.chesko.dev",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 480,
+    "name": "ai-rapper-music",
+    "description": "AI Rap Music",
+    "url": "https://airapper.online",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 481,
+    "name": "ai-rap-song-generator",
+    "description": "AI Rap Song Generator",
+    "url": "https://apps.apple.com/us/app/ai-rap-song-generator/id6448916248",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 482,
+    "name": "automated-combat",
+    "description": "Automated Combat - AI-powered Historical Figure Debates",
+    "url": "https://www.automatedcombat.com",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 483,
+    "name": "fye-ai",
+    "description": "Fye.ai - Ai Rap Assistant",
+    "url": "https://fye.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 484,
+    "name": "barrs-ai",
+    "description": "Barrs AI",
+    "url": "https://barrs.cloud",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 485,
+    "name": "magic-type-ai",
+    "description": "Magic Type AI",
+    "url": "https://www.magictype.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-rap-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 486,
+    "name": "whizz-com",
+    "description": "Maths-Whizz",
+    "url": "https://whizz.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 487,
+    "name": "myspeakingscore-com",
+    "description": "My Speaking Score",
+    "url": "https://myspeakingscore.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 488,
+    "name": "audiotype-org",
+    "description": "Audiotype - Audio Transcription and Video Subtitles",
+    "url": "https://audiotype.org",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 489,
+    "name": "sintesy-nunca-mais-fa-a-anota-es",
+    "description": "Sintesy",
+    "url": "https://sintesy.me",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 490,
+    "name": "transkrip-xyz",
+    "description": "transkrip.xyz",
+    "url": "https://transkrip.xyz",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 491,
+    "name": "olocr",
+    "description": "OLOCR",
+    "url": "https://olocr.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 492,
+    "name": "houndify-com",
+    "description": "SoundHound",
+    "url": "https://houndify.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 493,
+    "name": "byrdhouse",
+    "description": "Byrdhouse",
+    "url": "https://byrdhouseapp.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 494,
+    "name": "transvribe",
+    "description": "Transvribe",
+    "url": "https://www.transvribe.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 495,
+    "name": "speech-meter",
+    "description": "Speech Meter",
+    "url": "https://speechmeter.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 496,
+    "name": "voicecalc-ai-math-calculator",
+    "description": "VoiceCalc",
+    "url": "https://voicecalculator.app",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 497,
+    "name": "commure-scribe",
+    "description": "Commure Scribe",
+    "url": "https://chromewebstore.google.com/detail/commure-scribe/acibipghcmphbocinifknaalbbhhdacm",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 498,
+    "name": "transcription-transcribe-speech-to-text",
+    "description": "TurboScribe",
+    "url": "https://chromewebstore.google.com/detail/transcription-transcribe/ckammmbcncnmfidlajihpfcooakmheik",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 499,
+    "name": "aiera-extension",
+    "description": "Aiera's ASR Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/aiera-extension/eplkmokdnapebnloeiflpkkfhfifkgib",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 500,
+    "name": "html5-web-speech-recognition",
+    "description": "Speech-to-Text Converter",
+    "url": "https://chromewebstore.google.com/detail/html5-web-speech-recognit/mlpjjoplnoinecilgblimdnjiijbigef",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 501,
+    "name": "speechtext-ai-record-capture-transcribe",
+    "description": "VoiceTranscribe",
+    "url": "https://chromewebstore.google.com/detail/speechtextai-record-captu/pjomkoghmkhnipjjlcgoncjlonoleckj",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 502,
+    "name": "speechpro",
+    "description": "SpeechPro",
+    "url": "https://speechpro.app",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 503,
+    "name": "speechless-audios-to-texts",
+    "description": "Speechless",
+    "url": "https://apps.apple.com/us/app/id6456413273",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 504,
+    "name": "tulz-ai",
+    "description": "tulz.AI",
+    "url": "https://tulz.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 505,
+    "name": "langony",
+    "description": "Langony",
+    "url": "https://langony.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 506,
+    "name": "async-for-gmail-and-chrome",
+    "description": "Async",
+    "url": "https://chrome.google.com/webstore/detail/async-for-chrome/kmiikpmdncakkcadkabnlhifhccigpdh",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 507,
+    "name": "denolyrics",
+    "description": "DenoLyrics",
+    "url": "https://www.denolyrics.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 508,
+    "name": "voice-inbox",
+    "description": "Voice Inbox",
+    "url": "https://voiceinbox.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 509,
+    "name": "wisprnote",
+    "description": "WisprNote",
+    "url": "https://apps.apple.com/app/wisprnote/id1671480366",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 510,
+    "name": "ulocat-smart-translator",
+    "description": "ULOCAT",
+    "url": "https://ulocat.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 511,
+    "name": "serenade-for-chrome",
+    "description": "Serenade",
+    "url": "https://chromewebstore.google.com/detail/serenade-for-chrome/bgfbijeikimjmdjldemlegooghdjinmj",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 512,
+    "name": "krecicki",
+    "description": "Krecicki - A.I. Sales Call Analysis Consulting",
+    "url": "https://krecicki.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 513,
+    "name": "diary-app-that-needs-no-writing",
+    "description": "Diary AI",
+    "url": "https://diaryai.site",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 514,
+    "name": "ai-powered-whatsapp-assistant",
+    "description": "Mate Direct",
+    "url": "https://mate.direct",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 515,
+    "name": "eve-ai-extract-analyze-transform-eat-data-framework",
+    "description": "Eve",
+    "url": "https://chromewebstore.google.com/detail/eve-ai-extract-analyze-tr/iinhdoboeeojoagbiegcdbkphoklegle",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 516,
+    "name": "polyzoa-crypto-guard",
+    "description": "CryptoGuard",
+    "url": "https://chromewebstore.google.com/detail/polyzoa-crypto-guard/plgkfnogjjefihcnmgdgilmlinacdiio",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 517,
+    "name": "video2text",
+    "description": "Video2Text",
+    "url": "https://video2text.de",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 518,
+    "name": "recos",
+    "description": "Recos",
+    "url": "https://recos.studio",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 519,
+    "name": "treato-your-personal-transcriber",
+    "description": "TranscribeX",
+    "url": "https://chromewebstore.google.com/detail/treato-your-personal-tran/ejkopbilnapabpankjdjbibkbkiphggk",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 520,
+    "name": "memos-ai",
+    "description": "RecorderGO",
+    "url": "https://www.recordergo.app",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 521,
+    "name": "mediscoper",
+    "description": "MediScoper",
+    "url": "https://mediscoper.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 522,
+    "name": "otto-engineer",
+    "description": "Otto Engineer",
+    "url": "https://otto.engineer",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 523,
+    "name": "transcribeai-audio-to-text",
+    "description": "TranscribeAI",
+    "url": "https://apps.apple.com/us/app/transcribeai-audio-to-text/id6739488479",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 524,
+    "name": "xtranslategpt-translate-all",
+    "description": "AI Translator Hub",
+    "url": "https://chromewebstore.google.com/detail/xtranslategpt-translate-a/dnffnnhonjgemhiegeenagikblhnfhaa",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-recognition"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 525,
+    "name": "unmixr-ai",
+    "description": "Unmixr",
+    "url": "https://unmixr.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 526,
+    "name": "speechson",
+    "description": "Speechson - Text To Sound TTS Online",
+    "url": "https://speechson.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 527,
+    "name": "sprello",
+    "description": "Sprello",
+    "url": "https://sprello.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 528,
+    "name": "neuralgen-ai",
+    "description": "NeuralGen.ai",
+    "url": "https://neuralgen.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 529,
+    "name": "free-text-into-speech",
+    "description": "tts4free.com",
+    "url": "https://tts4free.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 530,
+    "name": "affirmations-ai",
+    "description": "Affirmations AI",
+    "url": "https://www.affirmations-ai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 531,
+    "name": "sibylia",
+    "description": "Sibylia",
+    "url": "https://sibylia.io",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 532,
+    "name": "blogtopod",
+    "description": "BlogToPod",
+    "url": "https://blogtopod.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 533,
+    "name": "text-to-speech-converter-free-tts",
+    "description": "AudiofyText",
+    "url": "https://audiofytext.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 534,
+    "name": "natiq",
+    "description": "Natiq",
+    "url": "https://chromewebstore.google.com/detail/natiq/epdiinjlkpcmfijdfigceomialdcalbj",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 535,
+    "name": "chattts-text-to-speech-for-chat",
+    "description": "ChatTTS",
+    "url": "https://chromewebstore.google.com/detail/chattts-text-to-speech-fo/nhbmhgemdgikalgdiapmooimbcfhilck",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 536,
+    "name": "clipboard-tts",
+    "description": "Clipboard TTS",
+    "url": "https://www.clipboardtts.com",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 537,
+    "name": "voice-remaker-free-ai-voice",
+    "description": "Voice Remaker",
+    "url": "https://chromewebstore.google.com/detail/voice-remaker-free-ai-voi/pnlgifbohdiadfjllfmmjadcgofbnpoi",
+    "category": "Voice",
+    "tags": [
+      "ai-speech-synthesis"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 538,
+    "name": "roxy",
+    "description": "Roxy - AI Voice Companion",
+    "url": "https://itunes.apple.com/app/id6737482921",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 539,
+    "name": "luzia-com",
+    "description": "Luzia: Your intelligent assistant at a click",
+    "url": "https://luzia.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 540,
+    "name": "hume-ai",
+    "description": "Hume AI",
+    "url": "https://www.hume.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 541,
+    "name": "synthflow-ai",
+    "description": "Synthflow AI",
+    "url": "https://synthflow.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 542,
+    "name": "gptbots-ai",
+    "description": "GPTBots.ai",
+    "url": "https://www.gptbots.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 543,
+    "name": "air-ai",
+    "description": "Air",
+    "url": "https://air.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 544,
+    "name": "tolan",
+    "description": "Tolan: Alien Best Friend",
+    "url": "https://www.tolans.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 545,
+    "name": "salescloser-ai-1",
+    "description": "SalesCloser AI",
+    "url": "https://salescloser.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 546,
+    "name": "belva",
+    "description": "Belva – Redefining Communication",
+    "url": "https://belva.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 547,
+    "name": "heymilo-ai",
+    "description": "HeyMilo AI",
+    "url": "https://www.heymilo.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 548,
+    "name": "solda-ai",
+    "description": "Solda AI",
+    "url": "https://solda.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 549,
+    "name": "zefram",
+    "description": "Zefram",
+    "url": "https://zefram.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 550,
+    "name": "linda-your-podcast-creator",
+    "description": "Linda",
+    "url": "https://hellolinda.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 551,
+    "name": "sandra-ai",
+    "description": "Sandra AI",
+    "url": "https://www.sandra-ai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 552,
+    "name": "voiceline-ai",
+    "description": "VoiceLine",
+    "url": "https://getvoiceline.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 553,
+    "name": "flowtica-ai",
+    "description": "Flowtica AI,",
+    "url": "https://flowtica.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 554,
+    "name": "hold-for-me",
+    "description": "Hold 4 Me",
+    "url": "https://holdforme.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 555,
+    "name": "gobi",
+    "description": "Gobi",
+    "url": "https://joingobi.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 556,
+    "name": "collabmap",
+    "description": "CollabMap",
+    "url": "https://collabmap-ai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 557,
+    "name": "macgaiver",
+    "description": "MacGaiver",
+    "url": "https://www.macgaiver.app",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 558,
+    "name": "ascenscia",
+    "description": "Ascenscia",
+    "url": "https://www.ascenscia.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 559,
+    "name": "augmeta",
+    "description": "Augmeta",
+    "url": "https://augmeta.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 560,
+    "name": "ai-writer-emails-essays",
+    "description": "AI Writer: Emails & Essays",
+    "url": "https://apps.apple.com/us/app/ai-writer-emails-essays/id6502916091",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 561,
+    "name": "pollyspeak-text-to-speech-for-ios",
+    "description": "PollySpeak",
+    "url": "https://www.pollyspeak.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 562,
+    "name": "twinmind-early-access-preview",
+    "description": "TwinMind",
+    "url": "https://chromewebstore.google.com/detail/twinmind-early-access-pre/agpbjhhcmoanaljagpoheldgjhclepdj",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 563,
+    "name": "neoform-ai",
+    "description": "Neoform AI",
+    "url": "https://neoformai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 564,
+    "name": "navivoice-voice-input-productivity-assistant",
+    "description": "NaviVoice",
+    "url": "https://chromewebstore.google.com/detail/navivoice-voice-input-pro/ncfjfikcnmcljbjjkobdpilhmnjbmgpk",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 565,
+    "name": "voqal-assistant",
+    "description": "Voqal",
+    "url": "https://voqal.dev",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 566,
+    "name": "call-ai-smart-call-assistant",
+    "description": "Call AI",
+    "url": "https://apps.apple.com/in/app/id6737822050",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 567,
+    "name": "remy",
+    "description": "Remy",
+    "url": "https://apps.apple.com/us/app/remy-ai-cooking-assistant/id6738160281",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 568,
+    "name": "ain-finance",
+    "description": "Ain Finance",
+    "url": "https://ain.finance",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 569,
+    "name": "jiff-genius",
+    "description": "Jiff Genius AI",
+    "url": "https://jfgenius.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 570,
+    "name": "speek-ai",
+    "description": "Speek",
+    "url": "https://www.speekhq.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 571,
+    "name": "albert-ai",
+    "description": "Albert AI",
+    "url": "https://albert-ai.bot",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 572,
+    "name": "hellocalinda",
+    "description": "HelloCaLinda",
+    "url": "https://apps.apple.com/us/app/hellocalinda/id6502412356",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 573,
+    "name": "taskopi-com",
+    "description": "Taskopi",
+    "url": "https://taskopi.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 574,
+    "name": "strikingo",
+    "description": "Strikingo",
+    "url": "https://strikingo.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 575,
+    "name": "inbox-narrator",
+    "description": "Inbox Narrator",
+    "url": "https://inboxnarrator.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 576,
+    "name": "zendial",
+    "description": "Zendial",
+    "url": "https://zendial.me",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 577,
+    "name": "genji-ai-browser-assistant",
+    "description": "Genji",
+    "url": "https://chromewebstore.google.com/detail/genji-ai-browser-assistan/jgoncjpgeegjhdecejnfnpjnfmhohgdf",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 578,
+    "name": "assiai",
+    "description": "AssiAI",
+    "url": "https://www.assiai.fun",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 579,
+    "name": "naxos-ai",
+    "description": "Naxos.ai Voice Assistant",
+    "url": "https://chromewebstore.google.com/detail/naxosai/jcbnmgiknnljfaphfjlpjdcgjnohboho",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 580,
+    "name": "autonomousagent",
+    "description": "AutonomousAgent",
+    "url": "https://autonomousagent.in",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 581,
+    "name": "message-ai",
+    "description": "ChatGPT Cross Platform App",
+    "url": "https://apps.apple.com/us/app/message-ai/id6448740961",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 582,
+    "name": "aivanti",
+    "description": "Aivanti",
+    "url": "https://www.aivanti.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 583,
+    "name": "talk-to-chatgpt",
+    "description": "Talk-to-ChatGPT",
+    "url": "https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 584,
+    "name": "two-way-voice-for-chatgpt",
+    "description": "ChatGPT Voice Interaction Extension",
+    "url": "https://chromewebstore.google.com/detail/two-way-voice-for-chatgpt/jpcffejadencmkphckmkhcfcpimdacko",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 585,
+    "name": "mywhy-real-time-ai-voice-therapist",
+    "description": "MyWhy",
+    "url": "https://mywhyai.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 586,
+    "name": "smoove-call",
+    "description": "SmooveCall",
+    "url": "https://smoovecall.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 587,
+    "name": "gptoncall",
+    "description": "GPTOnCall",
+    "url": "https://gptoncall.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 588,
+    "name": "localhostai",
+    "description": "LocalhostAI",
+    "url": "https://www.localhostai.xyz",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 589,
+    "name": "safina-ai",
+    "description": "Safina AI",
+    "url": "https://safina.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 590,
+    "name": "narrator-audiobook-maker",
+    "description": "Narrator",
+    "url": "https://narratorapp.co",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 591,
+    "name": "aladdin-lamp",
+    "description": "Aladdin lamp",
+    "url": "https://apps.apple.com/us/app/aladdin-lamp/id6446077052",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 592,
+    "name": "chatdox-ai-2-0",
+    "description": "AI Personal Assistant",
+    "url": "https://www.chatdox.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 593,
+    "name": "practice-spanish-with-sheila",
+    "description": "Sheila",
+    "url": "https://apps.apple.com/vn/app/practice-spanish-with-sheila/id6449444976",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 594,
+    "name": "nodial-io",
+    "description": "nodial.io",
+    "url": "https://nodial.io",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 595,
+    "name": "whisprlist",
+    "description": "Whisprlist",
+    "url": "https://whisprlist.com",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 596,
+    "name": "voice-to-text-transcribe-live",
+    "description": "Transcribe Live",
+    "url": "https://apps.apple.com/us/app/speechmate-voice-to-text/id6447562834",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 597,
+    "name": "speakshift-ai",
+    "description": "SpeakShift",
+    "url": "https://speakshift.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 598,
+    "name": "loo-fm",
+    "description": "Harmon - Your AI Coach",
+    "url": "https://loo.fm",
+    "category": "Voice",
+    "tags": [
+      "ai-voice-assistants"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 599,
+    "name": "tomato-ai",
+    "description": "Tomato.ai",
+    "url": "https://tomato.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 600,
+    "name": "weever-ai",
+    "description": "weever.ai",
+    "url": "https://weever.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 601,
+    "name": "sarv-nc-lite",
+    "description": "Sarv NS",
+    "url": "https://chromewebstore.google.com/detail/sarv-nc-lite/kgbcpooeiicongajmmkhhfelhjpnkccj",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 602,
+    "name": "describewise",
+    "description": "DescribeWise",
+    "url": "https://www.describewise.com",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 603,
+    "name": "cloudstudio",
+    "description": "CloudStudio",
+    "url": "https://cloudstudio.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 604,
+    "name": "sanas-ai",
+    "description": "Sanas",
+    "url": "https://sanas.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 605,
+    "name": "whisper-ai",
+    "description": "Whisper AI",
+    "url": "https://whisper.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 606,
+    "name": "veed-io",
+    "description": "VEED.IO",
+    "url": "https://veed.io",
+    "category": "Voice",
+    "tags": [
+      "ai-noise-cancellation"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 607,
+    "name": "ai-music-creator-text-to-song",
+    "description": "AI Music Creator",
+    "url": "https://apps.apple.com/us/app/ai-music-creator-text-to-song/id6477145709",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 608,
+    "name": "fugatto-ai",
+    "description": "NVIDIA Fugatto AI",
+    "url": "https://fugattoai.org",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 609,
+    "name": "musicbabies-app",
+    "description": "MusicBabies.app",
+    "url": "https://www.musicbabies.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 610,
+    "name": "mizanme",
+    "description": "MizanMe",
+    "url": "https://mizanme.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 611,
+    "name": "melio",
+    "description": "Melio",
+    "url": "https://www.melio.dev",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 612,
+    "name": "diffrhythm-ai",
+    "description": "DiffRhythm AI",
+    "url": "https://diffrhythm.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 613,
+    "name": "lyrics-to-song-ai",
+    "description": "Lyrics To Song AI",
+    "url": "https://lyricstosong.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 614,
+    "name": "playlistgpt",
+    "description": "PlaylistGPT",
+    "url": "https://playlistgpt.app",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 615,
+    "name": "eliorai",
+    "description": "Eliorai",
+    "url": "https://eliorai.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 616,
+    "name": "ujam-ai-turn-text-to-tunes",
+    "description": "uJam",
+    "url": "https://apps.apple.com/app/ujam-ai-turn-text-to-tunes/id6463497290",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 617,
+    "name": "heymusic-ai",
+    "description": "HeyMusic.AI",
+    "url": "https://heymusic.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 618,
+    "name": "itoka-museengine",
+    "description": "Itoka",
+    "url": "https://www.itoka.xyz",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 619,
+    "name": "musichero-ai",
+    "description": "MusicHero.ai",
+    "url": "https://musichero.ai",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 620,
+    "name": "melobytes-com",
+    "description": "Melobytes.com",
+    "url": "https://melobytes.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 621,
+    "name": "xa-ai-music",
+    "description": "AI Music Generator",
+    "url": "https://xaaimusic.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 622,
+    "name": "suno-ai-music-generator-free-online",
+    "description": "aimusic.so",
+    "url": "https://chromewebstore.google.com/detail/suno-ai-music-generator-f/clfadkmcbfemcnmaekijcfgaaahpbhlb",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 623,
+    "name": "sunoify",
+    "description": "Sunoify",
+    "url": "https://sunoify.com",
+    "category": "Voice",
+    "tags": [
+      "text-to-music"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 624,
+    "name": "talkingpets-ai",
+    "description": "TalkingPets.ai",
+    "url": "https://talkingpets.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 625,
+    "name": "aibstract",
+    "description": "Musical Intelligence",
+    "url": "https://aibstract.fr",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 626,
+    "name": "country-lyrics-ai",
+    "description": "Country Lyrics AI",
+    "url": "https://www.countrylyrics.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 627,
+    "name": "ai-music-generator-app",
+    "description": "AI Music Generator (AMG)",
+    "url": "https://ai-music-generator.app",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 628,
+    "name": "ai-singing",
+    "description": "AI Singing",
+    "url": "https://aisinging.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 629,
+    "name": "delphos-ai-music",
+    "description": "Delphos",
+    "url": "https://delphos.ai",
+    "category": "Voice",
+    "tags": [
+      "ai-singing-generator"
+    ],
+    "create_date": "2025-03-23"
   }
 ]

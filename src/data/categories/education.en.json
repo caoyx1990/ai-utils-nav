@@ -1,14 +1,6910 @@
 [
   {
-    "id": 8,
-    "name": "Grammarly",
-    "description": "AI-powered writing assistant that checks grammar, spelling, and enhances writing style.",
-    "url": "https://www.grammarly.com/",
-    "image": "src/assets/images/tools/grammarly.png",
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "Education",
     "tags": [
-      "Grammar Checker",
-      "Writing Assistant"
+      "ai-homework-helper"
     ],
-    "create_date": "2025-03-16"
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "mathonhand",
+    "description": "MathOnHand",
+    "url": "https://www.linkedin.com/company/mathonhand",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "gauthmath-com",
+    "description": "Gauthmath",
+    "url": "https://gauthmath.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "coursehero-com",
+    "description": "Course Hero",
+    "url": "https://coursehero.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "updf-ai",
+    "description": "UPDF AI",
+    "url": "https://updf.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "mathgpt-ai-math-solver-animator",
+    "description": "MathGPT",
+    "url": "https://math-gpt.org",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "mathful",
+    "description": "Mathful",
+    "url": "http://mathful.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "mathful-com",
+    "description": "Mathful",
+    "url": "https://www.mathful.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "snapxam",
+    "description": "SnapXam",
+    "url": "https://www.snapxam.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "ahelp",
+    "description": "AHelp",
+    "url": "https://ahelp.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "ryne-ai",
+    "description": "Ryne AI",
+    "url": "https://ryne.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "flashka",
+    "description": "Flashka",
+    "url": "https://www.flashka.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
+    "url": "https://sourcetable.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "caktus",
+    "description": "Caktus AI",
+    "url": "https://www.caktus.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "studyflash",
+    "description": "Studyflash",
+    "url": "https://studyflash.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "questionai-ai",
+    "description": "Question AI",
+    "url": "https://www.QuestionAI.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "tutoreva-campus-ai-study-help",
+    "description": "TutorEva",
+    "url": "https://www.tutoreva.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "homeworkify-im-homework-with-gpt-4o",
+    "description": "Homeworkify.im",
+    "url": "https://homeworkify.im",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "questionai-io",
+    "description": "Question AI",
+    "url": "https://questionai.io",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "conch-ai",
+    "description": "Conch AI",
+    "url": "https://getconch.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "fotoexamen",
+    "description": "FotoExamen",
+    "url": "https://www.fotoexamen.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "stealthly",
+    "description": "Stealthly AI",
+    "url": "http://stealthly.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 25,
+    "name": "studybuddy-gg",
+    "description": "Study Buddy",
+    "url": "https://studybuddy.gg",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "homeworkai-ai",
+    "description": "Homework AI",
+    "url": "https://www.homeworkAI.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "homeworkai",
+    "description": "HomeworkAI",
+    "url": "https://homeworkai.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "overchat",
+    "description": "Overchat",
+    "url": "https://overchat.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "knowee-ai",
+    "description": "Knowee AI",
+    "url": "https://knowee.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "homework-solver-by-college-tools",
+    "description": "College Tools: Fast-track Your Homework",
+    "url": "https://www.collegetools.io",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "edubrain-ai-homework-helper",
+    "description": "Edubrain.ai",
+    "url": "https://edubrain.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "kompas-ai",
+    "description": "Kompas AI",
+    "url": "https://kompas.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "examup-com",
+    "description": "ExamUp",
+    "url": "https://www.examup.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "homework-ai",
+    "description": "ExamUp",
+    "url": "https://examup.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "quiz-solver-ai",
+    "description": "QuizSolver",
+    "url": "https://quizsolverai.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "lingban-ai-free-ai-assistant",
+    "description": "灵办AI",
+    "url": "https://ilingban.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "geniustutor-ai",
+    "description": "GeniusTutor",
+    "url": "https://www.geniustutor.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "chat-university-v1",
+    "description": "Chat University",
+    "url": "https://chatuniversity.co.uk",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "profound-academy",
+    "description": "Profound Academy",
+    "url": "https://profound.academy",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "scholarbot-ai",
+    "description": "ScholarBot",
+    "url": "https://www.scholarbot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "passme-ai-1",
+    "description": "PassMe AI",
+    "url": "https://PassMe.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "mathsolver-top",
+    "description": "MathSolver.top",
+    "url": "https://www.mathsolver.top",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "learnt-ai",
+    "description": "Learnt.ai",
+    "url": "https://learnt.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "aidemia-co",
+    "description": "Aidemia",
+    "url": "https://aidemia.co",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "tutorly-ai",
+    "description": "Tutorly.ai",
+    "url": "https://tutorly.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "monic-ai",
+    "description": "Monic.ai",
+    "url": "https://beta.monic.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "sumazon-com",
+    "description": "Sumazon",
+    "url": "https://sumazon.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "revix-ai",
+    "description": "Revix AI",
+    "url": "https://revix.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "cogent",
+    "description": "Cogent",
+    "url": "https://joincogent.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "examify-ai",
+    "description": "Examify AI",
+    "url": "https://www.examify-ai.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "kaizhao",
+    "description": "kaizhao",
+    "url": "https://collegebot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "schoolai",
+    "description": "SchoolAI - The Ultimate AI Writer for Schools",
+    "url": "https://www.schoolai.co",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "math-x",
+    "description": "Math-X",
+    "url": "https://www.xmath.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "maths-ai",
+    "description": "maths.ai",
+    "url": "https://maths.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "kidtivity-lab",
+    "description": "Kidtivity Lab",
+    "url": "https://kidtivitylab.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "voicecalc-ai-math-calculator",
+    "description": "VoiceCalc",
+    "url": "https://voicecalculator.app",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "study-buddy-ai",
+    "description": "Study Buddy AI",
+    "url": "https://studybuddyai.app",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "brainly-co",
+    "description": "Brainly",
+    "url": "https://brainly.co",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "hello-wonder",
+    "description": "Hello Wonder",
+    "url": "https://hellowonder.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "ai-homeworkify",
+    "description": "AI Homeworkify",
+    "url": "https://ai-homeworkify.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "classroomplans",
+    "description": "Classroom Plans",
+    "url": "https://classroomplans.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "examful-ai-free-ap-ib-and-a-level-past-papers-and-tutoring",
+    "description": "Examful.ai: Free AP, IB, and A-Level Past Papers and Tutoring",
+    "url": "https://examful.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "collabmap",
+    "description": "CollabMap",
+    "url": "https://collabmap-ai.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "study-point-ai",
+    "description": "Study Point AI",
+    "url": "https://studypointai.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "teddy-ai",
+    "description": "Teddy AI - Study buddy for children",
+    "url": "https://teddyai.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "homeworkify",
+    "description": "Homeworkify",
+    "url": "https://homeworkifyy.net",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "teachify-ai-teaching-assistant",
+    "description": "Teachify",
+    "url": "https://www.teachify.online",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "ai-math",
+    "description": "AI Math",
+    "url": "https://ai-math.top",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "lecha-ai-note-taker",
+    "description": "Lecha",
+    "url": "https://lecha.app",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "free-math-ai-tutor-mathgpt",
+    "description": "MathGPT",
+    "url": "https://chromewebstore.google.com/detail/free-math-ai-tutor-mathgp/jnmbmhjdadpmokmhminndcfennnadblm",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "brainly-homework-help",
+    "description": "SchoolSolver",
+    "url": "https://chromewebstore.google.com/detail/brainly-homework-help/gfecjpfhkebjjmanebmejoflhajdgbpa",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "tutorup-ai-homework-exam-helper",
+    "description": "Homework Helper",
+    "url": "https://chromewebstore.google.com/detail/tutorup-ai-homework-exam/fadapffollpaenabliikgkdllhennpdh",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "prepgpt-asssistant",
+    "description": "PrepGPT",
+    "url": "https://chromewebstore.google.com/detail/prepgpt-asssistant/njbmanihlgjjkjpbncgjdmcdaljlleoe",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "praxy-ai-chatgpt-on-the-go-for-students",
+    "description": "Praxy",
+    "url": "https://chromewebstore.google.com/detail/praxy-ai-chatgpt-on-the-g/iccpnilbokebncnjbbplbjejgnaaeacd",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "ai-math-gpt-solver-online-powered-by-gpt-4o-math-bot",
+    "description": "AI Math GPT Solver Online Powered by GPT-4o | Math Bot",
+    "url": "https://math.bot",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "math-sniper-ai-math-solver",
+    "description": "Math Sniper",
+    "url": "https://mathsniper.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "snapsolve-ai",
+    "description": "SnapSolve AI",
+    "url": "https://chromewebstore.google.com/detail/snapsolve-ai/njfgmibbdnkkobaliaigpcgapdhdggfe",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "math-ai",
+    "description": "Math AI",
+    "url": "https://chromewebstore.google.com/detail/math-ai/dioapkekjoidbacpmfpnphhlobnneadd",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "brimink",
+    "description": "Brimink",
+    "url": "https://brimink.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "canvas-quiz-solver",
+    "description": "Canvas Quiz Answer Assistant",
+    "url": "https://chromewebstore.google.com/detail/canvas-quiz-solver/eiceeladfkklbbdlgpfhgclfhlmkpmjb",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "double-check-ai-extension",
+    "description": "Double Check",
+    "url": "https://chromewebstore.google.com/detail/double-check-ai/ciiaplbmocogjcakmllebilamknkfckg",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "scholarpal-academics",
+    "description": "ScholarPal",
+    "url": "https://chromewebstore.google.com/detail/scholarpal-academics/ijhflckdfndegkldggjhogbpdafcchag",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "open-tutor-app",
+    "description": "AI Homework Helper",
+    "url": "https://opentutor.app",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "math-now-free-math-ai-solver-powered-by-math-gpt",
+    "description": "Math.now: Free Math AI Solver powered by math GPT",
+    "url": "https://math.now",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "askcuddy",
+    "description": "AskCuddy",
+    "url": "https://chromewebstore.google.com/detail/askcuddy/jbfpcjllonidndiapmpfidjdekgcjnmc",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "redpal-ai-learning-buddy",
+    "description": "Redpal",
+    "url": "https://www.redpal.app",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "notaly-note-taking-ai",
+    "description": "Notaly",
+    "url": "https://apps.apple.com/us/app/notaly-note-taking-ai/id6737820381",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "ai-writer-emails-essays",
+    "description": "AI Writer: Emails & Essays",
+    "url": "https://apps.apple.com/us/app/ai-writer-emails-essays/id6502916091",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "ezwrite",
+    "description": "EZWRITE",
+    "url": "https://chromewebstore.google.com/detail/ezwrite/ooonchnhfakhdmpoohmbhojgpfnpdbip",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "mathgpt",
+    "description": "MathGPTPro",
+    "url": "https://chromewebstore.google.com/detail/mathgpt/pcalipadghojhpoinlkbgdkjkgbpnikn",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "leaving-cert-gpt",
+    "description": "Leaving Cert GPT",
+    "url": "https://leavingcertgpt.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "growmindgpt",
+    "description": "GrowMindGPT",
+    "url": "https://growmindgpt.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "outsource-breeze",
+    "description": "Outsource Breeze",
+    "url": "https://outsourcebreeze.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "craftaquiz",
+    "description": "CraftaQuiz",
+    "url": "https://craftaquiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "quillbro",
+    "description": "Quillbro",
+    "url": "https://quillbro.live",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "litstudy-ai",
+    "description": "LitStudy AI",
+    "url": "https://litstudy.io",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "slowmo-ai",
+    "description": "SlowMo Club",
+    "url": "https://slowmo.club",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "Education",
+    "tags": [
+      "ai-homework-helper"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "modelslab",
+    "description": "ModelsLab",
+    "url": "https://modelslab.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "befreed",
+    "description": "BeFreed",
+    "url": "https://www.befreed.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "interviews-by-ai",
+    "description": "interviewsby.ai",
+    "url": "https://interviewsby.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "verve-ai-interview-copilot",
+    "description": "Verve AI - Interview Copilot",
+    "url": "https://www.vervecopilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "fluently-ai-english-coach",
+    "description": "Fluently",
+    "url": "https://getfluently.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "solo-ai-website-creator",
+    "description": "Solo - Free AI Website Creator",
+    "url": "https://www.soloist.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "goodmeetings",
+    "description": "Goodmeetings",
+    "url": "https://goodmeetings.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "galichat",
+    "description": "GaliChat",
+    "url": "https://www.galichat.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "weightlifting-ai",
+    "description": "Weightlifting.AI",
+    "url": "https://weightlifting.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "bugfree-ai",
+    "description": "bugfree.ai",
+    "url": "https://bugfree.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "pokergpt",
+    "description": "PokerGPT",
+    "url": "https://pokergpt.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "niya-ai",
+    "description": "Niya",
+    "url": "https://niya.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "coachify-ai",
+    "description": "Coachify",
+    "url": "https://coachify.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "1440-time-on-purpose",
+    "description": "1440 - Connected Coach",
+    "url": "https://1440.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "english-coach-ai",
+    "description": "English Coach",
+    "url": "https://www.englishcoach.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "kiwi-fitness",
+    "description": "Kiwi Fitness",
+    "url": "https://www.trainwithkiwi.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "star-method-coach",
+    "description": "STAR Method Coach",
+    "url": "https://starmethod.coach",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "mocktalk",
+    "description": "Mocktalk",
+    "url": "https://mocktalk.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "nextsprints-resume-reviewer",
+    "description": "NextSprints",
+    "url": "https://nextsprints.com/resume-review",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "death-clock-ai",
+    "description": "Death Clock AI",
+    "url": "https://deathclockai.net",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "airn-your-ai-personal-growth-coach",
+    "description": "Airn",
+    "url": "https://airn.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "thriverr-ai-career-coach",
+    "description": "Thriverr",
+    "url": "https://thriverr.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "mentara",
+    "description": "Mentara",
+    "url": "https://mentara.io",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "jobsaicopilot",
+    "description": "JobsAICopilot",
+    "url": "https://jobsaicopilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "volt-intelligence",
+    "description": "Volt Intelligence",
+    "url": "https://voltintelligence.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "ace-interview-ai-interview-assistant",
+    "description": "Ace Interview - AI Interview Assistant",
+    "url": "https://aceinterview.co",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "interviewise",
+    "description": "Interviewise",
+    "url": "https://interviewise.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "skillzo",
+    "description": "Skillzo",
+    "url": "https://skillzo.tech",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "empatyzer",
+    "description": "Empatyzer",
+    "url": "https://empatyzer.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "debate-ai",
+    "description": "Debate AI",
+    "url": "https://debateai.net",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "vpt-fit",
+    "description": "VPT.FIT",
+    "url": "https://vpt.fit",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "progress-magic",
+    "description": "ProgressMagic",
+    "url": "https://www.progressmagic.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "zipgoals",
+    "description": "Zipgoals",
+    "url": "https://www.zipgoals.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "balm-ai",
+    "description": "AI Therapy Platform",
+    "url": "https://www.balm.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "cash-coach-ai",
+    "description": "CashCoach.ai",
+    "url": "https://cashcoach.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "ren-ai-leadership-coach",
+    "description": "Ren | AI Leadership Coach",
+    "url": "https://rencoach.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "steption",
+    "description": "Steption",
+    "url": "https://steption.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "tough-tongue-ai",
+    "description": "ToughTongue AI",
+    "url": "https://www.usearchieai.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "automated-app-coach",
+    "description": "Automated Coach Extension",
+    "url": "https://chromewebstore.google.com/detail/automated-app-coach/adhjpaicdpnchoggbnafkdghdodcmgge",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "intervai",
+    "description": "IntervAI",
+    "url": "https://www.intervai.net",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "sourd-oh",
+    "description": "Sourd'oh",
+    "url": "https://sourdoh.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "2-minute-warning-hudl-extension",
+    "description": "2 Minute Warning",
+    "url": "https://chromewebstore.google.com/detail/2-minute-warning-hudl-ext/iokchiggjggbgjooniogdogpcgjckhkc",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "ziwei-ai",
+    "description": "Ziwei AI",
+    "url": "https://ziweiai.com.cn",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "ai-coach-bud",
+    "description": "AI Coach Bud",
+    "url": "https://aicoachbud.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "ibobi-ai",
+    "description": "iBobi AI",
+    "url": "http://ibobi.pro",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "journey-supersystem",
+    "description": "THINK4X",
+    "url": "https://think4x.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "clones",
+    "description": "Clones",
+    "url": "https://meetclones.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "karin-ai-life-wellness-coach",
+    "description": "Karin AI",
+    "url": "https://meetkarin.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "psyfy",
+    "description": "Psyfy",
+    "url": "https://www.psyfy.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "neurture",
+    "description": "Neurture",
+    "url": "https://neurtureapp.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "restartcircle",
+    "description": "Restart Circle",
+    "url": "https://restartcircle.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "run-sniper",
+    "description": "Run Sniper",
+    "url": "https://runsniper.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "bobbychat",
+    "description": "Bobby Chat",
+    "url": "https://www.bobby-chat.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "harmoni-ai-beta",
+    "description": "Harmoni AI",
+    "url": "https://getharmoni.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "healingjourney",
+    "description": "healingjourney",
+    "url": "https://healingjourney.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "chat-eq",
+    "description": "Chat EQ",
+    "url": "https://chateq.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "sellmethispen",
+    "description": "SalesAssist",
+    "url": "https://chromewebstore.google.com/detail/sellmethispen/dcpjobjmablklmjigkcdjfjnmhgjpmkj",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "resolution-coach",
+    "description": "Resolution Coach",
+    "url": "https://resolutioncoach.co",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "phantom-ultimate-ai-fitness-coach",
+    "description": "Phantom Gym Planner",
+    "url": "https://apps.apple.com/us/app/phantom-ultimate-fitness-app/id6477784398",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "team-assessment",
+    "description": "Team Assessment",
+    "url": "https://teamassessment.co",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "luminaries-ai",
+    "description": "Luminaries",
+    "url": "https://www.luminaries.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "allwyse",
+    "description": "Allwyse",
+    "url": "https://allwyse.io",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "better-student",
+    "description": "Better Student",
+    "url": "https://betterstudent.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "bodybuilder-helper",
+    "description": "Workout Buddy",
+    "url": "https://apps.apple.com/us/app/bodybuilder-helper/id1645536857",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "whiz-ai-job-interview-prep",
+    "description": "Whiz",
+    "url": "https://trywhiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "fitpulse",
+    "description": "FitPulse - AI Fitness Trainer",
+    "url": "https://apps.apple.com/us/app/fitpulse-ai-fitness-trainer/id6478916264",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "interview-optimiser",
+    "description": "Interview Optimiser",
+    "url": "https://www.interviewoptimiser.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "traincoach",
+    "description": "TrainCoach",
+    "url": "https://traincoach.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "gendm",
+    "description": "GenDM",
+    "url": "https://gendm.co",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "aigrind",
+    "description": "AIgrind",
+    "url": "https://www.aigrind.me",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "actimate",
+    "description": "Actimate",
+    "url": "https://www.actimate.io",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "soulshub",
+    "description": "SoulsHub",
+    "url": "https://soulshub.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "code-coach",
+    "description": "Code Coach",
+    "url": "https://www.trycodecoach.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "dailyfitness",
+    "description": "DailyFitness",
+    "url": "https://www.dailyfitnessapp.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "lee-ai",
+    "description": "Lee-AI",
+    "url": "https://www.lee-ai.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "resumeready",
+    "description": "ResumeReady",
+    "url": "http://resumeready.site",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "better-self-ai",
+    "description": "Better Self AI",
+    "url": "https://betterselfai.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "smartwebi",
+    "description": "SmartWebi",
+    "url": "https://smartwebi.in",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "calibrated-athlete",
+    "description": "Calibrated Athlete",
+    "url": "https://calibratedathlete.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "coachchat",
+    "description": "Coachchat",
+    "url": "https://coachchat.me",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "product-hunt-pilot",
+    "description": "KlydaAI",
+    "url": "https://www.phpilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "speakbrightly",
+    "description": "SpeakBrightly",
+    "url": "https://speakbrightly.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "ready-ai-goal-habit-tracker",
+    "description": "Ready",
+    "url": "https://theready.app",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "zeroburn",
+    "description": "ZeroBurn",
+    "url": "https://zeroburn.me",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "pierce",
+    "description": "Pierce",
+    "url": "https://meetpierce.com",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "teachguin-ai",
+    "description": "Teachguin - online tutoring platform",
+    "url": "https://teachguin.ai",
+    "category": "Education",
+    "tags": [
+      "ai-coaching"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "glasp",
+    "description": "Glasp",
+    "url": "https://glasp.co",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "the-new-gitbook",
+    "description": "GitBook",
+    "url": "https://gitbook.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "active-recall",
+    "description": "Recall",
+    "url": "https://www.getrecall.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "vocai-chatbot",
+    "description": "Voc AI Chatbot",
+    "url": "https://www.voc.ai/tools/ai-chatbot",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "harvey",
+    "description": "Harvey",
+    "url": "https://www.harvey.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "sana-labs",
+    "description": "Sana",
+    "url": "https://www.sanalabs.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "ai-online-course",
+    "description": "AiOnlinecourse",
+    "url": "https://www.aionlinecourse.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "bettermode",
+    "description": "Bettermode",
+    "url": "https://bettermode.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "appflowy-open-source-notion-alternative",
+    "description": "AppFlowy",
+    "url": "https://www.appflowy.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "albus-beta",
+    "description": "Albus",
+    "url": "https://albus.org",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "huntr-com",
+    "description": "huntr",
+    "url": "https://huntr.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "loubby-ai",
+    "description": "Loubby AI",
+    "url": "https://www.loubby.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "help-center",
+    "description": "Help.center",
+    "url": "https://help.center",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "heritcoin",
+    "description": "HeritCoin",
+    "url": "https://www.heritcoin.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "quickchat",
+    "description": "Quickchat AI",
+    "url": "https://www.quickchat.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "cantian-ai",
+    "description": "Cantian AI",
+    "url": "https://cantian.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "the-drive-ai",
+    "description": "The Drive AI",
+    "url": "https://thedrive.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "inkeep",
+    "description": "Inkeep",
+    "url": "https://inkeep.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "tettra-co",
+    "description": "Tettra",
+    "url": "https://tettra.co",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "ncurator",
+    "description": "Ncurator",
+    "url": "https://ncurator.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "free-vector-database-comparison-tool-from-superlinked",
+    "description": "Vector DB Comparison",
+    "url": "https://superlinked.com/vector-db-comparison",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "wowto",
+    "description": "WowTo",
+    "url": "https://wowto.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "oversight-com",
+    "description": "Oversight",
+    "url": "https://oversight.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "aide",
+    "description": "Aide - AI Integrations for Customer Support",
+    "url": "https://aide.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "agent-one",
+    "description": "Agent One",
+    "url": "https://agnt.one",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "keymate-ai",
+    "description": "Keymate.AI",
+    "url": "https://keymate.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "mool-ai",
+    "description": "Mool.AI",
+    "url": "https://www.mool.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "memfree",
+    "description": "MemFree",
+    "url": "https://www.memfree.me",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "lexy",
+    "description": "Notion Chatbot",
+    "url": "https://lexy.so",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "plazbot",
+    "description": "Plazbot",
+    "url": "https://www.plazbot.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "superpowered-ai",
+    "description": "Superpowered AI",
+    "url": "https://superpowered.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "cypher-scribe",
+    "description": "CypherScribe",
+    "url": "https://cypherscribe.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "sql-notes",
+    "description": "Datascale",
+    "url": "https://getdatascale.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "unless-com",
+    "description": "Unless",
+    "url": "https://unless.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "emberly",
+    "description": "Emberly",
+    "url": "https://ember.ly",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "kili",
+    "description": "Kili",
+    "url": "https://www.kili.so",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "notation",
+    "description": "Notation",
+    "url": "https://notation.so",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 238,
+    "name": "thewordsmith-ai",
+    "description": "TheWordsmith.ai",
+    "url": "https://thewordsmith.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 239,
+    "name": "beloga",
+    "description": "Beloga",
+    "url": "https://beloga.xyz",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 240,
+    "name": "manuel",
+    "description": "Manuel",
+    "url": "https://manuel.chat",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 241,
+    "name": "athena-copilot",
+    "description": "Athena AI",
+    "url": "https://athenacopilot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 242,
+    "name": "podscribe-io",
+    "description": "Podscribe.IO",
+    "url": "https://podscribe.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 243,
+    "name": "knowledgegpt",
+    "description": "KnowledgeGPT",
+    "url": "https://knowledgegpt.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 244,
+    "name": "perfect-wiki",
+    "description": "Perfect Wiki",
+    "url": "https://perfectwiki.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 245,
+    "name": "moyonote",
+    "description": "moyoNote",
+    "url": "https://moyonote.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 246,
+    "name": "gems",
+    "description": "Gems",
+    "url": "https://www.gems.so",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 247,
+    "name": "complexity",
+    "description": "Complexity",
+    "url": "https://cplx.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 248,
+    "name": "insights-by-ayraa",
+    "description": "Insights - Ayraa",
+    "url": "https://www.ayraa.io/solutions/insights",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 249,
+    "name": "jelled-ai",
+    "description": "Jelled.ai",
+    "url": "https://jelled.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 250,
+    "name": "monexa",
+    "description": "Monexa - Financial Analysis Platform",
+    "url": "https://www.monexa.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 251,
+    "name": "nexai",
+    "description": "Nexai",
+    "url": "https://nexai.site/en",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 252,
+    "name": "myip-ai",
+    "description": "MyIP AI",
+    "url": "https://myip.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 253,
+    "name": "breef-docs",
+    "description": "Breef Docs",
+    "url": "https://breefdocs.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 254,
+    "name": "learnbase",
+    "description": "Learnbase",
+    "url": "https://learnbase.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 255,
+    "name": "monobot-ai-virtual-ai-assistant",
+    "description": "Monobot",
+    "url": "https://monobot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 256,
+    "name": "amanu",
+    "description": "Amanu",
+    "url": "https://amanu.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 257,
+    "name": "smitty-ai",
+    "description": "Smitty.ai",
+    "url": "https://smitty.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 258,
+    "name": "trainmy-ai",
+    "description": "TrainMyAI",
+    "url": "https://trainmy.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 259,
+    "name": "nullity-ai",
+    "description": "Nullity AI",
+    "url": "https://nullityai.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 260,
+    "name": "wizychat",
+    "description": "WizyChat",
+    "url": "https://wizy.chat",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 261,
+    "name": "response-cx",
+    "description": "ReSponse CX",
+    "url": "https://response.cx",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 262,
+    "name": "docent",
+    "description": "Docent",
+    "url": "https://www.trydocent.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 263,
+    "name": "askmydocs-ai",
+    "description": "AskMyDocs.ai",
+    "url": "https://askmydocs.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 264,
+    "name": "postdio",
+    "description": "Postdio",
+    "url": "https://www.postdio.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 265,
+    "name": "promptpadawan",
+    "description": "PromptPadawan",
+    "url": "https://promptpadawan.fr",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 266,
+    "name": "passisto-online",
+    "description": "Passisto Online",
+    "url": "https://www.passisto.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 267,
+    "name": "mochii",
+    "description": "Mochii",
+    "url": "https://www.mochii.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 268,
+    "name": "summifyai",
+    "description": "Summify",
+    "url": "https://www.summifyai.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 269,
+    "name": "chrome-ai",
+    "description": "Chrome Built-in AI Tool",
+    "url": "https://chrome-ai.cc",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 270,
+    "name": "searchunify-intranet-extension",
+    "description": "Intranet Search Extension",
+    "url": "https://chromewebstore.google.com/detail/searchunify-intranet-exte/pmhecnoiipemlegeniaealcnhfjmmknl",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 271,
+    "name": "vinehelper",
+    "description": "VineHelper™",
+    "url": "https://chromewebstore.google.com/detail/vinehelper/cnlknekhabfgcmdldancnobgjfcklelj",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 272,
+    "name": "rknown2notion",
+    "description": "Read Known",
+    "url": "https://chromewebstore.google.com/detail/rknown2notion/mbdfankamfimnngflmdlfekjfdcnpnca",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 273,
+    "name": "whismer-ai",
+    "description": "Whismer",
+    "url": "https://whismer.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 274,
+    "name": "arivix",
+    "description": "Arivix",
+    "url": "https://arivix.in",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 275,
+    "name": "sheriff",
+    "description": "Sheriff",
+    "url": "https://heysheriff.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 276,
+    "name": "jiff-genius",
+    "description": "Jiff Genius AI",
+    "url": "https://jfgenius.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 277,
+    "name": "kimi小助手",
+    "description": "Kimi Assistant",
+    "url": "https://chromewebstore.google.com/detail/kimi小助手/lcmnamhindlgdelifemnmkecaabdglle",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-base"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 278,
+    "name": "portfoliopilot",
+    "description": "PortfolioPilot",
+    "url": "https://www.portfoliopilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 279,
+    "name": "salescloser-ai-1",
+    "description": "SalesCloser AI",
+    "url": "https://salescloser.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 280,
+    "name": "wizdom-ai",
+    "description": "wizdom.ai",
+    "url": "https://wizdom.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 281,
+    "name": "autoflow",
+    "description": "AutoFlow",
+    "url": "https://tidb.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 282,
+    "name": "pandagpt-io",
+    "description": "PandaGPT",
+    "url": "https://www.pandagpt.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 283,
+    "name": "citrus-search",
+    "description": "Citrus",
+    "url": "https://citrus-search.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 284,
+    "name": "neuradocs",
+    "description": "Neuradocs",
+    "url": "https://getneuradocs.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 285,
+    "name": "searchsaga",
+    "description": "SearchSaga",
+    "url": "https://www.searchsaga.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 286,
+    "name": "bohr-chat",
+    "description": "Bohr Chat",
+    "url": "https://chromewebstore.google.com/detail/bohr-chat/ofiikngbofpieolaoaapmagieemaapoa",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 287,
+    "name": "chatllama-chat-with-ai",
+    "description": "ChatLlama",
+    "url": "https://chromewebstore.google.com/detail/chatllama-chat-with-ai/fcdojpdldjikpnnokjnnmgbglgmmgnin",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 288,
+    "name": "soopra",
+    "description": "Soopra",
+    "url": "https://www.soopra.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 289,
+    "name": "moyunote",
+    "description": "moyuNote",
+    "url": "https://chromewebstore.google.com/detail/moyunote/acfidkacggnmllofnihochlldpkiejmd",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 290,
+    "name": "alva",
+    "description": "Alva",
+    "url": "https://chromewebstore.google.com/detail/alva/moeiianjbcjnomgomanjhilnlmfafpbj",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 291,
+    "name": "chatgpt-4-for-google-chatgpt-everywhere",
+    "description": "Fusion Chat",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-4-for-google-chat/bflmnoacgfmbdfinmbiapbanfobpglba",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 292,
+    "name": "bookmark-plus-by-vidura",
+    "description": "Bookmark Plus",
+    "url": "https://chromewebstore.google.com/detail/bookmark-plus-by-vidura/gpohonhkmfflcggjbedeeiekpkejemib",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 293,
+    "name": "knower-你的知识助手",
+    "description": "Knower",
+    "url": "https://chromewebstore.google.com/detail/knower-你的知识助手/gjhabkcncblppifjnfjfhfpdihlakani",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 294,
+    "name": "unleash",
+    "description": "Unleash",
+    "url": "https://chromewebstore.google.com/detail/unleash/pkfecjdpmgkkjphajlbgbgnnepclinhe",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 295,
+    "name": "bioseek-reader",
+    "description": "BioSeek Reader",
+    "url": "https://chromewebstore.google.com/detail/bioseek-reader/mkfaibcieogbhcneiohnhggglkdmncmo",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 296,
+    "name": "glasp-web-highlighter-pdf-web-highlights",
+    "description": "Glasp",
+    "url": "https://chromewebstore.google.com/detail/glasp-web-highlighter-pdf/blillmbchncajnhkjfdnincfndboieik",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 297,
+    "name": "structurepedia",
+    "description": "Structurepedia",
+    "url": "https://structurepedia.org",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 298,
+    "name": "yc-application-optimizer",
+    "description": "KnowSilos",
+    "url": "https://www.knowsilos.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 299,
+    "name": "omnilabs-ai",
+    "description": "Omniscience",
+    "url": "https://omnilabs.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 300,
+    "name": "graphzila",
+    "description": "Graphzila",
+    "url": "https://graphzila.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 301,
+    "name": "goover",
+    "description": "Goover AI",
+    "url": "https://www.goover.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 302,
+    "name": "openknowledgemaps-org",
+    "description": "Open Knowledge Maps",
+    "url": "https://openknowledgemaps.org",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 303,
+    "name": "hika",
+    "description": "Hika AI",
+    "url": "https://hika.fyi",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 304,
+    "name": "assess-com",
+    "description": "Assessment Systems",
+    "url": "https://assess.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 305,
+    "name": "kyc-hub",
+    "description": "KYC Hub",
+    "url": "https://www.kychub.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 306,
+    "name": "socratic-lab",
+    "description": "Socratic Lab",
+    "url": "https://www.solab.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 307,
+    "name": "epsilla",
+    "description": "Epsilla",
+    "url": "https://epsilla.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 308,
+    "name": "nodeland",
+    "description": "NodeLand",
+    "url": "https://nodeland.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 309,
+    "name": "imandra-ai",
+    "description": "Imandra Inc.",
+    "url": "https://imandra.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 310,
+    "name": "omniscience",
+    "description": "Omniscience",
+    "url": "https://omniscience.tech",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 311,
+    "name": "chat-tree-app",
+    "description": "Chat Tree",
+    "url": "https://chattree.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 312,
+    "name": "quanty",
+    "description": "Quanty",
+    "url": "https://quanty.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 313,
+    "name": "data-on-demand",
+    "description": "Data on Demand",
+    "url": "https://dod.humanli.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 314,
+    "name": "超级助理",
+    "description": "Super Assistant",
+    "url": "https://chromewebstore.google.com/detail/超级助理/jicmdohfhmaaaifikjmjafcflgochgnc",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 315,
+    "name": "illiad",
+    "description": "Illiad",
+    "url": "https://chromewebstore.google.com/detail/illiad/jiggadnmcmbdpofgkablihabdghjdjhm",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 316,
+    "name": "knotix",
+    "description": "Knotix",
+    "url": "https://knotix.net",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 317,
+    "name": "topiq",
+    "description": "TOPIQ",
+    "url": "https://topiq.pro",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 318,
+    "name": "sider",
+    "description": "Sider",
+    "url": "https://sider.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 319,
+    "name": "macromicro",
+    "description": "MacroMicro",
+    "url": "https://en.macromicro.me",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 320,
+    "name": "txyz-ai",
+    "description": "TXYZ.AI",
+    "url": "https://txyz.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 321,
+    "name": "symphonyai-com",
+    "description": "SymphonyAI",
+    "url": "https://symphonyai.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 322,
+    "name": "gosearch",
+    "description": "GoSearch",
+    "url": "https://www.gosearch.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 323,
+    "name": "ottogrid",
+    "description": "Otto AI Research Agent",
+    "url": "https://ottogrid.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 324,
+    "name": "tailoredread",
+    "description": "TailoredRead",
+    "url": "https://tailoredread.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 325,
+    "name": "hebbia-ai",
+    "description": "Hebbia AI",
+    "url": "https://www.hebbia.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 326,
+    "name": "squirro-com",
+    "description": "Squirro",
+    "url": "https://squirro.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 327,
+    "name": "biologpt",
+    "description": "bioloGPT",
+    "url": "https://biologpt.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 328,
+    "name": "storia-ai",
+    "description": "Storia AI",
+    "url": "https://storia.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 329,
+    "name": "anchain-ai",
+    "description": "AnChainAI",
+    "url": "https://anchain.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "auto-wiki",
+    "description": "Mutable.ai Auto Wiki",
+    "url": "https://wiki.mutable.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 331,
+    "name": "sense-2-0",
+    "description": "Sense",
+    "url": "https://senseapp.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 332,
+    "name": "asknews",
+    "description": "AskNews",
+    "url": "https://asknews.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 333,
+    "name": "muddy",
+    "description": "Muddy Browser",
+    "url": "https://feelmuddy.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 334,
+    "name": "codeguideai",
+    "description": "CodeGuide",
+    "url": "https://codeguide.pro",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 335,
+    "name": "profundo",
+    "description": "Profundo",
+    "url": "https://profundo.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 336,
+    "name": "socratiq",
+    "description": "SocratiQ",
+    "url": "https://socratiq.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 337,
+    "name": "soma",
+    "description": "SOMA: Research Automation Platform",
+    "url": "https://soma.science",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 338,
+    "name": "journo-ai",
+    "description": "Journo AI",
+    "url": "https://www.journo.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 339,
+    "name": "lilac",
+    "description": "Lilac",
+    "url": "https://lilacml.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 340,
+    "name": "augmend",
+    "description": "Augmend",
+    "url": "https://www.augmend.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 341,
+    "name": "hyperllm-hybrid-retrieval-transformers",
+    "description": "HyperLLM",
+    "url": "https://hyperllm.org",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 342,
+    "name": "jotlify",
+    "description": "Jotlify",
+    "url": "https://jotlify.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 343,
+    "name": "skimming-ai",
+    "description": "Skimming.ai",
+    "url": "https://chromewebstore.google.com/detail/skimming-ai/eofecgjfpjhabldlabgijmahnnaefljh",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 344,
+    "name": "casey-scholar",
+    "description": "Casey Scholar",
+    "url": "https://www.casey-scholar.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 345,
+    "name": "legalgraph-ai-based-legal-assistant",
+    "description": "Legal Graph",
+    "url": "https://legalgraph.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 346,
+    "name": "nuclia-tools",
+    "description": "Nuclia",
+    "url": "https://chromewebstore.google.com/detail/nuclia-tools/omloknocmecnihlkbheeccidmelihanc",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 347,
+    "name": "vortix",
+    "description": "Vortex AI Search Engine",
+    "url": "https://vortix.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 348,
+    "name": "科研加",
+    "description": "Research and Academic Assistant",
+    "url": "https://chromewebstore.google.com/detail/科研加/pojkeddnmhjpgknkogaiedkjcmdjolmj",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 349,
+    "name": "data-analytics-for-smb",
+    "description": "Datacog",
+    "url": "https://beta.datacog.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 350,
+    "name": "journeytracker",
+    "description": "JourneyTracker",
+    "url": "https://chromewebstore.google.com/detail/journeytracker/elejaglkjbbglchaghioimmhgdhiblja",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 351,
+    "name": "myreach-web-clipper",
+    "description": "myReach",
+    "url": "https://chromewebstore.google.com/detail/myreach-web-clipper/kegfimibbdadlkgbiijhljlolgfndcem",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 352,
+    "name": "kaspian",
+    "description": "Kaspian",
+    "url": "https://chromewebstore.google.com/detail/kaspian/immhopjgdpncjbkmkmobjfpmmcjeommi",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 353,
+    "name": "wintermute-ai-web-companion",
+    "description": "Wintermute AI",
+    "url": "https://chromewebstore.google.com/detail/wintermute-ai-web-compani/ifnehfmkjolgmghkmfpphapbbffckbnp",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 354,
+    "name": "collective-knowledge",
+    "description": "cKnowledge.io",
+    "url": "https://chromewebstore.google.com/detail/collective-knowledge/mlemchkmighdglpgfchopcjoegbnenid",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 355,
+    "name": "echodocs-ai",
+    "description": "echodocs.ai",
+    "url": "https://echodocs.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 356,
+    "name": "agentforge",
+    "description": "AgentForge",
+    "url": "https://www.agentforge.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-graph"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 357,
+    "name": "learn-prompting",
+    "description": "Learn Prompting",
+    "url": "https://learnprompting.org",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 358,
+    "name": "mindspore-cn",
+    "description": "MindSpore",
+    "url": "https://mindspore.cn",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 359,
+    "name": "bookai-top",
+    "description": "BookAI.top",
+    "url": "https://www.bookai.top",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 360,
+    "name": "upsampler",
+    "description": "Upsampler",
+    "url": "https://upsampler.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 361,
+    "name": "yourteacher-ai",
+    "description": "Teacher AI",
+    "url": "https://yourteacher.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 362,
+    "name": "podurama",
+    "description": "Podurama",
+    "url": "https://podurama.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 363,
+    "name": "aitoolgo",
+    "description": "AIToolGo",
+    "url": "https://www.aitoolgo.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 364,
+    "name": "智能可视化基础组件库-vmind",
+    "description": "VMind",
+    "url": "https://www.visactor.io/vmind",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 365,
+    "name": "talkingpets-ai",
+    "description": "TalkingPets.ai",
+    "url": "https://talkingpets.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 366,
+    "name": "fullstackdeeplearning-com",
+    "description": "The Full Stack",
+    "url": "https://fullstackdeeplearning.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 367,
+    "name": "cratecode",
+    "description": "Cratecode",
+    "url": "https://cratecode.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 368,
+    "name": "glitter-ai",
+    "description": "Glitter AI",
+    "url": "https://www.glitter.io",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 369,
+    "name": "concertcreator-ai",
+    "description": "Concert Creator",
+    "url": "https://concertcreator.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 370,
+    "name": "textbehindimg-com",
+    "description": "Text Behind Image Editor",
+    "url": "https://textbehindimg.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 371,
+    "name": "promptstacks",
+    "description": "Promptstacks",
+    "url": "https://www.promptstacks.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 372,
+    "name": "teach-mode-by-andoria",
+    "description": "Andoria",
+    "url": "https://andoria.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 373,
+    "name": "langchats",
+    "description": "Langchats",
+    "url": "https://www.langchats.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 374,
+    "name": "nozomio",
+    "description": "Nozomio",
+    "url": "https://nozomio.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 375,
+    "name": "workoutpro",
+    "description": "WorkoutPro",
+    "url": "https://workoutpro.com.au",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 376,
+    "name": "edmused",
+    "description": "Edmused",
+    "url": "https://edmused.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 377,
+    "name": "boost-my-offer",
+    "description": "Boost My Offer",
+    "url": "https://www.boostmyoffer.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 378,
+    "name": "eizen-video-intelligence",
+    "description": "Eizen Video Intelligence",
+    "url": "https://eizen.ai/analytics.html",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 379,
+    "name": "clipvideo-ai",
+    "description": "ClipVideo AI",
+    "url": "https://clipvideo.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 380,
+    "name": "lover-snap",
+    "description": "Lover Snap",
+    "url": "https://loversnap.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 381,
+    "name": "neural-network",
+    "description": "Neural Network",
+    "url": "https://leapai.top",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 382,
+    "name": "codevideo",
+    "description": "CodeVideo",
+    "url": "https://codevideo.io",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 383,
+    "name": "pdf-to-brainrot",
+    "description": "PDF to Brainrot",
+    "url": "https://pdftobrainrot.me",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 384,
+    "name": "cod3r",
+    "description": "Cod3r",
+    "url": "https://www.cod3r.co",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 385,
+    "name": "parlay",
+    "description": "Parlay",
+    "url": "https://www.parlay.se",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 386,
+    "name": "discoursefy",
+    "description": "Discoursefy",
+    "url": "https://www.discoursefy.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 387,
+    "name": "cinemashle",
+    "description": "Cinemashle",
+    "url": "https://cinemashle.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 388,
+    "name": "theoriestudio",
+    "description": "Theoriestudio",
+    "url": "https://theoriestudio.nl",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 389,
+    "name": "leetchatgpt",
+    "description": "LeetChatGPT",
+    "url": "https://leetchatgpt.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 390,
+    "name": "smart-paste",
+    "description": "Smart Paste",
+    "url": "https://smartpaste.io",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 391,
+    "name": "soofy",
+    "description": "Soofy",
+    "url": "https://soofy.io",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 392,
+    "name": "lluminy",
+    "description": "lluminy",
+    "url": "https://lluminy.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 393,
+    "name": "evalmy-ai",
+    "description": "EvalMy.AI",
+    "url": "https://evalmy.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 394,
+    "name": "suno-ai-music-downloader-mp3",
+    "description": "Suno AI",
+    "url": "https://chromewebstore.google.com/detail/suno-ai-music-downloader/clmkehbljhaelbegghamhfgcnbclnmae",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 395,
+    "name": "alphadoc",
+    "description": "Alphadoc",
+    "url": "https://alphadoc.io",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 396,
+    "name": "code-companion",
+    "description": "Code Companion",
+    "url": "https://codecompanion.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 397,
+    "name": "nextprep",
+    "description": "Nextprep",
+    "url": "https://www.nextprep.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 398,
+    "name": "qualitime-ai-kid-s-companion",
+    "description": "QualiTime.ai",
+    "url": "https://apps.apple.com/us/app/qualitime-ai-kids-companion/id6737403785",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 399,
+    "name": "formations-ia-pro",
+    "description": "Formation IA",
+    "url": "https://www.formations-ia.pro",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 400,
+    "name": "scribe-ai-documentation-sops-screenshots",
+    "description": "Scribe Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 401,
+    "name": "langony",
+    "description": "Langony",
+    "url": "https://langony.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 402,
+    "name": "critiqs-ai",
+    "description": "Critiqs AI",
+    "url": "https://critiqs.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 403,
+    "name": "dot-copilot",
+    "description": "Dot Copilot",
+    "url": "https://dotcopilot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 404,
+    "name": "synapse",
+    "description": "Synapse Tutor",
+    "url": "https://synapsetutor.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 405,
+    "name": "clarifyze-ai",
+    "description": "Clarifyze AI",
+    "url": "https://clarifyze.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 406,
+    "name": "codebetter",
+    "description": "CodeBetter",
+    "url": "https://chromewebstore.google.com/detail/codebetter/acdbeagpngdaicmincjehcpdaimpcjlh",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 407,
+    "name": "dynamicads",
+    "description": "DynamicAds",
+    "url": "https://dynamicads.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 408,
+    "name": "yishow-create-video-how-to-guide",
+    "description": "Yishow",
+    "url": "https://chromewebstore.google.com/detail/yishow-create-video-how-t/jgoagflhhhbooeefkgiflgdnbhfgdbpn",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 409,
+    "name": "no-code-ai-model-builder",
+    "description": "Build AI Avatar apps",
+    "url": "https://www.aiavatar.how",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 410,
+    "name": "coursnap-summarizer-for-long-youtube-videos",
+    "description": "Coursnap",
+    "url": "https://chromewebstore.google.com/detail/coursnap-summarizer-for-l/clhacnjjfngbccgjbfbioajeoclpmggk",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 411,
+    "name": "simplifitech",
+    "description": "SimplifiTech",
+    "url": "https://simplifi-tech.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 412,
+    "name": "omnichat",
+    "description": "OmniChat",
+    "url": "https://tryomni.chat",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 413,
+    "name": "botifynow",
+    "description": "BotifyNow",
+    "url": "https://botifynow.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 414,
+    "name": "apollo-ai",
+    "description": "ApolloAI Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/apollo-ai/pfhlhhgplpiokfegaodcdclkmafbhnpo",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 415,
+    "name": "studymap-ai",
+    "description": "studymap.ai",
+    "url": "https://studymap.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 416,
+    "name": "writebot",
+    "description": "Writebot",
+    "url": "https://writebot.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 417,
+    "name": "everlearns-studio",
+    "description": "EverLearns",
+    "url": "https://generator.everlearns.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 418,
+    "name": "codegrow",
+    "description": "CodeGrow",
+    "url": "https://codegrowai.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 419,
+    "name": "first-ai-app",
+    "description": "First AI App",
+    "url": "https://firstaiapp.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 420,
+    "name": "chatty-tutor",
+    "description": "Chatty Tutor - Configurable AI Language Tutor",
+    "url": "https://chattytutor.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 421,
+    "name": "youlearn-ai-companion-for-learning",
+    "description": "YouLearn",
+    "url": "https://chromewebstore.google.com/detail/youlearn-ai-companion-for/mflchfgpdcglabgapbefdekplffmgdli",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 422,
+    "name": "studia-ai",
+    "description": "Studia AI",
+    "url": "https://studiaai.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 423,
+    "name": "udemy-summary-with-chatgpt",
+    "description": "ChatGPT with Udemy videos summary generator",
+    "url": "https://chrome.google.com/webstore/detail/udemy-summary-with-chatgp/indcipieilphhkjlepfgnldhjejiichk",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 424,
+    "name": "overshot",
+    "description": "Overshot",
+    "url": "https://overshot.in.net",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 425,
+    "name": "bashful",
+    "description": "Softr",
+    "url": "https://bashful.ai",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 426,
+    "name": "youtube-video-summarizer-with-mind-map",
+    "description": "gptXcc",
+    "url": "https://chromewebstore.google.com/detail/youtube-video-summarizer/bkcngjkjholambjbcmhonmjmcoaghkpg",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 427,
+    "name": "selfmachines-inc",
+    "description": "SelfMachines Inc.",
+    "url": "https://selfmachines.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 428,
+    "name": "codeamigo",
+    "description": "Codeamigo",
+    "url": "https://codeamigo.dev",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 429,
+    "name": "coursnap",
+    "description": "Coursnap",
+    "url": "https://coursnap.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 430,
+    "name": "explainit",
+    "description": "ExplainIt",
+    "url": "https://explainit.mzslabs.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 431,
+    "name": "江苏教师教育-视频倍速插件",
+    "description": "Automatic Video Player for Online Courses",
+    "url": "https://chromewebstore.google.com/detail/江苏教师教育-视频倍速插件/aignabdocekpmnimjgdebfeghcelkeka",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 432,
+    "name": "ask-maya",
+    "description": "Ask Maya",
+    "url": "https://askmaya.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 433,
+    "name": "million-dollar-edit-ai-video-editing",
+    "description": "MillionDollar Edit 2.0",
+    "url": "https://www.milliondollaredit.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 434,
+    "name": "make-me-epic",
+    "description": "Make Me Epic",
+    "url": "https://makemeepic.app",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 435,
+    "name": "curlent",
+    "description": "Curlent",
+    "url": "https://curlent.com",
+    "category": "Education",
+    "tags": [
+      "ai-tutorial"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 436,
+    "name": "uplearn-co-uk",
+    "description": "Up Learn",
+    "url": "https://uplearn.co.uk",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 437,
+    "name": "cognitoedu-org",
+    "description": "Cognito",
+    "url": "https://cognitoedu.org",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 438,
+    "name": "coddy-tech",
+    "description": "Coddy - Code Makes Perfect",
+    "url": "https://coddy.tech",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 439,
+    "name": "thea",
+    "description": "Thea",
+    "url": "https://www.theastudy.com/",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 440,
+    "name": "jointakeoff-com",
+    "description": "Takeoff",
+    "url": "https://jointakeoff.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 441,
+    "name": "det-practice",
+    "description": "DET Practice",
+    "url": "https://www.detpractice.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 442,
+    "name": "mini-course-generator",
+    "description": "Mini Course Generator",
+    "url": "https://minicoursegenerator.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 443,
+    "name": "studyraid",
+    "description": "StudyRaid - Learn Anything",
+    "url": "https://app.studyraid.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 444,
+    "name": "amazy-uk",
+    "description": "Amazy",
+    "url": "https://amazy.uk",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 445,
+    "name": "coschool",
+    "description": "coschool",
+    "url": "https://www.coschool.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 446,
+    "name": "hallo-ai-language-learning",
+    "description": "Hallo",
+    "url": "https://hallo.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 447,
+    "name": "photes-io",
+    "description": "Photes.io",
+    "url": "https://photes.io",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 448,
+    "name": "thetawave-ai",
+    "description": "ThetaWave AI",
+    "url": "https://thetawave.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 449,
+    "name": "eurekaa-io",
+    "description": "Eurekaa",
+    "url": "https://eurekaa.io",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 450,
+    "name": "mindsmith",
+    "description": "Mindsmith: AI-powered Learning",
+    "url": "https://www.mindsmith.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 451,
+    "name": "vega-ai",
+    "description": "VEGA AI",
+    "url": "https://www.myvega.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 452,
+    "name": "elementsofai-de",
+    "description": "Elements of AI",
+    "url": "https://elementsofai.de",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 453,
+    "name": "candide",
+    "description": "CandideAI",
+    "url": "https://candideai.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 454,
+    "name": "mangus-sas",
+    "description": "Mangus Elearning",
+    "url": "https://mangus.co",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 455,
+    "name": "duomly-interact-engage-and-learn",
+    "description": "Duomly",
+    "url": "https://www.duomly.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 456,
+    "name": "101-school",
+    "description": "101.school",
+    "url": "https://101.school",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 457,
+    "name": "tutor-lily",
+    "description": "Tutor Lily",
+    "url": "https://tutorlily.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 458,
+    "name": "roshi-ai",
+    "description": "Roshi - Lessons in 1 Click",
+    "url": "https://www.roshi.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 459,
+    "name": "lingo-champion",
+    "description": "Lingo Champion",
+    "url": "https://lingochampion.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 460,
+    "name": "fluent-2-0",
+    "description": "Fluent",
+    "url": "https://www.fluent.co",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 461,
+    "name": "lernmi",
+    "description": "Lernmi",
+    "url": "https://www.lernmi.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 462,
+    "name": "steppit",
+    "description": "Steppit",
+    "url": "https://www.steppit.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 463,
+    "name": "hyggex",
+    "description": "HyggeX",
+    "url": "https://www.hyggexworld.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 464,
+    "name": "section4-com",
+    "description": "Section",
+    "url": "https://section4.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 465,
+    "name": "ai-invoicer",
+    "description": "AI Invoicer",
+    "url": "https://aiinvoicer.in",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 466,
+    "name": "coursemind",
+    "description": "ProtonX",
+    "url": "https://coursemind.io",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 467,
+    "name": "immediate-fastx",
+    "description": "Immediate FastX",
+    "url": "https://immediatefastxofficial.com/main-in",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 468,
+    "name": "outter",
+    "description": "Outter",
+    "url": "https://outter.co",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 469,
+    "name": "cramjam",
+    "description": "CramJam",
+    "url": "https://cramjam.io",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 470,
+    "name": "dawn",
+    "description": "DAWN AI",
+    "url": "https://www.dawnaistudy.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 471,
+    "name": "finstreets",
+    "description": "Finstreets",
+    "url": "https://finstreets.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 472,
+    "name": "lingochamp",
+    "description": "LingoChamp",
+    "url": "https://www.lingochamp.world",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 473,
+    "name": "let-s-copilot",
+    "description": "Let’s Copilot",
+    "url": "https://letscopilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 474,
+    "name": "illumidesk",
+    "description": "IllumiDesk",
+    "url": "https://info.illumidesk.com/course-builder",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 475,
+    "name": "growtechie",
+    "description": "GrowTechie",
+    "url": "https://growtechie.in",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 476,
+    "name": "genai-courses",
+    "description": "GenAI Community",
+    "url": "https://genaicourses.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 477,
+    "name": "get-ai-courses",
+    "description": "Get AI Courses",
+    "url": "https://getaicourses.org",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 478,
+    "name": "hybridpoker-com",
+    "description": "Hybrid Poker",
+    "url": "https://hybridpoker.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 479,
+    "name": "we-are-engineer",
+    "description": "We Are Engineer",
+    "url": "https://weareengineer.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 480,
+    "name": "maxp",
+    "description": "MAXP Universe",
+    "url": "https://www.maxp.io",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 481,
+    "name": "learn-prompting-pro",
+    "description": "Learn Prompting Pro",
+    "url": "https://learnprompting.pro",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 482,
+    "name": "teachr",
+    "description": "teachr",
+    "url": "https://www.teachr.earth",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 483,
+    "name": "dropscale-com",
+    "description": "Dropscale",
+    "url": "https://dropscale.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 484,
+    "name": "sat-sphere",
+    "description": "SAT Sphere",
+    "url": "https://www.satsphere.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 485,
+    "name": "edullm",
+    "description": "EduLLM",
+    "url": "http://edullm.tech",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 486,
+    "name": "cloudsecurityexams-ai",
+    "description": "Unlimited Cloud & Cyber Security Mock Exams",
+    "url": "https://cloudsecurityexams.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 487,
+    "name": "tute-ai",
+    "description": "tute.ai",
+    "url": "https://www.tute.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 488,
+    "name": "course-creativ",
+    "description": "Course Creativ",
+    "url": "https://coursecreativ.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 489,
+    "name": "syllabus-ai",
+    "description": "syllabus.ai",
+    "url": "https://syllabusai.online",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 490,
+    "name": "coursepro-ai",
+    "description": "CoursePro.Ai",
+    "url": "https://coursepro.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 491,
+    "name": "course-decode",
+    "description": "Course Decode",
+    "url": "https://coursedecode.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 492,
+    "name": "yt-launchpad",
+    "description": "YT Launchpad",
+    "url": "https://www.ytlaunchpad.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 493,
+    "name": "hitalk-ai",
+    "description": "HiTalk.ai",
+    "url": "https://www.hitalk.ai",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 494,
+    "name": "voicecanvas",
+    "description": "VoiceCanvas",
+    "url": "https://voicecanvas.org",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 495,
+    "name": "runecontent-ai",
+    "description": "Rune Content | AI Course Maker",
+    "url": "https://www.runecontent.com",
+    "category": "Education",
+    "tags": [
+      "ai-course"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 496,
+    "name": "notis-ai",
+    "description": "Voice to Notion",
+    "url": "https://notis.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 497,
+    "name": "elium-com",
+    "description": "Elium",
+    "url": "https://elium.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 498,
+    "name": "bryter-extract-ai-for-legal",
+    "description": "BRYTER Extract | AI for Legal",
+    "url": "https://bryter.com/extract",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 499,
+    "name": "motif-land",
+    "description": "Motif · Copilot for Docs",
+    "url": "https://motif.land",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 500,
+    "name": "mindlib",
+    "description": "mindlib",
+    "url": "https://mindlib.de",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 501,
+    "name": "knowledgebot",
+    "description": "KnowledgeBot.ai",
+    "url": "https://knowledgebot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 502,
+    "name": "kora-web-knowledge-capture",
+    "description": "Kora Web Knowledge Capture Extension",
+    "url": "https://chromewebstore.google.com/detail/kora-web-knowledge-captur/mhlchafhmgebjkmkjbcmghdelfpgaplo",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 503,
+    "name": "xibon-ai",
+    "description": "Xibon AI",
+    "url": "https://chromewebstore.google.com/detail/xibon-ai/akjahagekcgemkllipgecflcakmbknge",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 504,
+    "name": "respiratory-review",
+    "description": "Respiro",
+    "url": "https://chromewebstore.google.com/detail/respiratory-review/clhkkehdkmedflephhagecjcnidphgjg",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 505,
+    "name": "supanota",
+    "description": "Supanota",
+    "url": "https://supanota.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 506,
+    "name": "messy-desk",
+    "description": "Messy Desk",
+    "url": "https://messydesk.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 507,
+    "name": "bodh",
+    "description": "Bodh",
+    "url": "https://www.bodh.tech",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 508,
+    "name": "rightanswers-x",
+    "description": "RightAnswers X",
+    "url": "https://chromewebstore.google.com/detail/rightanswers-x/bbffgpgojandlepkgmpemcbccoomfogj",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 509,
+    "name": "tribalbase",
+    "description": "TribalBase",
+    "url": "https://tribalbase.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 510,
+    "name": "yourgpt-ai",
+    "description": "AI Knowledgebase Agent",
+    "url": "https://chromewebstore.google.com/detail/yourgpt-ai/bhcadnbfklkhecfjnhiphdijgnlddegg",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 511,
+    "name": "orma",
+    "description": "Orma",
+    "url": "https://www.orma.network",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 512,
+    "name": "teamie-ai",
+    "description": "Teamie",
+    "url": "https://www.teamie.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 513,
+    "name": "phi-ai-for-low-no-code-pega",
+    "description": "Phi AI for Pega",
+    "url": "https://chromewebstore.google.com/detail/phi-ai-for-lowno-code-peg/khohhongjlidnbinnkibbbhkmjhmhhoo",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 514,
+    "name": "visspot",
+    "description": "Visspot",
+    "url": "https://visspot.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 515,
+    "name": "visus-ai",
+    "description": "Visus",
+    "url": "https://www.visus.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 516,
+    "name": "oogway-know",
+    "description": "Knowledge Interaction Plugin",
+    "url": "https://chromewebstore.google.com/detail/oogway-know/lmofdlblejjlmfmekngdnljnonphpdkl",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 517,
+    "name": "codeatlas-xyz",
+    "description": "Atlas",
+    "url": "https://codeatlas.xyz",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 518,
+    "name": "chunk",
+    "description": "Chunk: Personal Knowledge Base",
+    "url": "https://apps.apple.com/us/app/chunk-personal-knowledge-base/id6472682763",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 519,
+    "name": "embed",
+    "description": "Embed",
+    "url": "https://gptdevelopment.online",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 520,
+    "name": "perdopo-ai",
+    "description": "Perdopo AI",
+    "url": "https://www.perdopo.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 521,
+    "name": "people-experience-bot-pxbot",
+    "description": "People Experience Bot (PxBot)",
+    "url": "https://www.peoplexbot.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 522,
+    "name": "passarel",
+    "description": "Passarel",
+    "url": "https://www.passarel.app",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 523,
+    "name": "roboresponseai",
+    "description": "RoboResponse.ai",
+    "url": "https://www.roboresponse.ai",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 524,
+    "name": "flowgen",
+    "description": "Flowgen",
+    "url": "https://flowgenai.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 525,
+    "name": "stencilframe",
+    "description": "StencilFrame",
+    "url": "https://stencilframe.io",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 526,
+    "name": "claude-helper",
+    "description": "Claude Helper",
+    "url": "https://chromewebstore.google.com/detail/claude-helper/nfgojpifghedgeflgnliekadidggnnih",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 527,
+    "name": "presetai",
+    "description": "PresetAI",
+    "url": "http://thepresetai.com",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 528,
+    "name": "avogadro-one",
+    "description": "Avogadro One",
+    "url": "https://avogadro.one",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 529,
+    "name": "discute",
+    "description": "Discute",
+    "url": "https://www.discute.co",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 530,
+    "name": "save-to-gleans",
+    "description": "Gleans",
+    "url": "https://chromewebstore.google.com/detail/save-to-gleans-✨/lkmpgdbkiagaaeoimapobmpfdibhinnd",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 531,
+    "name": "eloquent-quick-capture-and-highlighting",
+    "description": "Eloquent",
+    "url": "https://chromewebstore.google.com/detail/eloquent-quick-capture-an/olkmpnafmgcfindlljhgnminkhkfcckl",
+    "category": "Education",
+    "tags": [
+      "ai-knowledge-management"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 532,
+    "name": "gizmo-ai",
+    "description": "Gizmo",
+    "url": "https://gizmo.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 533,
+    "name": "quizbot-ai",
+    "description": "QuizBot.ai",
+    "url": "https://quizbot.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 534,
+    "name": "magic-form",
+    "description": "MagicForm",
+    "url": "https://www.magicform.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 535,
+    "name": "questgen-ai",
+    "description": "Questgen - AI Powered Quiz Generator",
+    "url": "https://www.questgen.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 536,
+    "name": "edutor-ai",
+    "description": "EdutorAI - AI Question Generator",
+    "url": "https://edutorai.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 537,
+    "name": "dadan-ai-assist",
+    "description": "Dadan AI Assist",
+    "url": "https://www.dadan.io/features/ai-assist",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 538,
+    "name": "am-i-gay-quiz",
+    "description": "Am I Gay Quiz",
+    "url": "https://amigayquiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 539,
+    "name": "yip",
+    "description": "Yippity",
+    "url": "https://yippity.io",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 540,
+    "name": "hearify",
+    "description": "Hearify AI Quiz Maker",
+    "url": "https://hearify.org",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 541,
+    "name": "eduzen-ai",
+    "description": "Eduzen",
+    "url": "https://eduzen.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 542,
+    "name": "study-sim",
+    "description": "StudySim",
+    "url": "https://studysim.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 543,
+    "name": "quizify",
+    "description": "Quizify",
+    "url": "https://quizify.xyz",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 544,
+    "name": "superquiz",
+    "description": "SuperQuiz",
+    "url": "https://getsuperquiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 545,
+    "name": "zenquiz-app",
+    "description": "Zenquiz",
+    "url": "https://zenquiz.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 546,
+    "name": "quiz-gpt",
+    "description": "OnChained",
+    "url": "https://quizgpt.co",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 547,
+    "name": "wondertale",
+    "description": "WonderTale - AI Stories",
+    "url": "https://wondertale.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 548,
+    "name": "syncstudy",
+    "description": "SyncStudy",
+    "url": "https://syncstudy.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 549,
+    "name": "hirely",
+    "description": "HireLy",
+    "url": "https://hirely.works",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 550,
+    "name": "qaiz",
+    "description": "Qaiz",
+    "url": "https://qaiz.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 551,
+    "name": "quiz-makito",
+    "description": "Quiz Makito",
+    "url": "https://www.quizmakito.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 552,
+    "name": "starquiz-ai",
+    "description": "StarQuiz",
+    "url": "https://www.starquiz.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 553,
+    "name": "docteurquiz",
+    "description": "DocteurQuiz",
+    "url": "https://www.docteurquiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 554,
+    "name": "studytool",
+    "description": "StudyTool",
+    "url": "https://chromewebstore.google.com/detail/studytool/achokfidpefaancpffpokcflckpajkkb",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 555,
+    "name": "quizcraft",
+    "description": "QuizCraft",
+    "url": "https://www.quizcraft.de",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 556,
+    "name": "text-2-quiz",
+    "description": "Text2Quiz",
+    "url": "https://www.text2quiz.co.uk",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 557,
+    "name": "quiz-solver",
+    "description": "QuizSolver",
+    "url": "https://chromewebstore.google.com/detail/quiz-solver/ijlpijnplhhbggppiebkfakonpjdikhl",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 558,
+    "name": "testmint-ai",
+    "description": "Testmint.ai",
+    "url": "https://www.testmint.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 559,
+    "name": "certidrill",
+    "description": "Certidrill",
+    "url": "https://www.certidrill.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 560,
+    "name": "the-spiritual-seek",
+    "description": "The Spiritual Seek",
+    "url": "https://spiritualseek.online",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 561,
+    "name": "betweenquiz",
+    "description": "BetweenQuiz",
+    "url": "https://betweenquiz.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 562,
+    "name": "preparebuddy",
+    "description": "PrepareBuddy",
+    "url": "https://www.preparebuddy.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 563,
+    "name": "quizcanvasai",
+    "description": "QuizCanvas AI",
+    "url": "https://www.quizcanvasai.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 564,
+    "name": "buildform",
+    "description": "BuildForm",
+    "url": "https://buildform.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 565,
+    "name": "quiznex",
+    "description": "QuizNex",
+    "url": "https://quiznex.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 566,
+    "name": "what-do-my-friends-think-of-me",
+    "description": "What Do My Friends Think Of Me",
+    "url": "https://www.whatdomyfriendsthinkofme.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 567,
+    "name": "scholar-sprint-app",
+    "description": "Scholar Sprint",
+    "url": "https://www.scholarsprint.app",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 568,
+    "name": "chinese-ai",
+    "description": "Chinese AI - U Language Coach",
+    "url": "https://apps.apple.com/us/app/chinese-ai-u-language-coach/id6478802293",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 569,
+    "name": "testmatic-ai",
+    "description": "TestMatic",
+    "url": "https://testmaticai.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 570,
+    "name": "marauder-bot",
+    "description": "Marauder Bot",
+    "url": "https://chromewebstore.google.com/detail/marauder-bot/nhkkakenpddlckiojhpjiijnfgbanaem",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 571,
+    "name": "mythinkingcap-ai",
+    "description": "MyThinkingCap",
+    "url": "https://www.mythinkingcap.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 572,
+    "name": "easequiz",
+    "description": "EaseQuiz: AI Quiz Generator",
+    "url": "https://apps.apple.com/in/app/easequiz-ai-quiz-generator/id6739849803",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 573,
+    "name": "vibing",
+    "description": "Vibing",
+    "url": "https://apps.apple.com/us/app/vibing-check-vibe-start-date/id6670462536",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 574,
+    "name": "libralm",
+    "description": "LibraLM",
+    "url": "https://www.libralm.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 575,
+    "name": "chatgpt-測驗題目產生器",
+    "description": "ChatGPT 測驗題目產生器",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-測驗題目產生器/kjfhbebgijaalnlogdcdddcojjcconhm",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 576,
+    "name": "qwizzard",
+    "description": "Qwizzard",
+    "url": "https://qwizzard.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 577,
+    "name": "quizdom",
+    "description": "Quizdom AI",
+    "url": "https://www.getquizdom.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 578,
+    "name": "vocabra",
+    "description": "Vocabra",
+    "url": "https://www.vocabra.net",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 579,
+    "name": "flashlearn-ai",
+    "description": "Udemy Quiz Generator",
+    "url": "https://flashlearn.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 580,
+    "name": "double-check-ai",
+    "description": "Double Check AI",
+    "url": "https://www.doublecheckme.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 581,
+    "name": "pinarify-ai",
+    "description": "Pinarify AI",
+    "url": "https://apps.apple.com/us/app/ai-note-taker-pinarify-ai/id6738845956",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 582,
+    "name": "exam-maker-ai",
+    "description": "Exam Maker AI",
+    "url": "https://exammakerai.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 583,
+    "name": "studyvant",
+    "description": "Studyvant",
+    "url": "https://www.studyvant.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 584,
+    "name": "spirit-chat-ai",
+    "description": "Spirit Chat AI",
+    "url": "https://www.spiritchat.ai",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 585,
+    "name": "new-leadmagnet",
+    "description": "NewLeadMagnet.com",
+    "url": "https://newleadmagnet.com",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 586,
+    "name": "moodpaper",
+    "description": "Moodpaper",
+    "url": "https://moodpaper.art",
+    "category": "Education",
+    "tags": [
+      "ai-quizzes"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 587,
+    "name": "smartick-es",
+    "description": "Smartick | Online Elementary Math For Children",
+    "url": "https://smartick.es",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 588,
+    "name": "thetawise",
+    "description": "Thetawise",
+    "url": "https://thetawise.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 589,
+    "name": "plantin-plant-care-identifier",
+    "description": "PlantIn plant care identifier",
+    "url": "https://myplantin.com/plant-identifier",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 590,
+    "name": "khanmigo-ai",
+    "description": "Khanmigo",
+    "url": "https://khanmigo.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 591,
+    "name": "noiz",
+    "description": "Noiz",
+    "url": "https://noiz.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 592,
+    "name": "veo-2-ai-video-generator-veo2-ai",
+    "description": "Veo 2 AI Video Generator PlayGround",
+    "url": "https://veo2.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 593,
+    "name": "gliglish",
+    "description": "Gliglish",
+    "url": "https://gliglish.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 594,
+    "name": "penseum",
+    "description": "Penseum - Your AI-Powered Study Partner",
+    "url": "https://www.penseum.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 595,
+    "name": "parlayideas-com",
+    "description": "Parlay Ideas | AI Powered Class Discussions",
+    "url": "https://parlayideas.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 596,
+    "name": "gptbots-ai",
+    "description": "GPTBots.ai",
+    "url": "https://www.gptbots.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 597,
+    "name": "free-ai-presentation-maker",
+    "description": "Free AI Presentation Maker",
+    "url": "https://ai.poweredtemplate.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 598,
+    "name": "lingoleap",
+    "description": "LingoLeap",
+    "url": "https://lingoleap.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 599,
+    "name": "buddy-ai",
+    "description": "Buddy's Curriculum",
+    "url": "https://buddy.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 600,
+    "name": "cograder",
+    "description": "CoGrader",
+    "url": "https://cograder.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 601,
+    "name": "quiz-wizard",
+    "description": "Quiz Wizard",
+    "url": "https://www.getquizwizard.com/en",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 602,
+    "name": "papergen",
+    "description": "PaperGen",
+    "url": "https://www.papergen.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 603,
+    "name": "slay-school",
+    "description": "Slay School",
+    "url": "https://SlaySchool.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 604,
+    "name": "ello",
+    "description": "Ello",
+    "url": "https://www.ello.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 605,
+    "name": "thesisai",
+    "description": "ThesisAI",
+    "url": "https://www.thesisai.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 606,
+    "name": "kardsai-instant-flashcards-mobile-app",
+    "description": "KardsAI",
+    "url": "https://www.kardsai.app",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 607,
+    "name": "kardsai-flashcard-maker",
+    "description": "KardsAI",
+    "url": "https://kardsai.app",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 608,
+    "name": "ai-math-solver-powered-by-math-gpt-free-online",
+    "description": "AI Math Solver Powered by Math GPT Free Online",
+    "url": "https://mymathsolver.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 609,
+    "name": "snipo",
+    "description": "Snipo",
+    "url": "https://snipo.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 610,
+    "name": "doctrina-ai-website",
+    "description": "Doctrina AI",
+    "url": "https://doctrina-ai.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 611,
+    "name": "notebookai-podcast",
+    "description": "AIdeaflow Podcast",
+    "url": "https://aideaflowpodcast.com//",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 612,
+    "name": "education-copilot",
+    "description": "https://educationcopilot.com",
+    "url": "https://educationcopilot.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 613,
+    "name": "aicheatcheck",
+    "description": "AICheatCheck",
+    "url": "https://www.aicheatcheck.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 614,
+    "name": "flashcard-generator",
+    "description": "Flashcard Generator",
+    "url": "https://flashcard-generator.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 615,
+    "name": "sai",
+    "description": "Sai",
+    "url": "https://sai.com.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 616,
+    "name": "sintesy-nunca-mais-fa-a-anota-es",
+    "description": "Sintesy",
+    "url": "https://sintesy.me",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 617,
+    "name": "oetstudy-com",
+    "description": "OETStudy",
+    "url": "https://oetstudy.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 618,
+    "name": "brieflane",
+    "description": "Brieflane",
+    "url": "https://brieflane.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 619,
+    "name": "accent-guesser",
+    "description": "Accent Guesser",
+    "url": "https://accentguesser.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 620,
+    "name": "timelygrader",
+    "description": "TimelyGrader",
+    "url": "https://www.timelygrader.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 621,
+    "name": "languify",
+    "description": "Languify",
+    "url": "https://www.languify.in",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 622,
+    "name": "accuratescribe-ai",
+    "description": "AccurateScribe.ai",
+    "url": "https://accuratescribe.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 623,
+    "name": "knowt-io",
+    "description": "Knowt",
+    "url": "https://knowt.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 624,
+    "name": "cool-coloring-pages",
+    "description": "Cool Coloring Pages",
+    "url": "https://www.coolcoloringpages.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 625,
+    "name": "gnow",
+    "description": "Gnow",
+    "url": "https://gnow.io",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 626,
+    "name": "thalla",
+    "description": "Thalla",
+    "url": "https://www.thalla.com",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 627,
+    "name": "delilah-ai",
+    "description": "Delilah",
+    "url": "https://delilah.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 628,
+    "name": "innhold-ai",
+    "description": "Innhold.AI",
+    "url": "https://innhold.ai",
+    "category": "Education",
+    "tags": [
+      "ai-education-assistant"
+    ],
+    "create_date": "2025-03-23"
   }
 ]

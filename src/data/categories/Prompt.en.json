@@ -1,0 +1,1245 @@
+[
+  {
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "deep-dream-generator",
+    "description": "Deep Dream Generator",
+    "url": "https://deepdreamgenerator.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "aiprm",
+    "description": "AIPRM",
+    "url": "https://www.aiprm.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "glif",
+    "description": "Glif",
+    "url": "https://glif.app",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "image-prompt",
+    "description": "Image Prompt",
+    "url": "https://imageprompt.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "image-to-prompt",
+    "description": "Image to Prompt",
+    "url": "https://imageprompt.org/image-to-prompt",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "muse-by-sudowrite",
+    "description": "Sudowrite Muse",
+    "url": "https://sudowrite.com/muse",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "prompthero",
+    "description": "PromptHero",
+    "url": "https://prompthero.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "flux-ai-ai",
+    "description": "Flux AI",
+    "url": "https://flux-ai.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "minimax-ai",
+    "description": "Minimax AI",
+    "url": "https://minimax-ai.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "wirestock-io",
+    "description": "Wirestock",
+    "url": "https://wirestock.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "learn-prompting",
+    "description": "Learn Prompting",
+    "url": "https://learnprompting.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "tempo-labs",
+    "description": "Tempo",
+    "url": "https://tempolabs.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "ve2",
+    "description": "Visual Electric - AI Image Generator",
+    "url": "http://visualelectric.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "fluxpro-ai",
+    "description": "Flux AI",
+    "url": "https://fluxpro.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "midlibrary-io",
+    "description": "Midjourney AI Styles Library",
+    "url": "https://midlibrary.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "pumpg-midjourney-prompt-generator",
+    "description": "PUMPG - Powerusers MidJourney Prompt Generator",
+    "url": "https://powerusers.ai/pumpg-midjourney-prompt-generator",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
+    "url": "https://sourcetable.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "ai-describe-picture",
+    "description": "AI Describe Picture",
+    "url": "https://describepicture.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "200-chatgpt-mega-prompts-for-marketing",
+    "description": "200+ ChatGPT Mega-Prompts for Marketing",
+    "url": "https://www.godofprompt.ai/marketing-mega-prompts",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "ai-prompt-library-by-god-of-prompt",
+    "description": "AI Prompt Library by God of Prompt",
+    "url": "https://godofprompt.ai/prompt-library",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "200-chatgpt-mega-prompts-for-business",
+    "description": "200+ ChatGPT Mega-Prompts for Business",
+    "url": "https://www.godofprompt.ai/business-mega-prompts",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 25,
+    "name": "2000-chatgpt-mega-prompts-bundle",
+    "description": "2000+ ChatGPT Mega-Prompts Bundle",
+    "url": "https://www.godofprompt.ai/mega-prompt-bundle",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "200-chatgpt-mega-prompts-for-seo",
+    "description": "200+ ChatGPT Mega-Prompts for SEO",
+    "url": "https://www.godofprompt.ai/seo-mega-prompts",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "200-chatgpt-mega-prompts-for-solopreneurs",
+    "description": "200+ ChatGPT Mega-Prompts for Solopreneurs",
+    "url": "https://godofprompt.ai/solopreneurs-mega-prompts",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "ai-prompt-generator-by-god-of-prompt",
+    "description": "AI Prompt Generator by God of Prompt",
+    "url": "https://godofprompt.ai/ai-prompt-generator",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "modelslab",
+    "description": "ModelsLab",
+    "url": "https://modelslab.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "flux-1-ai",
+    "description": "FLUX.1 AI",
+    "url": "https://flux1ai.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "prompt-genie",
+    "description": "Prompt Genie",
+    "url": "https://prompt-genie.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "stablecog",
+    "description": "Stablecog | AI Image Generator",
+    "url": "https://stablecog.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "promptfolder-com",
+    "description": "PromptFolder",
+    "url": "https://promptfolder.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "segment-anything",
+    "description": "Segment Anything",
+    "url": "https://segment-anything.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "holara-anime-image-generation",
+    "description": "Holara - Anime Image Generation",
+    "url": "https://holara.ai/holara",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "lazy-ai",
+    "description": "Lazy AI",
+    "url": "https://www.getlazy.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "fluxai-art-free-ai-image-generator",
+    "description": "FluxAI.art",
+    "url": "https://fluxai.art",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "omnigen",
+    "description": "OmniGen AI",
+    "url": "https://omnigenai.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "ultra-fast-image-generator",
+    "description": "Free FLUX AI Image Generator",
+    "url": "https://fastflux.co",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "flora",
+    "description": "FLORA",
+    "url": "https://florafauna.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "write-me-a-prayer-ai-prayer-generator",
+    "description": "Write Me A Prayer - An AI Powered Prayer Generator",
+    "url": "https://writemeaprayer.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "ai-video-cut",
+    "description": "AI Video Cut",
+    "url": "https://www.aivideocut.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "flux-ai-proweb",
+    "description": "Flux AI",
+    "url": "https://fluxproweb.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "chatgpt-shortcut",
+    "description": "AiShort(ChatGPT Shortcut)",
+    "url": "https://www.aishort.top/en",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "16x-prompt",
+    "description": "16x Prompt",
+    "url": "https://prompt.16x.engineer",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "snack-prompt",
+    "description": "Snack Prompt",
+    "url": "https://www.snackprompt.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "mixart-ai",
+    "description": "mixart.ai",
+    "url": "https://mixart.ai/",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "best-midjourney-prompt",
+    "description": "musesai.io",
+    "url": "https://musesai.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "sdxl-turbo-playground",
+    "description": "SDXL Turbo",
+    "url": "https://sdxlturbo.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "overchat",
+    "description": "Overchat",
+    "url": "https://overchat.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "flux-1",
+    "description": "Flux 1 AI",
+    "url": "https://flux-1.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "playlistai",
+    "description": "PlaylistAI",
+    "url": "https://www.playlistai.app",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "anifusion-ai",
+    "description": "Anifusion",
+    "url": "https://anifusion.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "sigma-ai-browser",
+    "description": "Sigma AI Browser",
+    "url": "https://sigmabrowser.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "scrapegraphai",
+    "description": "ScrapeGraphAI",
+    "url": "https://scrapegraphai.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "zbrain",
+    "description": "ZBrain",
+    "url": "https://zbrain.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "promptzone",
+    "description": "Promptzone",
+    "url": "https://promptzone.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "oksuro",
+    "description": "Oksuro",
+    "url": "https://oksuro.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "promptsideas",
+    "description": "PromptsIdeas",
+    "url": "https://promptsideas.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "logomark-ai",
+    "description": "Logomark AI",
+    "url": "https://logomark.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "the-prompt-index",
+    "description": "The Prompt Index",
+    "url": "https://www.thepromptindex.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "selene-1",
+    "description": "Selene API",
+    "url": "https://www.atla-ai.com/api",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "prompt-llama",
+    "description": "Prompt Llama",
+    "url": "https://prompt-llama.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "minecraft-skin-generator",
+    "description": "skingenerator.io - A Minecraft Skin Generator",
+    "url": "https://www.skingenerator.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "promptogy",
+    "description": "Prompt Builder - Promptogy",
+    "url": "https://promptogy.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "promptrr-ai-prompt-marketplace",
+    "description": "Promptrr.io - AI Prompt Marketplace",
+    "url": "https://promptrr.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "laprompt",
+    "description": "LaPrompt",
+    "url": "https://laprompt.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "chirper-ai",
+    "description": "Chirper AI Social Network",
+    "url": "https://chirper.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "vectormind-ai",
+    "description": "VectorMind - Generative AI for Vector Graphics",
+    "url": "https://vectormind.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "qrbtf-ai-qr-code-generator",
+    "description": "QRBTF - AI QR Code Generator",
+    "url": "https://qrbtf.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "image-generator-com",
+    "description": "AI Image Generator",
+    "url": "https://image-generator.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "idm-vton-ai-virtual-try-on-ai",
+    "description": "Story Diffusion Gen",
+    "url": "https://idmvton.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "aire-ai-app-builder",
+    "description": "Aire AI App Builder",
+    "url": "https://aireapps.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "langtrace-ai",
+    "description": "Langtrace.ai",
+    "url": "https://www.langtrace.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "storybee",
+    "description": "StoryBee",
+    "url": "https://storybee.app",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "prompts-club",
+    "description": "Prompts Club",
+    "url": "https://promptsclub.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "gemini-coder",
+    "description": "Gemini Coder",
+    "url": "https://geminicoder.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "fantasylife-ai",
+    "description": "FantasyLife.ai",
+    "url": "https://www.fantasylife.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "booth-ai",
+    "description": "Booth.AI",
+    "url": "https://booth.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "datafit-ai",
+    "description": "DataFit.AI",
+    "url": "http://datafit.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "arcaneland",
+    "description": "ArcaneLand",
+    "url": "https://arcane.land",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "prompt-token-counter",
+    "description": "Token Counter for OpenAI Models",
+    "url": "https://www.prompttokencounter.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "sound-effect-generator",
+    "description": "Sound Effect Generator",
+    "url": "https://soundeffectgenerator.org",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "illusion-diffusion-web",
+    "description": "Illusion Diffusion",
+    "url": "https://illusiondiffusionweb.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "lahgen",
+    "description": "LAHgen",
+    "url": "https://image.aixboost.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "vibrant-ink",
+    "description": "Vibrant Ink",
+    "url": "https://vibrant.ink",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "freshly-ai",
+    "description": "Freshly.ai",
+    "url": "https://freshly.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "logoliveryai",
+    "description": "LogoliveryAI",
+    "url": "https://logolivery.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "luppa-ai",
+    "description": "Luppa AI",
+    "url": "https://luppa.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "promptstacks",
+    "description": "Promptstacks",
+    "url": "https://www.promptstacks.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "flux-pro-free-flux-ai-image-generator",
+    "description": "Flux Pro - Free Flux AI Image Generator",
+    "url": "https://flux11pro.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "mappie-ai-beta",
+    "description": "Mappie",
+    "url": "https://mappie.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "midjourney-prompt-helper",
+    "description": "PromptFolder",
+    "url": "https://www.noonshot.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "prompt-mixer",
+    "description": "Prompt Mixer",
+    "url": "https://www.promptmixer.dev",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "gptsdk",
+    "description": "GptSdk",
+    "url": "https://gpt-sdk.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "midlearning-com",
+    "description": "MidLearning.com",
+    "url": "https://www.midlearning.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "Prompt",
+    "tags": [
+      "prompt"
+    ],
+    "create_date": "2025-03-23"
+  }
+]

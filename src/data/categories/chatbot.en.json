@@ -1,738 +1,2609 @@
 [
   {
     "id": 1,
-    "name": "rubii",
+    "name": "powered-by",
     "description": "",
-    "url": "https://rubii.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "url": "https://poweredby.agency",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 2,
     "name": "deepseek",
     "description": "DeepSeek",
     "url": "https://www.deepseek.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 3,
     "name": "janitorai",
     "description": "Janitor AI",
     "url": "https://janitorai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 4,
     "name": "floatz-ai",
     "description": "floatz AI",
     "url": "https://floatz.ai/product",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 5,
     "name": "kimi-chat",
     "description": "Kimi Chat",
     "url": "https://kimi.moonshot.cn",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 6,
     "name": "roxy",
     "description": "Roxy - AI Voice Companion",
     "url": "https://itunes.apple.com/app/id6737482921",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 7,
     "name": "poe",
     "description": "Poe",
     "url": "https://poe.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 8,
     "name": "polybuzz",
     "description": "PolyBuzz",
     "url": "https://www.polybuzz.ai/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 9,
     "name": "crushon-ai",
     "description": "CrushOn.AI",
     "url": "https://crushon.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 10,
     "name": "wonderchat",
     "description": "Wonderchat",
     "url": "https://wonderchat.io",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 11,
     "name": "edenai",
     "description": "EDEN AI by EVA AI",
     "url": "https://edenai.world/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 12,
     "name": "gauthmath-com",
     "description": "Gauthmath",
     "url": "https://gauthmath.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 13,
     "name": "talkie-ai",
     "description": "Talkie AI",
     "url": "https://www.talkie-ai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 14,
     "name": "yeschat",
     "description": "YesChat",
     "url": "https://yeschat.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 15,
     "name": "yeschat-gpt4v-dalle3-claude-2-all-in-one",
     "description": "YesChat.ai",
     "url": "https://www.yeschat.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 16,
     "name": "ai-pdf-summarizer-by-pdf-guru",
     "description": "AI PDF Summarizer by PDF Guru",
     "url": "https://pdfguru.com/ai-pdf-summarizer",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 17,
     "name": "gptgirlfriend",
     "description": "GirlfriendGPT - The AI Companion Chatroom",
     "url": "https://gptgirlfriend.online",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 18,
     "name": "iask-ai-generative-ai-search-engine",
     "description": "iAsk.Ai",
     "url": "https://iAsk.Ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 19,
     "name": "felo",
     "description": "Felo",
     "url": "https://felo.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 20,
     "name": "pephop",
     "description": "PepHop AI",
     "url": "https://pephop.ai/nsfw-character-ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 21,
     "name": "chai",
     "description": "Chai",
     "url": "https://chai.ml",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 22,
     "name": "pi-by-inflection-ai",
     "description": "Pi",
     "url": "https://pi.ai/talk",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 23,
     "name": "groq",
     "description": "Groq",
     "url": "https://groq.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 24,
     "name": "updf-ai",
     "description": "UPDF AI",
     "url": "https://updf.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 25,
     "name": "chad-ai",
     "description": "Chad AI | ChatGPT на русском",
     "url": "https://chadgpt.ru",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 26,
     "name": "kindroid-ai",
     "description": "Kindroid",
     "url": "https://kindroid.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 27,
     "name": "anythingllm",
     "description": "AnythingLLM",
     "url": "https://anythingllm.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 28,
     "name": "gitmind-chat",
     "description": "GitMind Chat",
     "url": "https://gitmind.com/ai-chat",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 29,
     "name": "pygmalion-ai",
     "description": "PygmalionAI",
     "url": "https://pygmalion.chat",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 30,
     "name": "dream-companion",
     "description": "Dream Companion",
     "url": "https://www.mydreamcompanion.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 31,
     "name": "aichatting",
     "description": "AiChatting.net",
     "url": "https://www.aichatting.net",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 32,
     "name": "chatfai",
     "description": "ChatFAI",
     "url": "https://chatfai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 33,
     "name": "vmate-ai",
     "description": "VMate AI",
     "url": "https://vmateai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 34,
     "name": "replika",
     "description": "Replika",
     "url": "https://replika.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 35,
     "name": "craveu-ai",
     "description": "CraveU AI",
     "url": "https://craveu.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 36,
     "name": "coze",
     "description": "Coze",
     "url": "https://www.coze.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 37,
     "name": "novaapp-ai",
     "description": "Nova - ChatGPT AI Chatbot",
     "url": "https://novaapp.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 38,
     "name": "voiceflow-ai",
     "description": "Voiceflow",
     "url": "https://voiceflow.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 39,
     "name": "hi-waifu",
     "description": "Hi, Waifu : AI Friend",
     "url": "https://hiwaifu.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 40,
     "name": "rprp-ai",
     "description": "RPRP AI",
     "url": "https://rprp.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 41,
     "name": "plantin-plant-care-identifier",
     "description": "PlantIn plant care identifier",
     "url": "https://myplantin.com/plant-identifier",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 42,
     "name": "gupshup-io",
     "description": "Gupshup",
     "url": "https://gupshup.io",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 43,
     "name": "globalgpt",
     "description": "GlobalGPT",
     "url": "https://www.glbgpt.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 44,
     "name": "botify-ai",
     "description": "Botify AI",
     "url": "https://botify.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 45,
     "name": "pizzagpt-it",
     "description": "PizzaGPT - ChatGPT for Italy",
     "url": "https://pizzagpt.it",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 46,
     "name": "nsfw-ai-chat-ai",
     "description": "NSFW AI Chat",
     "url": "https://nsfwaichat.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 47,
     "name": "chatfuel",
     "description": "Chatfuel",
     "url": "https://chatfuel.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 48,
     "name": "chatgot",
     "description": "Chatgot",
     "url": "https://www.chatgot.io",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 49,
     "name": "chatbond-free-ai-chatbot-builder",
     "description": "Chatbond - AI Chatbot Builder",
     "url": "https://chatbond.co",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 50,
     "name": "jan",
     "description": "Jan",
     "url": "https://jan.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 51,
     "name": "luzia-com",
     "description": "Luzia: Your intelligent assistant at a click",
     "url": "https://luzia.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 52,
     "name": "play-ai",
     "description": "PlayAI",
     "url": "https://play.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 53,
     "name": "poly-ai",
     "description": "Poly AI",
     "url": "https://polyai.ai/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 54,
     "name": "nsfwchatai",
     "description": "NSFWChatAI",
     "url": "https://nsfwchatai.ai/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 55,
     "name": "vocai-chatbot",
     "description": "Voc AI Chatbot",
     "url": "https://www.voc.ai/tools/ai-chatbot",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 56,
     "name": "hume-ai",
     "description": "Hume AI",
     "url": "https://www.hume.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 57,
     "name": "lemonchat",
     "description": "LemonChat",
     "url": "https://lemonchat.app",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 58,
     "name": "poly-ai-ai",
     "description": "PolyAI",
     "url": "https://poly.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 59,
     "name": "xjoy-ai",
     "description": "XJoy AI",
     "url": "https://www.xjoy.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 60,
     "name": "arvin-ai-assistant",
     "description": "Arvin - AI Assistant",
     "url": "https://arvin.chat/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 61,
     "name": "ryne-ai",
     "description": "Ryne AI",
     "url": "https://ryne.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 62,
     "name": "livechatai",
     "description": "LiveChatAI",
     "url": "https://livechatai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 63,
-    "name": "sourcetable-ai-spreadsheet",
-    "description": "Sourcetable",
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
     "url": "https://sourcetable.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 64,
     "name": "chat100-ai-free-chatgpt-4o-and-claude-3-5-sonnet",
     "description": "Chat100.ai: Free ChatGPT 4o and Claude 3.5 Sonnet",
     "url": "https://chat100.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 65,
     "name": "pickaxe",
     "description": "Pickaxe",
     "url": "https://www.pickaxeproject.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 66,
     "name": "amigochat",
     "description": "AmigoChat",
     "url": "https://www.amigochat.io",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 67,
     "name": "doctronic-ai-doctors-human-doctors",
     "description": "Doctronic",
     "url": "https://www.doctronic.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 68,
     "name": "modelslab",
     "description": "ModelsLab",
     "url": "https://modelslab.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 69,
     "name": "stocktune",
     "description": "StockTune",
     "url": "https://stocktune.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 70,
     "name": "intellectia-ai",
     "description": "Intellectia.Ai",
     "url": "https://intellectia.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 71,
     "name": "flave-ai",
     "description": "Flave AI",
     "url": "https://www.flave.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 72,
     "name": "chatgpt-writer",
     "description": "ChatGPT Writer",
     "url": "https://chatgptwriter.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 73,
     "name": "ai-chatbot",
     "description": "Verloop.io",
     "url": "https://verloop.io",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 74,
     "name": "woebot-health",
     "description": "Woebot Health",
     "url": "https://woebothealth.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 75,
     "name": "aichatru-ru-free-chat-with-gpt-and-claude-ai",
     "description": "AIChatru.ru: Free Chat with GPT and Claude AI",
     "url": "https://aichatru.ru",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 76,
     "name": "gptbots-ai",
     "description": "GPTBots.ai",
     "url": "https://www.gptbots.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 77,
     "name": "mindpal-for-youtube",
     "description": "https://mindpal.com",
     "url": "https://www.mindpal.space",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 78,
-    "name": "portfoliogpt",
-    "description": "PortfolioGPT",
-    "url": "https://www.portfoliogpt.xyz",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 79,
     "name": "nume",
     "description": "Nume",
     "url": "https://www.nume.finance/",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 80,
-    "name": "tanka",
-    "description": "Tanka",
-    "url": "https://www.tanka.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 81,
-    "name": "wui-ai",
-    "description": "WUI.AI",
-    "url": "https://www.wui.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 82,
-    "name": "canny-autopilot",
-    "description": "Canny",
-    "url": "https://canny.io",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 83,
-    "name": "trickle",
-    "description": "Trickle",
-    "url": "https://www.trickle.so",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 84,
-    "name": "rivalout",
-    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
-    "url": "https://rivalout.com",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 85,
-    "name": "soul-machines",
-    "description": "Soul Machines",
-    "url": "https://www.soulmachines.com",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 86,
-    "name": "vidu-studio-1",
-    "description": "Vidu AI",
-    "url": "https://www.vidu.com/create",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 87,
-    "name": "brandghost",
-    "description": "BrandGhost",
-    "url": "https://brandghost.ai",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 88,
-    "name": "docsloop",
-    "description": "DocsLoop",
-    "url": "https://docsloop.com",
-    "tags": [],
-    "create_date": "2025-03-16"
-  },
-  {
-    "id": 89,
     "name": "documentllm",
     "description": "DocumentLLM",
     "url": "https://documentllm.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 90,
-    "name": "spikex-ai",
-    "description": "Spikex",
-    "url": "https://spikexai.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 91,
-    "name": "viro",
-    "description": "Viro",
-    "url": "https://viro.so",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
   },
   {
     "id": 92,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
     "name": "ai-parabellum",
     "description": "AI Parabellum",
     "url": "https://aiparabellum.com",
-    "tags": [],
-    "create_date": "2025-03-16"
+    "category": "Chatbot",
+    "tags": [
+      "ai-chatbot"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "pixnova-face-swap",
+    "description": "PixNova Face Swap",
+    "url": "https://pixnova.ai/ai-face-swap",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "promptchan-ai",
+    "description": "Promptchan AI",
+    "url": "https://promptchan.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "eroplay-ai",
+    "description": "EroPlay.ai",
+    "url": "https://eroplay.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "golove",
+    "description": "GoLove",
+    "url": "https://golove.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "wsup-ai-chat-with-ai-characters",
+    "description": "wsup.ai - Chat with AI Characters",
+    "url": "https://wsup.ai/sup-ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "nsfwgirlfriend",
+    "description": "NSFWGirlfriend",
+    "url": "http://www.nsfwgirlfriend.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "rushchatai",
+    "description": "RushChat.AI",
+    "url": "https://rushchat.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "wifeapp",
+    "description": "Wife.app",
+    "url": "https://wife.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "ai-girlfriend-wtf",
+    "description": "AI Girlfriend WTF",
+    "url": "https://www.aigirlfriend.wtf",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "flipped-chat",
+    "description": "Flipped.Chat",
+    "url": "https://flipped.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "chatsweetie-ai-girlfriend-online",
+    "description": "ChatSweetie - AI Girlfriend Online",
+    "url": "https://chatsweetie.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "fallfor-ai",
+    "description": "Fallfor.ai",
+    "url": "https://fallfor.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "ai-girlfriend-alice",
+    "description": "AiGirl.one",
+    "url": "https://aigirl.one",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "mygirl-your-ai-girlfriend",
+    "description": "My Girl",
+    "url": "https://mygirl.tech",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "girlfriendly-ai",
+    "description": "Girlfriendly AI",
+    "url": "https://girlfriendly.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "ehentai-chat",
+    "description": "Ehentai Chat",
+    "url": "https://www.ehentai.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "couple-me",
+    "description": "Couple Me",
+    "url": "https://www.couple.me",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "hot-talks-ai",
+    "description": "Hot Talks AI",
+    "url": "https://hottalks.ai/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "wowow-ai",
+    "description": "WOWOW AI",
+    "url": "https://wowow.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "ifable-ai",
+    "description": "iFable.AI",
+    "url": "https://www.ifable.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "getidol-ai-story-game-generator",
+    "description": "GetIdol",
+    "url": "https://getidol.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "tingo-ai",
+    "description": "Tingo AI",
+    "url": "https://tingo.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "angel-ai",
+    "description": "Angel AI",
+    "url": "https://angel.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "aigirlfriends-ai",
+    "description": "Ai Girlfriends",
+    "url": "https://aigirlfriends.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "sextingai",
+    "description": "SextingAI",
+    "url": "https://sextingai.co",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "funtalk-ai",
+    "description": "FunTalk AI",
+    "url": "https://www.funtalk.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "joi",
+    "description": "Joi - AI Girlfriend, with benefits",
+    "url": "https://joiaigirlfriend.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "ai-girlfriend-chat",
+    "description": "ChatUp",
+    "url": "https://aichatgpt.social",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "lollipop-chat",
+    "description": "Lollipop AI Girls",
+    "url": "https://lollipop.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "nsfwbots",
+    "description": "NSFWBots - AI Sex Chatbot List",
+    "url": "https://www.nsfwbots.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "blushy-ai",
+    "description": "Blushy AI",
+    "url": "https://blushy.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "dreamly",
+    "description": "Dreamly",
+    "url": "https://www.dream.ly/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "nsfw-ai-chat",
+    "description": "NSFW AI Chat",
+    "url": "https://nsfw-ai-chat.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "loverr-ai",
+    "description": "Loverr.ai",
+    "url": "https://loverr.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "undressly-ai",
+    "description": "Undressly AI",
+    "url": "https://www.undressly.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "hotgens",
+    "description": "Hotgens.com",
+    "url": "https://hotgens.app/r/toolifyai1224",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "ai-anime-girl-studio",
+    "description": "AnimeGirl.Studio",
+    "url": "https://www.animegirl.studio",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "ai-girlfriend-1",
+    "description": "AI Girlfriend",
+    "url": "https://aigirlfriend.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "heyhoney-ai",
+    "description": "HeyHoney.ai",
+    "url": "https://heyhoney.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "roleplay-hub-ai-free-nsfw-girlfriend-chat",
+    "description": "Roleplay Hub AI- Free NSFW Girlfriend Chat",
+    "url": "https://www.roleplayhub.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "vmate-ai-roleplay-chatbot",
+    "description": "VMate.AI",
+    "url": "https://vmate.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "kaley-ai",
+    "description": "Kaley AI",
+    "url": "https://kaley.ai/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "fantasylife-ai",
+    "description": "FantasyLife.ai",
+    "url": "https://www.fantasylife.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "dreamy-ai",
+    "description": "Dreamy.ai",
+    "url": "https://dreamy-ai.kissmimi.vip",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "dreamy-ai-1",
+    "description": "Dreamy.ai",
+    "url": "https://dreamyai.vip",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "glam-girls-ai",
+    "description": "GlamGirls.ai",
+    "url": "https://www.glamgirls.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "lustgf-ai-girlfriend",
+    "description": "LustGF",
+    "url": "https://lustgf.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "nsfw-976",
+    "description": "976.ai",
+    "url": "http://www.976.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "aipornchat-online",
+    "description": "AIPornChat.Online",
+    "url": "https://www.aipornchat.online",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "honeychat-ai",
+    "description": "honeychat.ai",
+    "url": "https://honeychat.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "erotix",
+    "description": "ErotiX",
+    "url": "https://erotix.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "chatbotslist",
+    "description": "ChatbotsList",
+    "url": "https://www.chatbotslist.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "sextingme",
+    "description": "Sextingme",
+    "url": "https://www.sextingme.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "flirtflix",
+    "description": "FlirtFlix",
+    "url": "https://flirtflix.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "spicy-chat-ai",
+    "description": "Spicy Chat AI",
+    "url": "https://spicy-chat.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "discordpal",
+    "description": "DiscordPal",
+    "url": "https://discordpal.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "matelink",
+    "description": "MateLink",
+    "url": "https://www.matelink.com/#",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "sorapix-ai",
+    "description": "Sorapix",
+    "url": "https://sorapix.ai/home",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "angrygf",
+    "description": "AngryGF",
+    "url": "https://angrygf.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "desireforge",
+    "description": "DesireForge",
+    "url": "https://nsfwai.fun",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "ai-anime-girlfriend",
+    "description": "AI Anime Girlfriend",
+    "url": "https://aianimegirlfriend.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "mayaai",
+    "description": "Maya AI",
+    "url": "https://www.mayaai.net",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "emily",
+    "description": "Emily-AI Girlfriend",
+    "url": "https://apps.apple.com/us/app/id6451446164",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "bemine-ai",
+    "description": "Bemine.ai",
+    "url": "https://bemine.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "myaibae",
+    "description": "MyAIBae",
+    "url": "https://my-ai-bae.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "rizz-lines",
+    "description": "Rizz Lines",
+    "url": "https://apps.apple.com/us/app/rizz-lines/id6477757980",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "ai梦工厂-中文版无限制的ai女友",
+    "description": "Game Factory",
+    "url": "http://love.boturgame.fun",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "ava-ai-powered-dating",
+    "description": "Ava: Match, Chat & Dating",
+    "url": "https://apps.apple.com/be/app/ava-match-chat-dating/id6464481417",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "ai-girl-generator",
+    "description": "AI Girl Generator",
+    "url": "https://ai-girl.site",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "ailure-ai",
+    "description": "Ailure.ai",
+    "url": "https://ailure.onelink.me/t5zV/42uo8uwf",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "herahaven",
+    "description": "HeraHaven",
+    "url": "https://herahaven.com/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "gpt-personal-companion",
+    "description": "Cute Anime Girl ChatGPT",
+    "url": "https://chromewebstore.google.com/detail/gpt-personal-companion/cbnhfckdkfclnfkmphimaocjdpjofekd",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "baibe",
+    "description": "Baibe AI Companion App",
+    "url": "https://apps.apple.com/se/app/baibe-ai-chat-companion/id6498934629",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "duix-ai",
+    "description": "DUIX.AI",
+    "url": "https://apps.apple.com/us/app/duix-ai/id6451088879",
+    "category": "Chatbot",
+    "tags": [
+      "ai-girlfriend"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "digital-god-automate-sales-get-users",
+    "description": "Digital God",
+    "url": "https://www.myuser.com/god",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "qurangpt",
+    "description": "QuranGPT",
+    "url": "https://qurangpt.live",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "crossvalidation-ai",
+    "description": "CrossValidation.ai",
+    "url": "https://crossvalidation.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "ai-godfathers",
+    "description": "AI Godfathers",
+    "url": "https://godfathers.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "ask-religion-with-ai",
+    "description": "AskReligion",
+    "url": "https://askreligion.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "day-with-god",
+    "description": "Day With God - AI-powered Spiritual Growth",
+    "url": "https://www.daywithgod.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "bible-daily",
+    "description": "AI Pastor",
+    "url": "https://www.bibles.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-god"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "ai-willy-rater",
+    "description": "AI Willy Rater",
+    "url": "https://www.aiwillyrater.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "punchlines-ai-gpt-joke-writing",
+    "description": "punchlines.ai",
+    "url": "https://punchlines.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "ai-is-a-joke",
+    "description": "Make Uncle A.I. Crack a Joke For You",
+    "url": "https://www.aiisajoke.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "ai-roastbot",
+    "description": "AI RoastBot",
+    "url": "https://www.airoastbot.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "ai-satire-news",
+    "description": "AI Satire News",
+    "url": "https://satirical-news-hub.lovable.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "burnbot-ai",
+    "description": "BurnBot.ai",
+    "url": "https://burnbot.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "waiter-whatsapp-ai-reiterator",
+    "description": "WhatsApp Message Enhancer",
+    "url": "https://chromewebstore.google.com/detail/waiter-whatsapp-ai-reiter/mjclibacijmklaimcfenahjhanhelfkk",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "roast-that-face",
+    "description": "Roast That Face",
+    "url": "https://www.roastthatface.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "rich-or-broke-ai-photo-test",
+    "description": "Rich or Broke? — AI Photo Test",
+    "url": "https://apps.apple.com/app/apple-store/id6474957971",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "discover-600-000-jokes",
+    "description": "HAHAHUB",
+    "url": "https://hahahub.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "the-daily-dad-joke",
+    "description": "The Daily Dad Joke",
+    "url": "https://dailydadjoke.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "memegen-ai",
+    "description": "MemeGen AI",
+    "url": "http://meme-gen.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "jokelub",
+    "description": "Jokelub",
+    "url": "https://jokelub.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "instagram-profile-personality-ai-agent",
+    "description": "InstagramHumour.me",
+    "url": "https://instahumour.me",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "cleverquips",
+    "description": "CleverQuips",
+    "url": "https://chromewebstore.google.com/detail/cleverquips/lckhmmkdadlehbbanakokbmckmeakjad",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "incorrect-quote-generator",
+    "description": "Incorrect Quote Generator",
+    "url": "https://www.incorrectquotegenerator.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "mr-poo-s-sandbox",
+    "description": "Mr. Poo's Sandbox",
+    "url": "https://ipoopmypants.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "imaginememe-ai",
+    "description": "ImagineMeme",
+    "url": "https://imaginememe.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-joke"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "chub-ai",
+    "description": "Chub",
+    "url": "https://chub.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "vidu",
+    "description": "Vidu",
+    "url": "https://www.vidu.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "fams-ai",
+    "description": "Fams.ai",
+    "url": "https://fams.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "ai-character-generator",
+    "description": "BasedLabs AI Character Generator",
+    "url": "https://www.basedlabs.ai/tools/ai-character-generator",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "museland-ai",
+    "description": "Museland AI",
+    "url": "https://www.museland.ai/",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "character-ai",
+    "description": "Character.ai",
+    "url": "https://beta.character.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "sharesome-ai",
+    "description": "Sharesome AI",
+    "url": "https://sharesome.com/ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "rendernet",
+    "description": "RenderNet",
+    "url": "https://rendernet.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "gizai",
+    "description": "GizAI",
+    "url": "https://www.giz.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "kink-ai",
+    "description": "Kink AI",
+    "url": "https://chat.kink.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "boords-ai-character-generator",
+    "description": "Boords",
+    "url": "https://boords.com/ai-character-generator",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "harpy-chat",
+    "description": "Harpy Chat",
+    "url": "https://harpy.chat",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "inworld",
+    "description": "Inworld",
+    "url": "https://www.inworld.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "juicy-ai",
+    "description": "Juicy AI",
+    "url": "https://juicy-ai.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "celebmaker-ai",
+    "description": "CelebMakerAI",
+    "url": "https://celebmakerai.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "lucidpic",
+    "description": "Lucidpic - AI Person Generator",
+    "url": "https://lucidpic.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "intimate-ai-girlfriend",
+    "description": "Intimate AI Girlfriend",
+    "url": "https://myintimate.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "makeinfluencer-ai",
+    "description": "MakeInfluencer AI",
+    "url": "https://www.makeinfluencer.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "anifusion-ai",
+    "description": "Anifusion",
+    "url": "https://anifusion.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "oc-maker-create-and-animate-your-ocs",
+    "description": "OC Maker",
+    "url": "https://www.ocmaker.net",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "ai-game-master-dungeon-rpg",
+    "description": "AI Game Master",
+    "url": "https://www.aigamemaster.app",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "chargen",
+    "description": "CharGen",
+    "url": "https://char-gen.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "edenx",
+    "description": "EdenX",
+    "url": "https://edenx.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "melies",
+    "description": "Melies",
+    "url": "https://melies.co",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "talkto-ai",
+    "description": "TalkTo.ai",
+    "url": "https://talkto.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "realchar-your-realtime-ai-character",
+    "description": "RealChar",
+    "url": "https://RealChar.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "starvoiceai",
+    "description": "StarVoice | Celebrity Ai Voice Generator",
+    "url": "https://starvoiceai.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "lovecore-ai",
+    "description": "LoveCore AI",
+    "url": "https://lovecoreai.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "alethea",
+    "description": "Alethea",
+    "url": "https://alethea.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "rapport-self-service",
+    "description": "Rapport AI",
+    "url": "https://www.rapport.cloud",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "deepmode-ai",
+    "description": "DeepMode.ai",
+    "url": "https://deepmode.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "idm-vton-ai-virtual-try-on-ai",
+    "description": "Story Diffusion Gen",
+    "url": "https://idmvton.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "unhinged-ai",
+    "description": "Unhinged AI",
+    "url": "https://unhinged.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "anime-ai-chat",
+    "description": "Anime Ai Chat",
+    "url": "https://animepersonalities.com/anime",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "artheart",
+    "description": "ArtHeart.ai",
+    "url": "https://www.artheart.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "consistent-character-generator",
+    "description": "AI Consistent Character Generator",
+    "url": "https://aiconsistentcharacter.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "faraday-dev",
+    "description": "Faraday.dev",
+    "url": "https://faraday.dev",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "comic-factory",
+    "description": "AI Comic Factory",
+    "url": "https://aicomicfactory.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "mycharacter-ai",
+    "description": "MyCharacter.AI",
+    "url": "https://mycharacter.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "uthana",
+    "description": "Uthana",
+    "url": "https://uthana.com",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "text2motion-ai",
+    "description": "Text2Motion",
+    "url": "https://www.text2motion.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "randomx-ai",
+    "description": "Chinese Names Generator",
+    "url": "https://randomx.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "immersim-ai",
+    "description": "Immersim AI",
+    "url": "https://www.immersim.ai",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "vibrant-ink",
+    "description": "Vibrant Ink",
+    "url": "https://vibrant.ink",
+    "category": "Chatbot",
+    "tags": [
+      "ai-character"
+    ],
+    "create_date": "2025-03-23"
   }
 ]

@@ -1,0 +1,3885 @@
+[
+  {
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "bypassgpt-ai",
+    "description": "BypassGPT",
+    "url": "https://www.bypassgpt.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "detecting-ai-com",
+    "description": "Detecting-AI.com",
+    "url": "https://detecting-ai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "zerogpt-plus",
+    "description": "ZeroGPT Plus",
+    "url": "https://www.zerogpt.plus",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "octoeverywhere",
+    "description": "OctoEverywhere",
+    "url": "https://octoeverywhere.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "humanize-io",
+    "description": "Humanize.io",
+    "url": "https://humanize.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "ahelp",
+    "description": "AHelp",
+    "url": "https://ahelp.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "ai-undetect",
+    "description": "AIundetect",
+    "url": "https://www.aiundetect.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "decopy-ai",
+    "description": "Decopy AI",
+    "url": "https://decopy.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "uncheck-ai",
+    "description": "Uncheck AI",
+    "url": "https://uncheck.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "humanizer-pro",
+    "description": "Humanizer.Pro",
+    "url": "https://humanizer.pro",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "ai-or-not",
+    "description": "AI or Not",
+    "url": "https://www.aiornot.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "humanize-ai-text-ai",
+    "description": "Humanize AI Text",
+    "url": "https://www.humanizeaitext.org",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "rephrasy",
+    "description": "Rephrasy",
+    "url": "https://rephrasy.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "zerogpt-cc",
+    "description": "ZeroGPT.cc",
+    "url": "https://zerogpt.cc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "conch-ai",
+    "description": "Conch AI",
+    "url": "https://getconch.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "stealthly-ai-humanizer",
+    "description": "Stealthly AI Humanizer",
+    "url": "https://stealthly.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "stealthly",
+    "description": "Stealthly AI",
+    "url": "http://stealthly.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "ai-detector-writer",
+    "description": "Aidetectorwriter",
+    "url": "https://aidetectorwriter.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "zerogpt-tools",
+    "description": "ZeroGPT",
+    "url": "https://zerogpt.tools",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "humanizerpro-ai",
+    "description": "HumanizerPro AI",
+    "url": "https://humanizerpro.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "x-detector-ai-content-detector",
+    "description": "X Detector",
+    "url": "https://www.xdetector.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "lightscreen-ai",
+    "description": "Lightscreen",
+    "url": "https://lightscreen.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 25,
+    "name": "bexi-ai-free-ai-humanizer-and-ai-detector",
+    "description": "Bexi.ai: Free AI Humanizer and AI Detector",
+    "url": "https://bexi.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "ai-content-detector",
+    "description": "AI Content Detector",
+    "url": "https://seoroast.co/tools/ai-content-detector",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "aicheatcheck",
+    "description": "AICheatCheck",
+    "url": "https://www.aicheatcheck.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "ai-detect",
+    "description": "AI Detect",
+    "url": "https://www.aidetect.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "write-breeze",
+    "description": "Write Breeze",
+    "url": "https://www.writebreeze.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "passme-ai-1",
+    "description": "PassMe AI",
+    "url": "https://PassMe.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "mindgard",
+    "description": "AI Secured",
+    "url": "https://mindgard.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "ai-detector",
+    "description": "AI Detector",
+    "url": "https://ai-detector.info",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "hidemy-ai",
+    "description": "HideMyAI",
+    "url": "https://hidemy.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "essay-grader-ai-grade-essays-in-seconds-using-ai",
+    "description": "EssayGrade.ai",
+    "url": "https://essay-grader.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "liarliar-ai",
+    "description": "LiarLiar.ai",
+    "url": "https://liarliar.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "mastersuiteai",
+    "description": "MasterSuiteAI",
+    "url": "https://mastersuiteai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "essayget-com",
+    "description": "EssayGet",
+    "url": "https://essayget.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "ai-detector-plagiarism-scan",
+    "description": "AI Detector",
+    "url": "https://textdetector.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "zerotrusted-ai",
+    "description": "ZeroTrusted.ai",
+    "url": "https://www.zerotrusted.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "face-id-recognition-online-demo",
+    "description": "Face & ID Document Recognition Online Demo",
+    "url": "https://demo.miniai.live",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "swayid",
+    "description": "SwayID",
+    "url": "https://www.swayid.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "identifai",
+    "description": "IdentifAI",
+    "url": "https://identifai.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "liars-ai",
+    "description": "Liars.AI",
+    "url": "https://liars.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "aguru-safeguard",
+    "description": "Aguru AI",
+    "url": "https://aguru.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "stendjalgpt",
+    "description": "StendhalGPT",
+    "url": "https://stendhalgpt.fr",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "notlikeai",
+    "description": "NotLikeAI",
+    "url": "https://notlikeai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "pixlyze",
+    "description": "Pixlyze",
+    "url": "https://pixlyze.itsvg.in",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "mydetector",
+    "description": "MyDetector",
+    "url": "https://mydetector.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "skeptic-reader",
+    "description": "Skeptic Reader",
+    "url": "https://www.skepticreader.domesticstreamers.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "ai-content-detection-ai-detector-free",
+    "description": "AI Detector",
+    "url": "https://aidetector.click",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "ai-bypasser",
+    "description": "AI Bypasser",
+    "url": "https://aibypasser.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "wikibit",
+    "description": "WikiBit",
+    "url": "https://chromewebstore.google.com/detail/wikibit/kgjhhnlcfjcjpdmfdhmhabdjbfpicppg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "deepfakeproof",
+    "description": "DeepfakeProof",
+    "url": "https://chromewebstore.google.com/detail/deepfakeproof/ehjldchkbnfkmicpofahcghimhkkpngo",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "qikfox",
+    "description": "Qikfox Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/qikfox/mjkfljcpahjjacdmoepchegegmlepado",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "caliberai",
+    "description": "CaliberAI",
+    "url": "https://caliberai.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "free-ai-detector",
+    "description": "Free AI Detector",
+    "url": "https://freeaidetect.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "ai-detector-detecting-ai-com",
+    "description": "AI Content Detector Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/ai-detector-detecting-aic/lgmmmecfimbpafdmfokijpobpokkgdhl",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "yozo-ai-seo-blogs",
+    "description": "Yozo AI SEO Blogs",
+    "url": "https://www.yozo.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "pangram-labs-ai-detection",
+    "description": "Pangram Labs",
+    "url": "https://chromewebstore.google.com/detail/pangram-labs-ai-detection/eakpippijmmohmdlpgcjnipolcgciaga",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "kashif",
+    "description": "Kashif",
+    "url": "https://chromewebstore.google.com/detail/kashif/lcopkbmfgnkgpaknlfiaodmjlfpenefe",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "reality-check",
+    "description": "Reality Check",
+    "url": "https://chromewebstore.google.com/detail/reality-check/kgkgdlnhmjfmcchnoknjckfflahhnghb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "age-detector",
+    "description": "Age Detector",
+    "url": "https://agedetector.fun",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "ai-detector-text-validator",
+    "description": "AI Detector",
+    "url": "https://apps.apple.com/us/app/ai-detector-text-validator/id6447053881",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "ai-humanizer",
+    "description": "AI Humanizer",
+    "url": "https://ai-humanizer.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "chatgpt-and-ai-detector-by-zerogpt-cc",
+    "description": "ZeroGPT.cc",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-and-ai-detector-b/gddmfhjpdhmbbgkkggjhnmlfckniodnp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "rob3",
+    "description": "Rob3 - Web 2.5 Checker",
+    "url": "https://chromewebstore.google.com/detail/rob3/cpkejagemeohbadaeabcoihaopoedfkj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "gptsafe",
+    "description": "Gptsafe",
+    "url": "https://gptsafe.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "undetectio",
+    "description": "Undetectio",
+    "url": "https://www.undetectio.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "itswrittenbyai",
+    "description": "Itswrittenbyai",
+    "url": "https://www.itswrittenbyai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "genaios",
+    "description": "GenAIos",
+    "url": "https://chromewebstore.google.com/detail/genaios/mojmfndakphphinkoipadfghpahoppfe",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "ai-spy",
+    "description": "Ai-SPY",
+    "url": "https://ai-spy.xyz",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "liarliar",
+    "description": "LiarLiar.ai - AI Lie Detector & Heart Rate Monitor",
+    "url": "https://liarliar.pro",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "chadguard",
+    "description": "ChadGuard",
+    "url": "https://chromewebstore.google.com/detail/chadguard/oogpehhghgfaeojjbflgeemilhkhgbhe",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "identify-phishing-emails-with-ai-assistant",
+    "description": "AI Phishing Assistant",
+    "url": "https://chromewebstore.google.com/detail/identify-phishing-emails/kcpopngcgdmccinhemgcnhcnoalhgkdh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "wedetect-ai",
+    "description": "wedetect.ai",
+    "url": "https://wedetect.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "knowbias",
+    "description": "KnowBias",
+    "url": "https://chromewebstore.google.com/detail/knowbias/dbjdfohhgmjeaniijifmcdepegmgpkio",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "深度专注-deepfocus",
+    "description": "Focus Aid Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/深度专注-deepfocus/ncbjfeaapchgdpkjkpkhbalconenimlj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "hive-ai-detector",
+    "description": "Hive AI Detector",
+    "url": "https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "gptcheck-fact-check-chatgpt",
+    "description": "ChatCheck",
+    "url": "https://chromewebstore.google.com/detail/gptcheck-—-fact-check-cha/cojnhjieiegndeooiaihghgclglbmoik",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "generative-ai-monitoring",
+    "description": "Generative AI Policy Enforcer",
+    "url": "https://chromewebstore.google.com/detail/generative-ai-monitoring/lghjogloacigdfidicnmdghbaigihcne",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "chatgpt-detector",
+    "description": "ChatGPT Detector",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-detector/fplbcnpdkhlohdbdnhkkcdgdiianjmmd",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "gptrue-or-false",
+    "description": "GPT-2 Detector Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/gptrue-or-false/bikcfchmnacmfhneafnpfekgfhckplfj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "stop-porn",
+    "description": "Image Classification Extension",
+    "url": "https://chromewebstore.google.com/detail/stop-porn/lgeeknnfhpdeeablfecidikckleghkof",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "adfonic-com",
+    "description": "Adfonic",
+    "url": "https://adfonic.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "myessaywriter-ai",
+    "description": "MyEssayWriter.AI",
+    "url": "https://chromewebstore.google.com/detail/myessaywriterai/gaemghpifaannmkkpingmblbjibfigmb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "fake-profile-detector-deepfake-gan",
+    "description": "GAN Fake Image Detector",
+    "url": "https://chromewebstore.google.com/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "scangpt",
+    "description": "GPT Text Finder",
+    "url": "https://chromewebstore.google.com/detail/scangpt/goaaajgmfpnfebljepkcdmlmjfpeamko",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "ai-content-detector-copyleaks",
+    "description": "Copyleaks AI Content Detector",
+    "url": "https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "linkshieldapi-com",
+    "description": "Link Shield - Malicious URL API",
+    "url": "https://linkshieldapi.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "safenet-browsing-experience",
+    "description": "ImageBlur",
+    "url": "https://chromewebstore.google.com/detail/safenet-browsing-experien/hphfiglihnbclkgcmbgfoaahjkighbei",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "bitmind",
+    "description": "AI Image Flagging Extension",
+    "url": "https://chromewebstore.google.com/detail/bitmind/ejlhmbdnjjlifeeelpnlkkechnmojnhg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-detector-1"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "good-ai",
+    "description": "The Good AI",
+    "url": "https://www.the-good-ai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "noplagio-it",
+    "description": "NoPlagio",
+    "url": "https://noplagio.it",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "perfectessaywriterai",
+    "description": "PerfectEssayWriter.ai",
+    "url": "https://www.perfectessaywriter.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "essayflow-ai",
+    "description": "EssayFlow",
+    "url": "https://www.essayflow.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "essayflow",
+    "description": "EssayFlow",
+    "url": "http://essayflow.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "lingoleap",
+    "description": "LingoLeap",
+    "url": "https://lingoleap.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "essaygrader",
+    "description": "EssayGrader - Grade essays/papers online",
+    "url": "https://essaygrader.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "thesify",
+    "description": "Thesify.ai",
+    "url": "https://thesify.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "upscore-ai",
+    "description": "UpScore.ai",
+    "url": "https://upscore.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "essayai-ai-1",
+    "description": "EssayAI.ai",
+    "url": "https://EssayAI.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "penelope-ai",
+    "description": "Penelope.ai",
+    "url": "https://penelope.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "stansa-ai",
+    "description": "stansa.ai",
+    "url": "https://stansa.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "myess-ai",
+    "description": "myEssai",
+    "url": "https://myess.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "freeessaywriter-ai",
+    "description": "FreeEssayWriter.ai",
+    "url": "https://www.freeessaywriter.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "academicgpt",
+    "description": "AcademicGPT",
+    "url": "https://academicgpt.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "essaywriter-io",
+    "description": "EssayWriter",
+    "url": "https://www.essaywriter.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "essaywriter",
+    "description": "EssayWriter",
+    "url": "https://EssayWriter.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "papertyper-net",
+    "description": "PaperTyper",
+    "url": "https://papertyper.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "delilah-ai",
+    "description": "Delilah",
+    "url": "https://delilah.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "innhold-ai",
+    "description": "Innhold.AI",
+    "url": "https://innhold.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "your-academic-writer",
+    "description": "YourAcademicWriter",
+    "url": "https://youracademicwriter.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "easymark",
+    "description": "EasyMark",
+    "url": "https://www.easymark.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "essaysloth",
+    "description": "EssaySloth",
+    "url": "https://www.essaysloth.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "study-point-ai",
+    "description": "Study Point AI",
+    "url": "https://studypointai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "charley",
+    "description": "Charley.ai",
+    "url": "https://charley-ai.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "rytersblock",
+    "description": "RytersBlock",
+    "url": "https://rytersblock.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "chckr",
+    "description": "CHCKR",
+    "url": "https://chckr.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "smriti-ielts-writing-checker",
+    "description": "Smriti - IELTS Writing Checker AI Powered",
+    "url": "http://smriti.co",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "gradeassist",
+    "description": "GradeAssist - The Scantron for Essays",
+    "url": "https://gradeassist.tech",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "brainly-homework-help",
+    "description": "SchoolSolver",
+    "url": "https://chromewebstore.google.com/detail/brainly-homework-help/gfecjpfhkebjjmanebmejoflhajdgbpa",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "goodwrite-inteligenty-korektor-tekstu",
+    "description": "GoodWrite",
+    "url": "https://chromewebstore.google.com/detail/goodwrite-inteligenty-kor/hodjkdnlgbjnkcofgnekdhojggabklph",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "有道写作",
+    "description": "Youdao Writing Assistant",
+    "url": "https://chromewebstore.google.com/detail/有道写作/pihneiihahcfmjfegfjodnbiienlbpkm",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "testmint-ai",
+    "description": "Testmint.ai",
+    "url": "https://www.testmint.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "sagai-writing-assistant",
+    "description": "Sagai",
+    "url": "https://chromewebstore.google.com/detail/sagai-writing-assistant/cjanihjnoeedcmdndmaocinhnlnkpfio",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "brimink",
+    "description": "Brimink",
+    "url": "https://brimink.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "essayly-ai",
+    "description": "Essayly.ai",
+    "url": "https://www.essayly.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "brightroom-ai",
+    "description": "Brightroom AI",
+    "url": "https://brightroom.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "essaychecker-io",
+    "description": "EssayChecker.io",
+    "url": "https://essaychecker.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "free-ai-humanizer",
+    "description": "Free AI Humanizer",
+    "url": "https://freehumanizer.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "smartstudi-sidebar",
+    "description": "SmartStudi Sidebar",
+    "url": "https://chromewebstore.google.com/detail/smartstudi-sidebar-ai-det/hcbkeogkclchohipphaajhjhdcpnejko",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "文修",
+    "description": "文修",
+    "url": "https://chromewebstore.google.com/detail/文修/cknoonmebglfimhlakjeidnfjfdanldn",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "grammassist",
+    "description": "GrammAssist",
+    "url": "https://chromewebstore.google.com/detail/grammassist/omjbjkcaibfiaainkacoofpadngimdgb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "cograder",
+    "description": "CoGrader",
+    "url": "https://cograder.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "samwell-ai",
+    "description": "Samwell.ai",
+    "url": "https://samwell.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "writeless-ai",
+    "description": "Writeless",
+    "url": "https://writeless.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "myessaywriterai",
+    "description": "MyEssayWriter.ai",
+    "url": "https://www.myessaywriter.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "myperfectwords-com",
+    "description": "MyPerfectWords",
+    "url": "https://myperfectwords.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "eduwriter-ai",
+    "description": "EduWriter.ai",
+    "url": "https://eduwriter.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "essaygenius",
+    "description": "EssayGenius",
+    "url": "https://essaygenius.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "easyessay-ai",
+    "description": "EasyEssay",
+    "url": "https://easyessay.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "essayai-ai",
+    "description": "Essay AI",
+    "url": "https://www.essayai.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "tutorly-ai",
+    "description": "Tutorly.ai",
+    "url": "https://tutorly.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "inkey-ai",
+    "description": "Inkey.ai",
+    "url": "https://www.inkey.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "webspellchecker-com",
+    "description": "WebSpellChecker",
+    "url": "https://webspellchecker.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "essayservice-ai",
+    "description": "EssayService.ai",
+    "url": "https://www.essayservice.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "essay-typer",
+    "description": "Essay Typer",
+    "url": "https://www.essaytyper.info",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "writego",
+    "description": "WriteGo.ai",
+    "url": "https://writego.ai/app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "gradelab",
+    "description": "GradeLab",
+    "url": "https://gradelab.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "mark-this-for-me",
+    "description": "Mark This For Me",
+    "url": "https://markthisforme.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "my-ai-ninja",
+    "description": "My AI Ninja",
+    "url": "https://www.myai.ninja",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "allwriting",
+    "description": "AllWriting",
+    "url": "https://tools.allwriting.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "edde-ai",
+    "description": "Edde AI",
+    "url": "https://edde.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "ignition",
+    "description": "Writing Assistant",
+    "url": "https://apps.apple.com/us/app/ignition/id6445875090",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "nativer",
+    "description": "Nativer",
+    "url": "https://nativer.site",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "sparkbrief",
+    "description": "SparkBrief",
+    "url": "https://sparkbrief.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "myessaytyper-ai",
+    "description": "My EssayTyper.ai",
+    "url": "https://myessaytyper.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "backdoor-ai",
+    "description": "Backdoor AI",
+    "url": "https://backdoor.best",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "weguru",
+    "description": "WeGuru",
+    "url": "https://www.weguru.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "数智校对",
+    "description": "数智校对",
+    "url": "https://chromewebstore.google.com/detail/数智校对/opbblmhejnbabkjhdkfiinpemlgnfjod",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "writefull-for-overleaf",
+    "description": "Writefull",
+    "url": "https://chromewebstore.google.com/detail/writefull-for-overleaf/edhnemgfcihjcpfhkoiiejgedkbefnhg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "tutorup-ai-homework-exam-helper",
+    "description": "Homework Helper",
+    "url": "https://chromewebstore.google.com/detail/tutorup-ai-homework-exam/fadapffollpaenabliikgkdllhennpdh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "写作猫浏览器插件",
+    "description": "Mita Writing Cat",
+    "url": "https://chromewebstore.google.com/detail/写作猫浏览器插件/giijkmholjmdmpojlmmoieghkilnhkhb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "disgraph",
+    "description": "Disgraph",
+    "url": "https://chromewebstore.google.com/detail/disgraph/gkdpcaacfendpkolbbgjaikcnlpkkgpp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "scribo-pronto",
+    "description": "Scribo Pronto",
+    "url": "https://chromewebstore.google.com/detail/scribo-pronto/edckiomfoomhpfloijngdaicnnjjddpp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "ouriginal-for-google-classroom-extension",
+    "description": "Ouriginal for Google Classroom",
+    "url": "https://chromewebstore.google.com/detail/ouriginal-for-google-clas/ibdcbopijgjjkihompigdaagfmdfagik",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "essaywriters-applier",
+    "description": "OrderFlow",
+    "url": "https://chromewebstore.google.com/detail/essaywriters-applier/dcambcgflolcoeeacbcdgodlcpamfdeo",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "better-my-email-plugin",
+    "description": "EditBot",
+    "url": "https://chromewebstore.google.com/detail/better-my-email-plugin/pcjmpkfeabdbbecobjchnalajnjoakid",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "examio-study-assistant",
+    "description": "Examio",
+    "url": "https://chromewebstore.google.com/detail/examio-study-assistant/elloebapleopdcnnlhnckmknhncbnllb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "humanizer",
+    "description": "Humanizer.org",
+    "url": "https://humanizer.org",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "grammarly",
+    "description": "Grammarly",
+    "url": "https://www.grammarly.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "smodin",
+    "description": "Smodin",
+    "url": "https://smodin.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "packback-co",
+    "description": "Packback",
+    "url": "https://packback.co",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "rewriteguru-com",
+    "description": "RewriteGuru",
+    "url": "https://rewriteguru.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "studyable-app",
+    "description": "Studyable - AI Learning Tools & Flash Cards",
+    "url": "https://studyable.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "blainy",
+    "description": "Blainy",
+    "url": "https://blainy.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-checker-essay"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "copyleaks",
+    "description": "Copyleaks",
+    "url": "https://copyleaks.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "quetext-com",
+    "description": "Quetext",
+    "url": "https://quetext.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "plagiarismcheck-org",
+    "description": "PlagiarismCheck",
+    "url": "https://plagiarismcheck.org",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "papergen",
+    "description": "PaperGen",
+    "url": "https://www.papergen.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "ai-checker-tool",
+    "description": "Free AI Content Detector Tool And ChatGPT Plagiarism Checker",
+    "url": "https://aicheckertool.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "refinr-ai",
+    "description": "refinr.ai",
+    "url": "https://refinr.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "advacheck",
+    "description": "Advacheck",
+    "url": "https://advacheck.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "antipiracy",
+    "description": "Lovable Generated Project",
+    "url": "https://preview--anti-piracy-sphere.lovable.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "plag-lv",
+    "description": "Plag",
+    "url": "https://plag.lv",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "ai-seo-service-in-australia-optidan",
+    "description": "Optidan AI",
+    "url": "https://optidan.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "percent-human-detect-chatgpt-ai-content",
+    "description": "Plagiarism Detector",
+    "url": "https://chromewebstore.google.com/detail/percent-human-detect-chat/ifdhkdemnklbblchhconnhlcgggedcaj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "cheatscrub-gpt-detector",
+    "description": "CheatScrub",
+    "url": "https://chromewebstore.google.com/detail/cheatscrub-gpt-detector/hfnblhmefiejojklijjpoieggfilmfoa",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "copy-for-chat-gpt",
+    "description": "ChatGPT Copy Extension",
+    "url": "https://chromewebstore.google.com/detail/copy-for-chat-gpt/mloblghgjiagjdffmgobhbgmplhongpm",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "ai-content-detector-extension",
+    "description": "ContentDetector.AI",
+    "url": "https://chromewebstore.google.com/detail/ai-content-detector/oijepnjgfeoldfanaobmnkiigpfcgodo",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "chatgpt-academic-monitor",
+    "description": "ChatGPT Academic Monitor",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-academic-monitor/kmplbafkncfjcmalicegdjbjiidjndjd",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "deceptioner-humanize-ai-text-like-a-pro",
+    "description": "DecEptioner's Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/deceptioner-humanize-ai-t/gjdagipcejlhebcgbmehlkpkbifoiijl",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "cannypen",
+    "description": "CannyPen",
+    "url": "https://cannypen.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "笔尖ai-十分钟生成毕业论文",
+    "description": "笔尖AI",
+    "url": "https://bklw.cheerup.vip/pc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "rephrasely",
+    "description": "Rephrasely",
+    "url": "https://rephrasely.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "rewritify",
+    "description": "Rewritify",
+    "url": "https://rewritify.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "paraphrasing-io",
+    "description": "Paraphrasing.io",
+    "url": "https://paraphrasing.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "word-changer",
+    "description": "Word Changer",
+    "url": "https://wordchanger.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "paraphrasing-tool-ai",
+    "description": "Paraphrasing-tool.ai",
+    "url": "https://paraphrasing-tool.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "predraft-ai",
+    "description": "predraft.ai",
+    "url": "https://predraft.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "rewording-tool",
+    "description": "Rewording Tool",
+    "url": "https://rewording-tool.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "integrito",
+    "description": "Integrito",
+    "url": "https://integrito.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "copyly",
+    "description": "Copyly",
+    "url": "https://www.copyly.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "undetected",
+    "description": "Undetected",
+    "url": "https://undetected.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "free-humanizeaiwork",
+    "description": "HumanizeAI",
+    "url": "https://www.humanizeaiwork.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "zerogpt-detector",
+    "description": "ZeroGPT Detector",
+    "url": "https://www.zerogptdetector.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "ai-essay-writer",
+    "description": "AI Essay Writer",
+    "url": "https://essaywriterapp.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "write-conch-ai",
+    "description": "Write Conch AI",
+    "url": "https://www.writeconch.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "酷学术",
+    "description": "CoolScholar",
+    "url": "https://chromewebstore.google.com/detail/酷学术/angphjdghkpkjdbljdfabiphhkolenbn",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "correctify-write-mail-messages-with-chatgpt",
+    "description": "Correctify",
+    "url": "https://chromewebstore.google.com/detail/correctify-write-mail-mes/fnebgpgikddjmgdhomiciooogkkleljg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "declassify",
+    "description": "DeClassIFY",
+    "url": "https://chromewebstore.google.com/detail/declassify/lpjbjbclcjofeofjjjpgkciiklidkkkc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "integrito-analyze-text-check-plagiarism-ai",
+    "description": "Integrito",
+    "url": "https://chromewebstore.google.com/detail/integrito-—-analyze-text/lhbjcjhlgiblnlfigbfhnamoghgfppoh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "deepcite",
+    "description": "DeepCite",
+    "url": "https://chromewebstore.google.com/detail/deepcite/oibmgglhkkaigemacdkfeedffkjbpgoi",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "studyhq",
+    "description": "StudyHQ",
+    "url": "https://studyhq.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "gradeassist-ai-essay-grading-tools-for-google-docs",
+    "description": "Smart Grader Plus",
+    "url": "https://chromewebstore.google.com/detail/gradeassist-ai-essay-grad/bniifnajcfhipaemdbbodnegpdhegkik",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "double-check-ai-extension",
+    "description": "Double Check",
+    "url": "https://chromewebstore.google.com/detail/double-check-ai/ciiaplbmocogjcakmllebilamknkfckg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "zealos-ai",
+    "description": "Zealos.ai",
+    "url": "https://zealos.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "copyfind-plagiarism-and-ai-detector",
+    "description": "CopyFind AI",
+    "url": "https://copyfind.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "vera-use-ai-to-verify-facts-and-misinformation-online",
+    "description": "Vera for Chrome",
+    "url": "https://chromewebstore.google.com/detail/vera-use-ai-to-verify-fac/bambbpbjdmhjpkmbkgnhkeabeplgnjoa",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 238,
+    "name": "word-spinner-the-best-ai-humanizer-rewriter-copywriter",
+    "description": "Word Spinner",
+    "url": "https://chromewebstore.google.com/detail/word-spinner-the-best-ai/cpanhcdlkmibhbgpajhomahnflagaopa",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 239,
+    "name": "contentbot-ai",
+    "description": "ContentBot - AI Content Automation and Workflows",
+    "url": "https://contentbot.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 240,
+    "name": "reword-generator",
+    "description": "Reword Generator",
+    "url": "https://rewordgenerator.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 241,
+    "name": "penpilot-ai",
+    "description": "PenPilot AI",
+    "url": "https://www.penpilot.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 242,
+    "name": "schoolai",
+    "description": "SchoolAI - The Ultimate AI Writer for Schools",
+    "url": "https://www.schoolai.co",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 243,
+    "name": "correctenglish-com",
+    "description": "CorrectEnglish",
+    "url": "https://correctenglish.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 244,
+    "name": "studypro",
+    "description": "StudyPro",
+    "url": "https://studypro.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 245,
+    "name": "grammarize-make-your-posts-look-sharp",
+    "description": "Grammarize",
+    "url": "https://grammarize.talktails.in",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 246,
+    "name": "aihumanize",
+    "description": "AIHumanize",
+    "url": "https://aihumanize.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 247,
+    "name": "paraphrasing-tool",
+    "description": "Paraphrasingtool.ai",
+    "url": "https://chromewebstore.google.com/detail/paraphrasing-tool/finjjacipfhagcgbjhhgedgokommpjke",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-plagiarism-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 248,
+    "name": "prowritingaid-com",
+    "description": "ProWritingAid",
+    "url": "https://prowritingaid.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 249,
+    "name": "updf-ai",
+    "description": "UPDF AI",
+    "url": "https://updf.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 250,
+    "name": "arvin-ai-assistant",
+    "description": "Arvin - AI Assistant",
+    "url": "https://arvin.chat/",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 251,
+    "name": "trinka-ai-grammar-checker-tool",
+    "description": "Trinka",
+    "url": "https://www.trinka.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 252,
+    "name": "sheets-ai-resume-builder",
+    "description": "Sheets AI Resume Builder",
+    "url": "https://sheetsresume.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 253,
+    "name": "text2go",
+    "description": "Text2Go",
+    "url": "https://www.text2go.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 254,
+    "name": "fluently-ai-english-coach",
+    "description": "Fluently",
+    "url": "https://getfluently.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 255,
+    "name": "univerbal-formerly-quazel",
+    "description": "Univerbal",
+    "url": "https://www.univerbal.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 256,
+    "name": "wisio",
+    "description": "wisio.app",
+    "url": "https://wisio.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 257,
+    "name": "fixkey",
+    "description": "AI first Grammarly",
+    "url": "https://fixkey.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 258,
+    "name": "tweeteasy",
+    "description": "Tweeteasy",
+    "url": "https://tweeteasy.io",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 259,
+    "name": "lingoedit",
+    "description": "Lingoedit",
+    "url": "https://www.lingoedit.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 260,
+    "name": "rewritebar",
+    "description": "RewriteBar",
+    "url": "https://rewritebar.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 261,
+    "name": "texthelper",
+    "description": "Texthelper",
+    "url": "https://www.texthelper.xyz",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 262,
+    "name": "luqo-ai",
+    "description": "Luqo AI",
+    "url": "https://www.luqo.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 263,
+    "name": "ai-chatgpt-free-ai-chat-and-ai-tools",
+    "description": "ChatAIGPT.net",
+    "url": "https://aichatgptfree.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 264,
+    "name": "scienhub",
+    "description": "ScienHub",
+    "url": "https://scienhub.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 265,
+    "name": "speakperfect-co",
+    "description": "Speak Perfect",
+    "url": "https://speakperfect.co",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 266,
+    "name": "correctify",
+    "description": "Correctify",
+    "url": "https://correctify.com.cy",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 267,
+    "name": "easy2resume",
+    "description": "Easy2Resume",
+    "url": "https://easy2resume.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 268,
+    "name": "sixtyfour-platform",
+    "description": "Sixtyfour Platform",
+    "url": "https://64.rw",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 269,
+    "name": "storycanvas",
+    "description": "StoryCanvas",
+    "url": "https://storycanvas.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 270,
+    "name": "grammarly-ai-writing-and-grammar-checker-app",
+    "description": "Grammarly for Chrome",
+    "url": "https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 271,
+    "name": "wordsensei-gpt-powered-dictionary",
+    "description": "WordSensei",
+    "url": "https://chromewebstore.google.com/detail/wordsensei-gpt-powered-di/hidogboaldlnaomicmkckapmpnaknabl",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 272,
+    "name": "ginger-ai-grammar-spell-checker",
+    "description": "Ginger",
+    "url": "https://chromewebstore.google.com/detail/ginger-ai-grammar-spell-c/kdfieneakcjfaiglcfcgkidlkmlijjnh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 273,
+    "name": "revrite",
+    "description": "revrite.ai",
+    "url": "https://www.revrite.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 274,
+    "name": "correcto-herramienta-de-escritura",
+    "description": "Correcto",
+    "url": "https://chromewebstore.google.com/detail/correcto-herramienta-de-e/hllekbchnfikjpbdielihahenjmbpach",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 275,
+    "name": "voice-transcription",
+    "description": "Voice Transcription",
+    "url": "https://chromewebstore.google.com/detail/voice-transcription/eggbccmachgbjpkhflomefjebnaffbom",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 276,
+    "name": "axofy-ai",
+    "description": "Axofy AI",
+    "url": "https://axofy.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 277,
+    "name": "examify",
+    "description": "WiderAI",
+    "url": "https://www.widerai.us",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 278,
+    "name": "grammar-gpt",
+    "description": "Grammar-GPT",
+    "url": "https://www.grammar-gpt.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 279,
+    "name": "writers-copilot",
+    "description": "Writers-Copilot",
+    "url": "https://writers-copilot.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 280,
+    "name": "智译网页翻译-医学版-自动翻译-双语对照-ai对话",
+    "description": "LanguageMaster",
+    "url": "https://chromewebstore.google.com/detail/智译网页翻译（医学版）-自动翻译、双语对照、ai对/efbakmeepefgpiglfickgjfhoncnggge",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 281,
+    "name": "word-mentor",
+    "description": "Word Mentor",
+    "url": "https://chromewebstore.google.com/detail/word-mentor/fdhihofjoaoobiefngjfbgahmlpkjnje",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 282,
+    "name": "print-perfect-ai-text-editor",
+    "description": "Print Perfect",
+    "url": "https://chromewebstore.google.com/detail/print-perfect-ai-text-edi/fjjnddjflkokgpmehdojmplbjadhidff",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 283,
+    "name": "cordial",
+    "description": "Cordial",
+    "url": "https://chromewebstore.google.com/detail/cordial/ipgahklhmkcajgelkfombkolodahigco",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 284,
+    "name": "voice-writer",
+    "description": "Voice Writer",
+    "url": "https://chromewebstore.google.com/detail/voice-writer/bmnkehnhllihccfbhinbjpolponlnfbl",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 285,
+    "name": "chatgpt-email",
+    "description": "ChatGPT Email Assistant",
+    "url": "https://chatgptemail.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 286,
+    "name": "ai-grammar-checker-paraphraser-languagetool",
+    "description": "LanguageTool",
+    "url": "https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 287,
+    "name": "italian-pronouncer-extension",
+    "description": "Italian Pronouncer",
+    "url": "https://chromewebstore.google.com/detail/italian-pronouncer-extens/lmjfcnifhbgdcfmkfioicacdbjkjedal",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 288,
+    "name": "suggesty",
+    "description": "Suggesty",
+    "url": "https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 289,
+    "name": "depost-ai-linkedin-ai-assistant",
+    "description": "Depost AI",
+    "url": "https://chromewebstore.google.com/detail/depost-ai-linkedin-ai-ass/mnjjmehgakbgcgoeaahodkcdlidcjnjm",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 290,
+    "name": "german-pronouncer-extension",
+    "description": "German Pronouncer",
+    "url": "https://chromewebstore.google.com/detail/german-pronouncer-extensi/kmokknckpkkglmmbhmhobagnhpjmjnpm",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 291,
+    "name": "linguix-grammar-checker-and-ai-writing-app",
+    "description": "Linguix",
+    "url": "https://chromewebstore.google.com/detail/linguix-—-grammar-checker/ndgklmlnheedegipcohgcbjhhgddendc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 292,
+    "name": "qalam",
+    "description": "Qalam.ai",
+    "url": "https://chromewebstore.google.com/detail/qalam/kocklgpfjooneciijedkjhbclookilfb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 293,
+    "name": "linguapeak-ielts-speaking-ai-assistant",
+    "description": "LinguaPeak IELTS&English",
+    "url": "https://www.linguapeak.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 294,
+    "name": "videmak-research-ai",
+    "description": "Videmak Research AI",
+    "url": "https://videmak.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 295,
+    "name": "火龙果校对-智能检查错别字",
+    "description": "Huolongguo",
+    "url": "https://chromewebstore.google.com/detail/火龙果校对-智能检查错别字/ihlkambfkgaibbllbkakpnlacinaimmd",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 296,
+    "name": "grammfix",
+    "description": "GrammFix",
+    "url": "https://chromewebstore.google.com/detail/grammfix/ehefhikaopahjgppnedlfafikbgmehih",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 297,
+    "name": "prose-ai",
+    "description": "Prose AI",
+    "url": "https://useprose.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 298,
+    "name": "jgquhljm4xm698vcuwcnzya8uqxtavwu",
+    "description": "Rock AI",
+    "url": "https://chromewebstore.google.com/detail/المدقق-الآلي/pmiienjbngoonnjmppnalcomadjjbdol",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 299,
+    "name": "corrai-corriger-et-traduire",
+    "description": "corrAI",
+    "url": "https://chromewebstore.google.com/detail/corrai-corriger-et-tradui/dpdfhpfdhdckdknmiledcbednbndjjjj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 300,
+    "name": "grammar-check-paraphrasing-tool",
+    "description": "WordSuperb",
+    "url": "https://chromewebstore.google.com/detail/grammar-check-paraphrasin/hbffkehliekjohgiklfhbeoecbplbhdb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 301,
+    "name": "prompt-selected",
+    "description": "Prompt Selector",
+    "url": "https://promptselected.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 302,
+    "name": "ai-copyedit-pro",
+    "description": "AI CopyEdit Pro",
+    "url": "https://chromewebstore.google.com/detail/ai-copyedit-pro/jlopchipobekllddjfnlebhcjpghkbbh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 303,
+    "name": "promptpolish",
+    "description": "PromptPolish",
+    "url": "https://chromewebstore.google.com/detail/promptpolish/alahndbompemffbdajgeelhhdoagcglh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 304,
+    "name": "langcheck",
+    "description": "Langcheck",
+    "url": "https://langcheck.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 305,
+    "name": "summarease-chatgpt-toolkit",
+    "description": "ChatGPT",
+    "url": "https://chromewebstore.google.com/detail/summarease-chatgpt-toolki/eapkfdljobplooogogdbiegmhaibcifp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 306,
+    "name": "correctenglish",
+    "description": "CorrectEnglish",
+    "url": "https://chromewebstore.google.com/detail/correctenglish/eappcnhifninmakallbgecknfdlbhicc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 307,
+    "name": "grammai-ai-grammar-checker-gpt-powered",
+    "description": "Grammai",
+    "url": "https://chromewebstore.google.com/detail/grammai-ai-grammar-checke/ffokajflcpaeojpebhonbmekfpgmgmgp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 308,
+    "name": "ai-text-improver",
+    "description": "AITextImprover",
+    "url": "https://chromewebstore.google.com/detail/ai-text-improver/efdhijcfgilfmbflklhnogblejehamag",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 309,
+    "name": "maxigramar-corrector-de-catal",
+    "description": "MaxiGramar",
+    "url": "https://chromewebstore.google.com/detail/maxigramar-corrector-de-c/eegkpnmlimmhkpgjmacbkbbfojomaiem",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 310,
+    "name": "quillbro",
+    "description": "Quillbro",
+    "url": "https://quillbro.live",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 311,
+    "name": "ai-for-texting",
+    "description": "AI For Texting",
+    "url": "https://aifortexting.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 312,
+    "name": "lingually-learn-languages-with-ai",
+    "description": "LangBoost",
+    "url": "https://chromewebstore.google.com/detail/lingually-learn-languages/ahhedndilobeddclfgpopkjjmcipbkal",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 313,
+    "name": "chinese-ai",
+    "description": "Chinese AI - U Language Coach",
+    "url": "https://apps.apple.com/us/app/chinese-ai-u-language-coach/id6478802293",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 314,
+    "name": "online-word-editor",
+    "description": "Online Word Editor",
+    "url": "https://onlinewordeditor.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 315,
+    "name": "speedproof-one-click-ai-text-edit",
+    "description": "SpeedProof",
+    "url": "https://chromewebstore.google.com/detail/speedproof/cbnlhcekhieojoedojhckalboloejfbp",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 316,
+    "name": "korektor-tekstu-sprawdzanie-pisowni",
+    "description": "Grammarly",
+    "url": "https://chromewebstore.google.com/detail/korektor-tekstu-sprawdzan/dgfkompnmpojnknbgolkabgnfmommboh",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 317,
+    "name": "chapa-your-ai-assistant-powered-by-gpt",
+    "description": "ChapaGPT",
+    "url": "https://chromewebstore.google.com/detail/chapa-your-ai-assistant-p/lhdjjndpipjcmlbkglbaphamfpjiiipo",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 318,
+    "name": "jarggin",
+    "description": "Jarggin",
+    "url": "https://jarggin.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 319,
+    "name": "write-brain-ai-writing-assistant",
+    "description": "Write Brain",
+    "url": "https://chromewebstore.google.com/detail/write-brain-ai-writing-as/hoifabdggfdbeejjnachknneilikeobk",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 320,
+    "name": "snap-ai",
+    "description": "SnapAI",
+    "url": "https://apps.apple.com/us/app/snap-ai-chat-with-gpt-bot/id6670407751",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 321,
+    "name": "lexai",
+    "description": "Lexai",
+    "url": "https://lexai.cyber-nerds.site",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-grammar-checker"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 322,
+    "name": "ai-detector-by-contentdetector-ai",
+    "description": "ContentDetector.AI",
+    "url": "https://contentdetector.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 323,
+    "name": "cleverspinner-ai-humanizer-paraphrasing-tool",
+    "description": "CleverSpinner - AI Humanizer & Paraphrasing Tool",
+    "url": "https://cleverspinner.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 324,
+    "name": "any-summary",
+    "description": "AnySummary",
+    "url": "https://www.anysummary.app",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 325,
+    "name": "bodyguard-ai",
+    "description": "Bodyguard.ai",
+    "url": "https://bodyguard.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 326,
+    "name": "loti",
+    "description": "Loti",
+    "url": "https://goloti.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 327,
+    "name": "sounder-ai",
+    "description": "Sounder",
+    "url": "https://sounder.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 328,
+    "name": "omniparsr",
+    "description": "Omniparsr",
+    "url": "http://omniparser.net",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 329,
+    "name": "lasso-moderation",
+    "description": "Lasso",
+    "url": "https://www.lassomoderation.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "ai-to-human",
+    "description": "AI to Human Text Converter - AItoHuman.org",
+    "url": "https://aitohuman.org",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 331,
+    "name": "moderate-kit",
+    "description": "Moderate Kit",
+    "url": "https://www.moderatekit.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 332,
+    "name": "gpt-zero",
+    "description": "GPT-Zero.cc",
+    "url": "https://gpt-zero.cc",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 333,
+    "name": "catchgpt",
+    "description": "CatchGPT",
+    "url": "https://chromewebstore.google.com/detail/catchgpt/kaodldigfljjcdeghjccakdjiehlgbig",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 334,
+    "name": "layly-ai",
+    "description": "LAYLY - IA",
+    "url": "https://www.layly.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 335,
+    "name": "pordaai-realtime-haramblur",
+    "description": "Porda AI",
+    "url": "https://chromewebstore.google.com/detail/pordaai-realtime-haramblu/ofhlminijomemliahkjjbgcbfoimjiaj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 336,
+    "name": "aihumanizer",
+    "description": "AI Humanizer",
+    "url": "https://ai-humanizer.pro",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 337,
+    "name": "spamcheck-ai",
+    "description": "SpamCheckAI",
+    "url": "https://spamcheck.ai",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 338,
+    "name": "noodle4-ai-content-review-assistant",
+    "description": "Noodle4 Ai",
+    "url": "https://www.noodle4.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 339,
+    "name": "aithenticate",
+    "description": "Aithenticate",
+    "url": "https://aithenticate.org",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 340,
+    "name": "detect-gpt",
+    "description": "Detect GPT",
+    "url": "https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 341,
+    "name": "censorfy-ai-content-moderation",
+    "description": "Censorfy",
+    "url": "https://www.censorfy.com",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 342,
+    "name": "hirequotient-ai-detector",
+    "description": "HireQuotient AI Detector",
+    "url": "https://chromewebstore.google.com/detail/hirequotient-ai-detector/mifpjpaiaikidcoagnomidnegbfcjidj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 343,
+    "name": "safegaze-blur-haram-images",
+    "description": "SafeGaze",
+    "url": "https://chromewebstore.google.com/detail/safegaze-blur-haram-image/aaddkkmpkpcnchdggomfaehpagbekalb",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 344,
+    "name": "redfalg-ai",
+    "description": "RedFlag AI",
+    "url": "https://www.redflagai.in",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 345,
+    "name": "twitter-cleaner",
+    "description": "Intelligent Social Media Comment Filter",
+    "url": "https://chromewebstore.google.com/detail/twitter-cleaner/fccidpgmnhpololkdelogpggpfkjemal",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 346,
+    "name": "他-利用防止-ai顔認証",
+    "description": "FaceID Authentication for Chrome",
+    "url": "https://chromewebstore.google.com/detail/他メンバー利用防止ai顔認証・サテライトオフィス/jamodipdonhdnobahalneapokflkemhn",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 347,
+    "name": "ai-content-detector-for-chatgpt-sapling-ai",
+    "description": "AI Content Detector",
+    "url": "https://chromewebstore.google.com/detail/ai-content-detector-for-c/gbcfdjgipmpinkahpiambcikjkijimhi",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 348,
+    "name": "leap-ai-detector",
+    "description": "Leap AI Detector",
+    "url": "https://chromewebstore.google.com/detail/leap-ai-detector/kppilbpdemgllpkldmbcjaohnafabgad",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 349,
+    "name": "ai-detector-for-chatgpt-more-winston-ai",
+    "description": "Winston AI",
+    "url": "https://chromewebstore.google.com/detail/ai-detector-for-chatgpt-m/cdbldfdikpkmfcnpidikieafacjkchbg",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 350,
+    "name": "syntheticeye-ai-detector",
+    "description": "SyntheticEye",
+    "url": "https://chromewebstore.google.com/detail/syntheticeye-ai-detector/jhnehjooeiopekmlgcpmdmliifccjhlj",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 351,
+    "name": "leminda-ai-fake-checker",
+    "description": "Leminda",
+    "url": "https://chromewebstore.google.com/detail/leminda-ai-fake-checker/pcojndbgeiagebclebcfgallbbfldemf",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 352,
+    "name": "uncovai-extension",
+    "description": "UncovAI",
+    "url": "https://chromewebstore.google.com/detail/uncovai-extension/ljcoghbmlcdlpadiggapnbchdpahkbic",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 353,
+    "name": "deep-find",
+    "description": "AI Text Detector",
+    "url": "https://chromewebstore.google.com/detail/deep-find/cclfpdaaigpkmanodiklhaammanpchdk",
+    "category": "AI_Detector",
+    "tags": [
+      "ai-content-detector"
+    ],
+    "create_date": "2025-03-23"
+  }
+]

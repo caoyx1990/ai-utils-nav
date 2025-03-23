@@ -1,0 +1,5810 @@
+[
+  {
+    "id": 1,
+    "name": "powered-by",
+    "description": "",
+    "url": "https://poweredby.agency",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 2,
+    "name": "deepseek",
+    "description": "DeepSeek",
+    "url": "https://www.deepseek.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 3,
+    "name": "openai",
+    "description": "OpenAI",
+    "url": "https://openai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 4,
+    "name": "wonderchat",
+    "description": "Wonderchat",
+    "url": "https://wonderchat.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 5,
+    "name": "kimi-chat",
+    "description": "Kimi Chat",
+    "url": "https://kimi.moonshot.cn",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 6,
+    "name": "文心一言",
+    "description": "文心一言",
+    "url": "https://yiyan.baidu.com/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 7,
+    "name": "talkie-ai",
+    "description": "Talkie AI",
+    "url": "https://www.talkie-ai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 8,
+    "name": "yeschat",
+    "description": "YesChat",
+    "url": "https://yeschat.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 9,
+    "name": "novelai",
+    "description": "NovelAI - The AI Storyteller",
+    "url": "https://novelai.net",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 10,
+    "name": "chatglm-cn",
+    "description": "ChatGLM",
+    "url": "https://chatglm.cn",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 11,
+    "name": "abacus-ai",
+    "description": "Abacus.AI",
+    "url": "https://abacus.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 12,
+    "name": "dify-ai",
+    "description": "Dify",
+    "url": "https://dify.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 13,
+    "name": "groq",
+    "description": "Groq",
+    "url": "https://groq.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 14,
+    "name": "fal-ai",
+    "description": "fal.ai",
+    "url": "https://fal.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 15,
+    "name": "chad-ai",
+    "description": "Chad AI | ChatGPT на русском",
+    "url": "https://chadgpt.ru",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 16,
+    "name": "tipsy",
+    "description": "Tipsy Chat",
+    "url": "http://tipsy.chat/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 17,
+    "name": "photocaption",
+    "description": "AI PhotoCaption—Text Generator",
+    "url": "https://apple.co/4bQRLPo",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 18,
+    "name": "anythingllm",
+    "description": "AnythingLLM",
+    "url": "https://anythingllm.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 19,
+    "name": "webx",
+    "description": "WebX",
+    "url": "https://bitly.cx/80yy",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 20,
+    "name": "haiper-ai",
+    "description": "Haiper AI",
+    "url": "https://haiper.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 21,
+    "name": "hyperwrite-ai",
+    "description": "HyperWrite",
+    "url": "https://www.hyperwriteai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 22,
+    "name": "cerebras",
+    "description": "Cerebras",
+    "url": "https://cerebras.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 23,
+    "name": "rprp-ai",
+    "description": "RPRP AI",
+    "url": "https://rprp.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 24,
+    "name": "lightning-ai",
+    "description": "Lightning AI",
+    "url": "https://lightning.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 25,
+    "name": "globalgpt",
+    "description": "GlobalGPT",
+    "url": "https://www.glbgpt.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 26,
+    "name": "cody",
+    "description": "Cody",
+    "url": "https://sourcegraph.com/cody",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 27,
+    "name": "nsfw-ai-chat-ai",
+    "description": "NSFW AI Chat",
+    "url": "https://nsfwaichat.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 28,
+    "name": "freedomgpt-com",
+    "description": "FreedomGPT",
+    "url": "https://freedomgpt.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 29,
+    "name": "mammouth",
+    "description": "Mammouth AI",
+    "url": "https://mammouth.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 30,
+    "name": "chatgpt-online-gptonline-ai",
+    "description": "ChatGPT Online",
+    "url": "https://gptonline.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 31,
+    "name": "learn-prompting",
+    "description": "Learn Prompting",
+    "url": "https://learnprompting.org",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 32,
+    "name": "fireworks-ai",
+    "description": "Fireworks",
+    "url": "https://fireworks.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 33,
+    "name": "mathful-com",
+    "description": "Mathful",
+    "url": "https://www.mathful.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 34,
+    "name": "reworkd",
+    "description": "Reworkd",
+    "url": "https://www.reworkd.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 35,
+    "name": "soulgen-net",
+    "description": "SoulGen",
+    "url": "https://soulgen.net",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 36,
+    "name": "gemini-code-assist",
+    "description": "Gemini Code Assist",
+    "url": "https://codeassist.google/products/individual",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 37,
+    "name": "jan",
+    "description": "Jan",
+    "url": "https://jan.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 38,
+    "name": "litellm",
+    "description": "LiteLLM",
+    "url": "https://litellm.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 39,
+    "name": "transmonkey",
+    "description": "Transmonkey",
+    "url": "https://www.transmonkey.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 40,
+    "name": "theb-ai",
+    "description": "TheB.AI",
+    "url": "https://www.theb.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 41,
+    "name": "composio-mcp",
+    "description": "Composio-MCP",
+    "url": "https://composio.dev/mcp",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 42,
+    "name": "fluxpro-ai",
+    "description": "Flux AI",
+    "url": "https://fluxpro.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 43,
+    "name": "harvey-ai",
+    "description": "Harvey | Generative AI for Elite Law Firms",
+    "url": "https://harvey.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 44,
+    "name": "free-ai-deepfake-maker",
+    "description": "Deepface Maker",
+    "url": "https://deepfakemaker.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 45,
+    "name": "gliglish",
+    "description": "Gliglish",
+    "url": "https://gliglish.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 46,
+    "name": "arvin-ai-assistant",
+    "description": "Arvin - AI Assistant",
+    "url": "https://arvin.chat/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 47,
+    "name": "sourcetable-ai-spreadsheet-data-analyst",
+    "description": "Sourcetable — AI spreadsheet & data analyst",
+    "url": "https://sourcetable.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 48,
+    "name": "chat100-ai",
+    "description": "Chat100.ai",
+    "url": "https://chat100.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 49,
+    "name": "deep-realms",
+    "description": "Deep Realms",
+    "url": "https://www.deeprealms.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 50,
+    "name": "scisummary",
+    "description": "SciSummary",
+    "url": "https://scisummary.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 51,
+    "name": "funfun-art",
+    "description": "🔥 FunFun Art",
+    "url": "https://www.funfun.art",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 52,
+    "name": "gpt4o-so-chatgpt-4o-free-online",
+    "description": "GPT4o.so: ChatGPT 4o Free Online",
+    "url": "https://gpt4o.so",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 53,
+    "name": "deepseek-v3",
+    "description": "DeepSeek v3",
+    "url": "https://deepseekv3.org",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 54,
+    "name": "spellbook",
+    "description": "Spellbook - AI Contract Drafting & Review",
+    "url": "https://www.spellbook.legal",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 55,
+    "name": "goover",
+    "description": "Goover AI",
+    "url": "https://www.goover.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 56,
+    "name": "featherless-llm",
+    "description": "Featherless",
+    "url": "https://featherless.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 57,
+    "name": "deepseek-r1",
+    "description": "Deepseek R1",
+    "url": "https://deepseek-r1.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 58,
+    "name": "modelslab",
+    "description": "ModelsLab",
+    "url": "https://modelslab.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 59,
+    "name": "stocktune",
+    "description": "StockTune",
+    "url": "https://stocktune.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 60,
+    "name": "bookai-top",
+    "description": "BookAI.top",
+    "url": "https://www.bookai.top",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 61,
+    "name": "dust",
+    "description": "Dust - Smarter Teams with AI",
+    "url": "https://dust.tt",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 62,
+    "name": "arize-com",
+    "description": "Arize AI",
+    "url": "https://arize.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 63,
+    "name": "flux-1-ai",
+    "description": "FLUX.1 AI",
+    "url": "https://flux1ai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 64,
+    "name": "pearai",
+    "description": "PearAI",
+    "url": "https://trypear.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 65,
+    "name": "klu-ai-public-beta",
+    "description": "Klu",
+    "url": "https://klu.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 66,
+    "name": "aisera",
+    "description": "Aisera",
+    "url": "https://aisera.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 67,
+    "name": "layla",
+    "description": "Layla",
+    "url": "https://www.layla-network.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 68,
+    "name": "helicone-ai",
+    "description": "Helicone",
+    "url": "https://www.helicone.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 69,
+    "name": "yourteacher-ai",
+    "description": "Teacher AI",
+    "url": "https://yourteacher.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 70,
+    "name": "deepseek-online",
+    "description": "DeepSeek V3",
+    "url": "https://www.deepseekv3.net",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 71,
+    "name": "openaisora-video",
+    "description": "OpenAI Sora",
+    "url": "https://www.openaisora.video",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 72,
+    "name": "gpts-hunter",
+    "description": "GPTsHunter",
+    "url": "https://www.gptshunter.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 73,
+    "name": "regie",
+    "description": "Regie.ai",
+    "url": "https://www.regie.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 74,
+    "name": "ai21-maestro",
+    "description": "AI21 Maestro",
+    "url": "https://www.ai21.com/maestro",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 75,
+    "name": "one-ai",
+    "description": "One AI",
+    "url": "https://www.oneai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 76,
+    "name": "博查ai搜索",
+    "description": "SearchAI by Bocha",
+    "url": "https://bochaai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 77,
+    "name": "dream-meachine-ai",
+    "description": "Dream Meachine AI",
+    "url": "https://dreammachineai.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 78,
+    "name": "runner-h",
+    "description": "Runner H",
+    "url": "https://www.hcompany.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 79,
+    "name": "write-me-a-prayer-ai-prayer-generator",
+    "description": "Write Me A Prayer - An AI Powered Prayer Generator",
+    "url": "https://writemeaprayer.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 80,
+    "name": "celebmaker-ai",
+    "description": "CelebMakerAI",
+    "url": "https://celebmakerai.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 81,
+    "name": "experience-chatgpt-free-online-with-openai-chatgpt-4o",
+    "description": "Experience ChatGPT Free Online with OpenAI ChatGPT 4o",
+    "url": "https://aichatonline.org",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 82,
+    "name": "shoonya-ai",
+    "description": "Shoonya",
+    "url": "https://www.shoonya.computer",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 83,
+    "name": "lara-translate",
+    "description": "Lara Translate",
+    "url": "https://laratranslate.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 84,
+    "name": "16x-prompt",
+    "description": "16x Prompt",
+    "url": "https://prompt.16x.engineer",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 85,
+    "name": "getidol-ai-story-game-generator",
+    "description": "GetIdol",
+    "url": "https://getidol.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 86,
+    "name": "curious-thing",
+    "description": "Curious Thing",
+    "url": "https://curiousthing.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 87,
+    "name": "photogenius-ai",
+    "description": "PhotoGenius.ai",
+    "url": "https://photogenius.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 88,
+    "name": "wui-ai",
+    "description": "WUI.AI",
+    "url": "https://www.wui.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 89,
+    "name": "teammates-ai",
+    "description": "Teammates.ai",
+    "url": "https://www.teammates.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 90,
+    "name": "canny-autopilot",
+    "description": "Canny",
+    "url": "https://canny.io",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 91,
+    "name": "floatz-ai",
+    "description": "floatz AI",
+    "url": "https://floatz.ai/product",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 92,
+    "name": "nume",
+    "description": "Nume",
+    "url": "https://www.nume.finance/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 93,
+    "name": "freebeat",
+    "description": "freebeat.ai: Turn Your Music into Visual Magic",
+    "url": "https://freebeat.ai/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 94,
+    "name": "kreadoai-video-face-swap",
+    "description": "KreadoAI Video Face Swap",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 95,
+    "name": "kupid-ai",
+    "description": "Kupid AI - Chat with AI Girls",
+    "url": "https://kupid.ai/",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 96,
+    "name": "trickle",
+    "description": "Trickle",
+    "url": "https://www.trickle.so",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 97,
+    "name": "docsloop",
+    "description": "DocsLoop",
+    "url": "https://docsloop.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 98,
+    "name": "brandghost",
+    "description": "BrandGhost",
+    "url": "https://brandghost.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 99,
+    "name": "rivalout",
+    "description": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "url": "https://rivalout.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 100,
+    "name": "soul-machines",
+    "description": "Soul Machines",
+    "url": "https://www.soulmachines.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 101,
+    "name": "mysports-ai",
+    "description": "Mysports AI",
+    "url": "https://mysports.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 102,
+    "name": "documentllm",
+    "description": "DocumentLLM",
+    "url": "https://documentllm.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 103,
+    "name": "vidu-studio-1",
+    "description": "Vidu AI",
+    "url": "https://www.vidu.com/create",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 104,
+    "name": "rubii",
+    "description": "Rubii AI",
+    "url": "https://rubii.ai",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 105,
+    "name": "ai-parabellum",
+    "description": "AI Parabellum",
+    "url": "https://aiparabellum.com",
+    "category": "Other",
+    "tags": [
+      "large-language-models-(llms)"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 106,
+    "name": "crushon-ai",
+    "description": "CrushOn.AI",
+    "url": "https://crushon.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 107,
+    "name": "joyland-ai",
+    "description": "Joyland",
+    "url": "https://joyland.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 108,
+    "name": "pephop",
+    "description": "PepHop AI",
+    "url": "https://pephop.ai/nsfw-character-ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 109,
+    "name": "clothoff",
+    "description": "Clothoff.io",
+    "url": "https://clothoff.net/r/toolifyai1224",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 110,
+    "name": "undresser-ai-undress",
+    "description": "Undresser.AI Undress",
+    "url": "https://undresser.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 111,
+    "name": "dream-companion",
+    "description": "Dream Companion",
+    "url": "https://www.mydreamcompanion.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 112,
+    "name": "promptchan-ai",
+    "description": "Promptchan AI",
+    "url": "https://promptchan.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 113,
+    "name": "redquill-net",
+    "description": "RedQuill",
+    "url": "https://redquill.net",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 114,
+    "name": "craveu-ai",
+    "description": "CraveU AI",
+    "url": "https://craveu.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 115,
+    "name": "eroplay-ai",
+    "description": "EroPlay.ai",
+    "url": "https://eroplay.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 116,
+    "name": "undress-ai",
+    "description": "Nudify.Online",
+    "url": "https://nudify.online/undress-ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 117,
+    "name": "sexy-ai",
+    "description": "SEXY AI",
+    "url": "https://sexy.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 118,
+    "name": "seducedai",
+    "description": "SeducedAI",
+    "url": "https://www.seduced.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 119,
+    "name": "golove",
+    "description": "GoLove",
+    "url": "https://golove.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 120,
+    "name": "wsup-ai-chat-with-ai-characters",
+    "description": "wsup.ai - Chat with AI Characters",
+    "url": "https://wsup.ai/sup-ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 121,
+    "name": "nsfwgirlfriend",
+    "description": "NSFWGirlfriend",
+    "url": "http://www.nsfwgirlfriend.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 122,
+    "name": "undressing-ai",
+    "description": "Undressing AI",
+    "url": "https://undressing.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 123,
+    "name": "rushchatai",
+    "description": "RushChat.AI",
+    "url": "https://rushchat.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 124,
+    "name": "wifeapp",
+    "description": "Wife.app",
+    "url": "https://wife.app",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 125,
+    "name": "ai-hentai-generator",
+    "description": "AI Hentai Generator",
+    "url": "https://aihentaigenerator.net",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 126,
+    "name": "nsfwartgenerator-ai",
+    "description": "nsfwartgenerator ai",
+    "url": "https://nsfwartgenerator.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 127,
+    "name": "fallfor-ai",
+    "description": "Fallfor.ai",
+    "url": "https://fallfor.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 128,
+    "name": "juicy-ai",
+    "description": "Juicy AI",
+    "url": "https://juicy-ai.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 129,
+    "name": "off-robe-ai",
+    "description": "OffRobe",
+    "url": "https://offrobe.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 130,
+    "name": "ai-willy-rater",
+    "description": "AI Willy Rater",
+    "url": "https://www.aiwillyrater.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 131,
+    "name": "girlfriendly-ai",
+    "description": "Girlfriendly AI",
+    "url": "https://girlfriendly.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 132,
+    "name": "crush",
+    "description": "CRUSH",
+    "url": "https://www.crush.to",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 133,
+    "name": "ehentai-chat",
+    "description": "Ehentai Chat",
+    "url": "https://www.ehentai.chat",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 134,
+    "name": "lustgf-ai",
+    "description": "LustGF.AI",
+    "url": "https://www.lustgf.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 135,
+    "name": "couple-me",
+    "description": "Couple Me",
+    "url": "https://www.couple.me",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 136,
+    "name": "alphazria",
+    "description": "Alphazria",
+    "url": "https://alphazria.com/",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 137,
+    "name": "wowow-ai",
+    "description": "WOWOW AI",
+    "url": "https://wowow.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 138,
+    "name": "ifable-ai",
+    "description": "iFable.AI",
+    "url": "https://www.ifable.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 139,
+    "name": "mixart-ai",
+    "description": "mixart.ai",
+    "url": "https://mixart.ai/",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 140,
+    "name": "sextingai",
+    "description": "SextingAI",
+    "url": "https://sextingai.co",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 141,
+    "name": "nsfw-character-ai",
+    "description": "Character AI NSFW No Filter",
+    "url": "https://nsfwcharacterai.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 142,
+    "name": "erota",
+    "description": "Erota AI-written erotic stories",
+    "url": "https://erota.app",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 143,
+    "name": "joi",
+    "description": "Joi - AI Girlfriend, with benefits",
+    "url": "https://joiaigirlfriend.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 144,
+    "name": "nude-ai",
+    "description": "Nude AI",
+    "url": "https://nude-ai.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 145,
+    "name": "feelme-com",
+    "description": "FeelMe AI",
+    "url": "https://feelme.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 146,
+    "name": "nsfwbots",
+    "description": "NSFWBots - AI Sex Chatbot List",
+    "url": "https://www.nsfwbots.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 147,
+    "name": "dreamly",
+    "description": "Dreamly",
+    "url": "https://www.dream.ly/",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 148,
+    "name": "nsfw-ai-chat",
+    "description": "NSFW AI Chat",
+    "url": "https://nsfw-ai-chat.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 149,
+    "name": "undressly-ai",
+    "description": "Undressly AI",
+    "url": "https://www.undressly.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 150,
+    "name": "undress-ai-pro",
+    "description": "Undress AI Pro",
+    "url": "https://undress.show",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 151,
+    "name": "hotgens",
+    "description": "Hotgens.com",
+    "url": "https://hotgens.app/r/toolifyai1224",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 152,
+    "name": "texthub-me",
+    "description": "Texthub",
+    "url": "https://texthub.me",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 153,
+    "name": "heyhoney-ai",
+    "description": "HeyHoney.ai",
+    "url": "https://heyhoney.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 154,
+    "name": "roleplay-hub-ai-free-nsfw-girlfriend-chat",
+    "description": "Roleplay Hub AI- Free NSFW Girlfriend Chat",
+    "url": "https://www.roleplayhub.app",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 155,
+    "name": "swapfaceai",
+    "description": "SwapFaceAI",
+    "url": "https://swapfaceai.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 156,
+    "name": "lustlab-ai",
+    "description": "LustLab",
+    "url": "https://www.lustlab.ca",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 157,
+    "name": "vmate-ai-roleplay-chatbot",
+    "description": "VMate.AI",
+    "url": "https://vmate.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 158,
+    "name": "tickles-ai-chatbot",
+    "description": "Tickles.ai - Your AI JOI Companion",
+    "url": "https://tickles.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 159,
+    "name": "smexy-ai",
+    "description": "Smexy AI",
+    "url": "https://www.smexy.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 160,
+    "name": "lustgf-ai-girlfriend",
+    "description": "LustGF",
+    "url": "https://lustgf.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 161,
+    "name": "nsfw-976",
+    "description": "976.ai",
+    "url": "http://www.976.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 162,
+    "name": "talkdirtyai-com",
+    "description": "TalkDirtyAI",
+    "url": "https://talkdirtyai.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 163,
+    "name": "honeychat-ai",
+    "description": "honeychat.ai",
+    "url": "https://honeychat.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 164,
+    "name": "erotix",
+    "description": "ErotiX",
+    "url": "https://erotix.chat",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 165,
+    "name": "polybuzz-ai",
+    "description": "Polybuzz AI",
+    "url": "https://polybuzz-ai.org",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 166,
+    "name": "janitoraichat-com",
+    "description": "Janitor AI Pro",
+    "url": "https://janitoraichat.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 167,
+    "name": "outpeach",
+    "description": "Outpeach",
+    "url": "https://outpeach.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 168,
+    "name": "sextingme",
+    "description": "Sextingme",
+    "url": "https://www.sextingme.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 169,
+    "name": "tools-for-onlyfans-creators",
+    "description": "Whisper",
+    "url": "https://whisper.fans",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 170,
+    "name": "onley-ai",
+    "description": "Onley",
+    "url": "https://www.onley.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 171,
+    "name": "xmate-ai",
+    "description": "xmate.ai",
+    "url": "https://www.xmate.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 172,
+    "name": "kazimir-ai",
+    "description": "Kazimir.ai",
+    "url": "https://kazimir.ai",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 173,
+    "name": "matelink",
+    "description": "MateLink",
+    "url": "https://www.matelink.com/#",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 174,
+    "name": "desireforge",
+    "description": "DesireForge",
+    "url": "https://nsfwai.fun",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 175,
+    "name": "privee-fun",
+    "description": "Privee - AI NSFW chats",
+    "url": "https://privee.fun",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 176,
+    "name": "apolo-protector",
+    "description": "Apolo Protector",
+    "url": "https://apoloprotector.space",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 177,
+    "name": "nsfw-scanner-image-moderation-api",
+    "description": "NSFW Image Detection API",
+    "url": "https://nsfwscanner.com",
+    "category": "Other",
+    "tags": [
+      "nsfw"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 178,
+    "name": "into-the-block",
+    "description": "IntoTheBlock",
+    "url": "https://www.intotheblock.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 179,
+    "name": "ai-search-engine-of-pathofexile-2-poe2db",
+    "description": "AI Search Engine of Pathofexile 2 -poe2db",
+    "url": "https://poe2db.org",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 180,
+    "name": "sigma-ai-browser",
+    "description": "Sigma AI Browser",
+    "url": "https://sigmabrowser.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 181,
+    "name": "alethea",
+    "description": "Alethea",
+    "url": "https://alethea.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 182,
+    "name": "spice-ai",
+    "description": "Spice.ai",
+    "url": "https://spice.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 183,
+    "name": "ai-seed-phrase-finder-btc-balance-checker-tool-for-windows-pc",
+    "description": "AI Seed Phrase Finder",
+    "url": "https://ai-seedfinder.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 184,
+    "name": "live24",
+    "description": "Live24 Fun",
+    "url": "https://live24.fun",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 185,
+    "name": "anchain-ai",
+    "description": "AnChainAI",
+    "url": "https://anchain.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 186,
+    "name": "likn",
+    "description": "LIKN - Link Your Content to Web3",
+    "url": "https://www.likn.co",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 187,
+    "name": "to-the-moon",
+    "description": "Zesh - AI-driven SocialFi",
+    "url": "https://zesh.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 188,
+    "name": "immediate-fastx",
+    "description": "Immediate FastX",
+    "url": "https://immediatefastxofficial.com/main-in",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 189,
+    "name": "ratio1",
+    "description": "Ratio1",
+    "url": "https://ratio1.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 190,
+    "name": "entendre-finance",
+    "description": "Entendre",
+    "url": "https://entendre.finance",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 191,
+    "name": "heurist-imagine",
+    "description": "Heurist Imagine",
+    "url": "https://imagine.heurist.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 192,
+    "name": "email-5",
+    "description": "Email 5",
+    "url": "https://email5.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 193,
+    "name": "kritisi",
+    "description": "Kritisi - Security Audit Explorer for Solidity",
+    "url": "https://www.kritisi.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 194,
+    "name": "wallchain-beta",
+    "description": "Wallchain",
+    "url": "https://chromewebstore.google.com/detail/wallchain-beta/pmncocnjgifgcpjhcajakdblinimcmjo",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 195,
+    "name": "bytehunter",
+    "description": "Web3 Security Plugin",
+    "url": "https://chromewebstore.google.com/detail/bytehunter/kidhkonioajdkjglffdlojnnlpdbeeol",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 196,
+    "name": "alva",
+    "description": "Alva",
+    "url": "https://chromewebstore.google.com/detail/alva/moeiianjbcjnomgomanjhilnlmfafpbj",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 197,
+    "name": "astra-vision",
+    "description": "AstraAI Vision",
+    "url": "https://chromewebstore.google.com/detail/astra-vision/iibopihdfdknpelkknbflonbnhmehbkh",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 198,
+    "name": "adot-ai-chatgpt-powered-web3-search-engine",
+    "description": "Adot AI",
+    "url": "https://chromewebstore.google.com/detail/adot-ai-chatgpt-powered-w/healmieamaopboblekidbadelopbnfoo",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 199,
+    "name": "tokenguide",
+    "description": "TokenGuide Security",
+    "url": "https://tokenguide.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 200,
+    "name": "inflectiv-ai",
+    "description": "Inflectiv.ai",
+    "url": "https://inflectiv.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 201,
+    "name": "ain-finance",
+    "description": "Ain Finance",
+    "url": "https://ain.finance",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 202,
+    "name": "maester",
+    "description": "Maester",
+    "url": "https://www.maester.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 203,
+    "name": "mements",
+    "description": "mements.xyz",
+    "url": "https://mements.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 204,
+    "name": "sheliapp",
+    "description": "SheliApp",
+    "url": "https://www.sheli.app",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 205,
+    "name": "kapsul",
+    "description": "Kapsul",
+    "url": "https://kapsul.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 206,
+    "name": "securedai",
+    "description": "SecuredAI",
+    "url": "https://securedai.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 207,
+    "name": "crystal-ballin",
+    "description": "Crystal Balling",
+    "url": "https://crystalballin.org",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 208,
+    "name": "navida",
+    "description": "Navida AI",
+    "url": "https://navida.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 209,
+    "name": "dearbook",
+    "description": "DearBook",
+    "url": "https://dearbook.fun",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 210,
+    "name": "codehound",
+    "description": "CyberSanctus",
+    "url": "https://cybersanctus.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 211,
+    "name": "tweetsyncai-ai-twitter-bot",
+    "description": "TweetSync AI",
+    "url": "https://tweetsync-ai.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 212,
+    "name": "age-of-artificial",
+    "description": "AOA",
+    "url": "https://aoarti.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 213,
+    "name": "prism-word-search-game",
+    "description": "Prism",
+    "url": "https://apps.apple.com/us/app/prism-word-search-game/id6739165422",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 214,
+    "name": "tcg",
+    "description": "2025 First AIGG Trading Card Game",
+    "url": "https://tcgame.app",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 215,
+    "name": "opticonomy",
+    "description": "Opticonomy",
+    "url": "https://opticonomy.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 216,
+    "name": "ircopilot",
+    "description": "IR Copilot",
+    "url": "https://www.ircopilot.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 217,
+    "name": "web3-com",
+    "description": "Web3.com",
+    "url": "https://web3.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 218,
+    "name": "thentic",
+    "description": "Thentic",
+    "url": "https://thentic.tech",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 219,
+    "name": "itoka-museengine",
+    "description": "Itoka",
+    "url": "https://www.itoka.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 220,
+    "name": "typography-ai-v2-0",
+    "description": "TypoGraphy AI",
+    "url": "https://app.typography.vip",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 221,
+    "name": "bites",
+    "description": "Bites",
+    "url": "https://bitesapp.co",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 222,
+    "name": "paragraph",
+    "description": "Paragraph",
+    "url": "https://paragraph.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 223,
+    "name": "swaap-v2",
+    "description": "Swaap v2",
+    "url": "https://www.swaap.finance",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 224,
+    "name": "octavia-ai",
+    "description": "Octavia - Your crypto AI Assistant",
+    "url": "https://octavia.one",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 225,
+    "name": "eosi-finance",
+    "description": "Eosi Finance",
+    "url": "https://eosifinance.org",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 226,
+    "name": "beepo",
+    "description": "Beepo App",
+    "url": "https://beepoapp.net",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 227,
+    "name": "utopic-ai",
+    "description": "Utopic.ai",
+    "url": "https://utopic.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 228,
+    "name": "bubbleai",
+    "description": "BubbleAI",
+    "url": "https://www.bubbleai.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 229,
+    "name": "credit-chip",
+    "description": "Mobile Credits",
+    "url": "https://mobilecredits.app",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 230,
+    "name": "hiveblockchain-com",
+    "description": "HIVE Digital Technologies Ltd",
+    "url": "https://hiveblockchain.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 231,
+    "name": "smarttrust-io",
+    "description": "ChainAware.ai",
+    "url": "https://smarttrust.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 232,
+    "name": "yotto",
+    "description": "Yotto Web3",
+    "url": "https://getyotto.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 233,
+    "name": "deepeyes-analytics",
+    "description": "DeepEyes - Web3 Data Analytics",
+    "url": "https://deepeyes.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 234,
+    "name": "blockfence",
+    "description": "Blockfence Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 235,
+    "name": "xdata",
+    "description": "xData",
+    "url": "https://chromewebstore.google.com/detail/xdata/ajgmddbjkeopdfodegmglhgjbdoafnmm",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 236,
+    "name": "weinvest",
+    "description": "WeInvest",
+    "url": "https://weinvest.money",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 237,
+    "name": "opennft",
+    "description": "Open NFT",
+    "url": "https://www.open-nft.tech",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 238,
+    "name": "echooo-wallet",
+    "description": "Echooo",
+    "url": "https://chromewebstore.google.com/detail/echooo-wallet/lcmncloheoekhbmljjlhdlaobkedjbgd",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 239,
+    "name": "tearline",
+    "description": "Tearline",
+    "url": "https://www.tearline.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 240,
+    "name": "quickintel-io",
+    "description": "Quick Intel",
+    "url": "https://quickintel.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 241,
+    "name": "sketchar-io",
+    "description": "Sketchar™",
+    "url": "https://sketchar.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 242,
+    "name": "korus",
+    "description": "Korus",
+    "url": "https://korus.co",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 243,
+    "name": "broearn",
+    "description": "Broearn Browser",
+    "url": "https://www.broearn.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 244,
+    "name": "ethercto",
+    "description": "EtherCTO",
+    "url": "https://ethercto.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 245,
+    "name": "sorted-wallet",
+    "description": "Sorted Wallet",
+    "url": "https://www.sortedwallet.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 246,
+    "name": "typography-ai",
+    "description": "TypoGraphy AI",
+    "url": "https://typography.vip",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 247,
+    "name": "isitsafe-io",
+    "description": "isitsafe.io",
+    "url": "https://isitsafe.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 248,
+    "name": "definity-legend-a-i-game-builder",
+    "description": "DefinityLegend",
+    "url": "https://www.definitylegend.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 249,
+    "name": "tensorscan-ai",
+    "description": "TensorScan",
+    "url": "https://chromewebstore.google.com/detail/tensorscan-ai/epddphbihamnmmficgdpkimbfbhahdfk",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 250,
+    "name": "aie-labs",
+    "description": "AIE Labs",
+    "url": "https://aielabs.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 251,
+    "name": "bitlauncher",
+    "description": "Bitlauncher",
+    "url": "https://bitlauncher.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 252,
+    "name": "easysushii",
+    "description": "EasySushi",
+    "url": "https://easysushii.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 253,
+    "name": "step1",
+    "description": "STEP 1",
+    "url": "https://chromewebstore.google.com/detail/step1/aghjfakpkmlhmppddoingmepnlignjgd",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 254,
+    "name": "rosywhale",
+    "description": "RosyWhale",
+    "url": "https://www.rosywhale.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 255,
+    "name": "autobtc-ai",
+    "description": "AutoBTC",
+    "url": "https://autobtc.ai",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 256,
+    "name": "coinfeeds",
+    "description": "Coinfeeds",
+    "url": "https://www.coinfeeds.io",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 257,
+    "name": "blink-blockchain-link-for-ai",
+    "description": "BlinkAI",
+    "url": "https://www.blinkai.xyz",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 258,
+    "name": "metasuites-builders-swiss-army-knife",
+    "description": "AI Toolbox Extension",
+    "url": "https://chromewebstore.google.com/detail/metasuites-builders-swiss/fkhgpeojcbhimodmppkbbliepkpcgcoo",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 259,
+    "name": "trend-guards",
+    "description": "Trendguards.com",
+    "url": "https://www.trendguards.com",
+    "category": "Other",
+    "tags": [
+      "web3"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 260,
+    "name": "civitai",
+    "description": "Civitai",
+    "url": "https://civitai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 261,
+    "name": "copyleaks",
+    "description": "Copyleaks",
+    "url": "https://copyleaks.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 262,
+    "name": "vondy-com",
+    "description": "Vondy: Next Generation AI Apps",
+    "url": "https://vondy.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 263,
+    "name": "easywithai-com",
+    "description": "Easy With AI - Best AI Tools & Services",
+    "url": "https://easywithai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 264,
+    "name": "prompthero",
+    "description": "PromptHero",
+    "url": "https://prompthero.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 265,
+    "name": "fakeyou",
+    "description": "FakeYou - Deep Fake Text to Speech",
+    "url": "https://fakeyou.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 266,
+    "name": "aifreebox-free-ai-tools",
+    "description": "AIFreeBox",
+    "url": "https://aifreebox.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 267,
+    "name": "jina-ai",
+    "description": "Jina AI",
+    "url": "https://jina.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 268,
+    "name": "ai-for-work",
+    "description": "AIforWork.co",
+    "url": "https://www.aiforwork.co",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 269,
+    "name": "wirestock-io",
+    "description": "Wirestock",
+    "url": "https://wirestock.io",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 270,
+    "name": "askingtips",
+    "description": "AskingTips",
+    "url": "https://askingtips.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 271,
+    "name": "ai-detector-by-contentdetector-ai",
+    "description": "ContentDetector.AI",
+    "url": "https://contentdetector.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 272,
+    "name": "bgrem-ai",
+    "description": "BgRem",
+    "url": "https://bgrem.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 273,
+    "name": "passport-photo-template",
+    "description": "AiPassportPhotos",
+    "url": "https://www.aipassportphotos.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 274,
+    "name": "ajelix-ai-excel-tools",
+    "description": "AI Excel Tools & Google Sheets - AI Excel Formula Generator - Bot",
+    "url": "https://ajelix.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 275,
+    "name": "mango-ai",
+    "description": "Mango AI",
+    "url": "https://mangoai.co",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 276,
+    "name": "yesicon",
+    "description": "Yesicon",
+    "url": "https://yesicon.app",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 277,
+    "name": "pollinations",
+    "description": "Pollinations.AI",
+    "url": "https://pollinations.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 278,
+    "name": "anyscale-com",
+    "description": "Anyscale | Scalable Compute for AI and Python",
+    "url": "https://anyscale.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 279,
+    "name": "aijourney",
+    "description": "AIJOURNEY",
+    "url": "https://aijourney.so",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 280,
+    "name": "stablediffusion-api",
+    "description": "Stable Diffusion & Dreambooth API",
+    "url": "https://stablediffusionapi.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 281,
+    "name": "readable-jp",
+    "description": "Readable",
+    "url": "https://readable.jp",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 282,
+    "name": "username-generator",
+    "description": "UsernameGenerator.IO",
+    "url": "https://usernamegenerator.io",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 283,
+    "name": "snack-prompt",
+    "description": "Snack Prompt",
+    "url": "https://www.snackprompt.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 284,
+    "name": "aitoolgo",
+    "description": "AIToolGo",
+    "url": "https://www.aitoolgo.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 285,
+    "name": "chatbot-ui",
+    "description": "Chatbot UI",
+    "url": "https://chatbotui.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 286,
+    "name": "theee-ai-access-over-50-000-gpts-tools-powered-by-gpt4o-for-free",
+    "description": "Theee.ai: Access Over 50,000 GPTs Tools Powered by GPT4o for Free",
+    "url": "https://theee.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 287,
+    "name": "huntr-com",
+    "description": "huntr",
+    "url": "https://huntr.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 288,
+    "name": "mavtools",
+    "description": "MavTools",
+    "url": "https://mavtools.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 289,
+    "name": "writify-ai",
+    "description": "Writify.AI",
+    "url": "https://writify.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 290,
+    "name": "wnr-ai",
+    "description": "WNR.AI",
+    "url": "https://wnr.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 291,
+    "name": "tooldirectory-ai",
+    "description": "AI Tool Directory",
+    "url": "https://tooldirectory.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 292,
+    "name": "hitpaw-ai-image-generator",
+    "description": "HitPaw AI Art Generator",
+    "url": "https://www.hitpaw.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 293,
+    "name": "all-gpts",
+    "description": "All GPTs Directory",
+    "url": "https://allgpts.co",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 294,
+    "name": "oksuro",
+    "description": "Oksuro",
+    "url": "https://oksuro.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 295,
+    "name": "synthsearcher-ai",
+    "description": "SynthMind.app",
+    "url": "https://synthmind.app",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 296,
+    "name": "ai-ls",
+    "description": "AI.LS",
+    "url": "https://ai.ls",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 297,
+    "name": "js2ts",
+    "description": "JS2TS",
+    "url": "https://js2ts.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 298,
+    "name": "flawless-ai",
+    "description": "Flawless - Gen-AI Filmmaking",
+    "url": "https://www.flawlessai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 299,
+    "name": "claude-2-ai",
+    "description": "claudeai.ai",
+    "url": "https://finechat.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 300,
+    "name": "steno",
+    "description": "Steno AI",
+    "url": "https://steno.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 301,
+    "name": "regex-ai",
+    "description": "Regex.ai",
+    "url": "https://regex.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 302,
+    "name": "imi-prompt",
+    "description": "IMI Prompt Builder",
+    "url": "https://imiprompt.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 303,
+    "name": "api2d-com",
+    "description": "API2D",
+    "url": "https://www.api2d.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 304,
+    "name": "keywordsearch-com",
+    "description": "KeywordSearch",
+    "url": "https://keywordsearch.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 305,
+    "name": "ai-flow",
+    "description": "AI-Flow",
+    "url": "https://ai-flow.net",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 306,
+    "name": "opencat",
+    "description": "OpenCat - Native iOS/macOS/iPadOS client for OpenAI/ChatGPT",
+    "url": "https://opencat.app",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 307,
+    "name": "aibucket",
+    "description": "AI Bucket",
+    "url": "https://www.aibucket.io",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 308,
+    "name": "funfun",
+    "description": "funfun.tools",
+    "url": "https://www.funfun.tools",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 309,
+    "name": "ai-keeda",
+    "description": "AiKeeda.com",
+    "url": "https://www.aikeeda.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 310,
+    "name": "nextool",
+    "description": "NEXTOOL",
+    "url": "https://www.nextool.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 311,
+    "name": "drop-your-ai",
+    "description": "DropYourAI",
+    "url": "https://www.dropyourai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 312,
+    "name": "listmyai",
+    "description": "Listmyai",
+    "url": "https://listmyai.net",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 313,
+    "name": "alle-ai",
+    "description": "Alle-AI",
+    "url": "https://alle-ai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 314,
+    "name": "bonobo-ai",
+    "description": "Bonobo AI",
+    "url": "https://bonoboai.io",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 315,
+    "name": "gptsdex",
+    "description": "GPTsdex",
+    "url": "https://gptsdex.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 316,
+    "name": "whatdoesthiscodedo-com",
+    "description": "Code Explain",
+    "url": "https://whatdoesthiscodedo.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 317,
+    "name": "lastmile-ai",
+    "description": "LastMile AI",
+    "url": "https://lastmileai.dev",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 318,
+    "name": "naaia",
+    "description": "Naaia",
+    "url": "https://naaia.ai/homepage",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 319,
+    "name": "enterpix",
+    "description": "Enterpix",
+    "url": "https://enterpix.app",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 320,
+    "name": "easy-save-ai",
+    "description": "Easy Save AI",
+    "url": "https://easysaveai.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 321,
+    "name": "iacomunia",
+    "description": "IAComunia",
+    "url": "https://iacomunia.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 322,
+    "name": "ai-world-today",
+    "description": "AI World Today",
+    "url": "https://www.aiworldtoday.net",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 323,
+    "name": "interior-render-ai",
+    "description": "Interior Render AI",
+    "url": "https://interior-render.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 324,
+    "name": "trend-ai-tools",
+    "description": "Trend AI Tools",
+    "url": "https://trendaitools.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 325,
+    "name": "gpts-works",
+    "description": "GPTs Works",
+    "url": "https://gpts.works",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 326,
+    "name": "playgroundai",
+    "description": "PlaygroundAI",
+    "url": "https://playgroundai.net",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 327,
+    "name": "freshly-ai",
+    "description": "Freshly.ai",
+    "url": "https://freshly.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 328,
+    "name": "promptai-tools",
+    "description": "PromptAI Tools",
+    "url": "https://promptaitools.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 329,
+    "name": "academicid",
+    "description": "AcademicID",
+    "url": "https://academicID.net",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "meteron-ai",
+    "description": "Meteron AI",
+    "url": "https://meteron.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 331,
+    "name": "infrabase-ai",
+    "description": "Infrabase.ai",
+    "url": "https://infrabase.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 332,
+    "name": "paird-ai",
+    "description": "Paird.ai",
+    "url": "https://paird.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 333,
+    "name": "atlancer-ai",
+    "description": "Atlancer.ai",
+    "url": "https://atlancer.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 334,
+    "name": "ai-vyx",
+    "description": "AI VYX",
+    "url": "https://aivyx.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 335,
+    "name": "lobe",
+    "description": "Lobe",
+    "url": "https://www.lobe.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 336,
+    "name": "chatterbox",
+    "description": "ChatterBox",
+    "url": "https://thechatterbox.app",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 337,
+    "name": "submitpro",
+    "description": "SubmitPro",
+    "url": "https://www.submitpro.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 338,
+    "name": "codefy-ai",
+    "description": "codefy.ai",
+    "url": "https://codefy.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 339,
+    "name": "tech-web-planet",
+    "description": "Techweb Planet",
+    "url": "https://techwebplanet.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 340,
+    "name": "itirupati",
+    "description": "itirupati",
+    "url": "https://itirupati.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 341,
+    "name": "ai-top-hub",
+    "description": "AI TOP HUB",
+    "url": "https://aitophub.com",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 342,
+    "name": "nexbot",
+    "description": "NEXBot",
+    "url": "https://nexbot.io",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 343,
+    "name": "infobox-ai",
+    "description": "infoboxAI",
+    "url": "https://infobox.ai",
+    "category": "Other",
+    "tags": [
+      "ai-tools-directory"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 344,
+    "name": "robly-com",
+    "description": "Robly Email Marketing",
+    "url": "https://robly.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 345,
+    "name": "jellypod",
+    "description": "Jellypod",
+    "url": "https://jellypod.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 346,
+    "name": "why-try-ai",
+    "description": "Why Try AI",
+    "url": "https://www.whytryai.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 347,
+    "name": "syft-ai-best-news-assistant-ai-tool",
+    "description": "Syft AI: Best News Assistant AI Tool",
+    "url": "https://justsyft.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 348,
+    "name": "letterpal",
+    "description": "letterpal",
+    "url": "https://letterpal.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 349,
+    "name": "crono",
+    "description": "Crono",
+    "url": "https://www.crono.one",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 350,
+    "name": "digestly",
+    "description": "Digestly",
+    "url": "https://www.digestly.me/onboarding/contentfirst",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 351,
+    "name": "ai-art-weekly",
+    "description": "AI Art Weekly",
+    "url": "https://aiartweekly.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 352,
+    "name": "aeon-ai-assisted-video-production",
+    "description": "Aeon",
+    "url": "https://project-aeon.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 353,
+    "name": "newsbang",
+    "description": "NewsBang",
+    "url": "https://www.newsbang.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 354,
+    "name": "alfa-ai",
+    "description": "Alfa",
+    "url": "https://welovealfa.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 355,
+    "name": "prospero-ai",
+    "description": "Prospero.ai",
+    "url": "https://www.prospero.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 356,
+    "name": "revamped-io",
+    "description": "Revamped",
+    "url": "https://revamped.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 357,
+    "name": "frizerly",
+    "description": "Frizerly",
+    "url": "https://frizerly.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 358,
+    "name": "podsift",
+    "description": "Podsift",
+    "url": "https://podsift.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 359,
+    "name": "my-framework",
+    "description": "My Framework",
+    "url": "https://www.myframework.net",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 360,
+    "name": "email-subject-line-generator",
+    "description": "Subject Line Generator",
+    "url": "https://subjectlinegenerator.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 361,
+    "name": "inside-ai",
+    "description": "Inside AI",
+    "url": "https://insideai.co",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 362,
+    "name": "cloverai",
+    "description": "CloverAI",
+    "url": "https://www.cloverai.in",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 363,
+    "name": "influencerb2b",
+    "description": "B2B Influencer Marketing Directory",
+    "url": "https://influencerb2b.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 364,
+    "name": "tailortask",
+    "description": "TailorTask",
+    "url": "https://www.tailortask.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 365,
+    "name": "mailmonkey-ai",
+    "description": "MailMonkey.ai",
+    "url": "https://www.mailmonkey.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 366,
+    "name": "govret-fers-annuity-calculator",
+    "description": "GovRet",
+    "url": "https://www.govret.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 367,
+    "name": "orbt",
+    "description": "Orbt - The Smart Trip Planner",
+    "url": "https://orbtapp.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 368,
+    "name": "flashfeed",
+    "description": "FlashFeed",
+    "url": "https://www.flashfeed.news",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 369,
+    "name": "auto-mailer",
+    "description": "Auto Mailer",
+    "url": "https://automailer.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 370,
+    "name": "ai5",
+    "description": "Ai5",
+    "url": "https://ai5.rareconnections.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 371,
+    "name": "summaletter-ai-newsletter-summarizer",
+    "description": "Summaletter",
+    "url": "https://summaletter.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 372,
+    "name": "correctify",
+    "description": "Correctify",
+    "url": "https://correctify.com.cy",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 373,
+    "name": "buckets",
+    "description": "Buckets",
+    "url": "https://www.use-buckets.app",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 374,
+    "name": "machine-learning-at-scale",
+    "description": "Machine learning at scale",
+    "url": "https://machinelearningatscale.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 375,
+    "name": "sixtyfour-platform",
+    "description": "Sixtyfour Platform",
+    "url": "https://64.rw",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 376,
+    "name": "curie",
+    "description": "Curie",
+    "url": "https://trycurie.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 377,
+    "name": "pidgeon",
+    "description": "Pidgeon",
+    "url": "https://pidgeon.news",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 378,
+    "name": "inbox-narrator",
+    "description": "Inbox Narrator",
+    "url": "https://inboxnarrator.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 379,
+    "name": "omnis",
+    "description": "Omnis",
+    "url": "https://www.tryomnis.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 380,
+    "name": "ai-curious",
+    "description": "AI Curious",
+    "url": "https://www.aicurious.co",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 381,
+    "name": "summraiz-condensed-newsletters",
+    "description": "SummrAIz",
+    "url": "https://summraiz.fyi",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 382,
+    "name": "humans-of-generative-art",
+    "description": "Humans of Generative Art",
+    "url": "https://www.hoga.love",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 383,
+    "name": "firekit-icp-builder",
+    "description": "https://firekit.io",
+    "url": "https://www.firekit.co",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 384,
+    "name": "narrativ",
+    "description": "Narrativ",
+    "url": "https://apps.apple.com/us/app/narrativ-ai/id6450302693",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 385,
+    "name": "botdocs",
+    "description": "Botdocs",
+    "url": "https://www.botdocs.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 386,
+    "name": "newsletter-pilot",
+    "description": "Newsletter Pilot",
+    "url": "https://newsletterpilot.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 387,
+    "name": "crypto-youtuber-ai-predictions",
+    "description": "Lars Solaris Bitcoin predictions",
+    "url": "https://www.larssolaris.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 388,
+    "name": "bigbraindaily-com",
+    "description": "Big Brain",
+    "url": "https://www.bigbraindaily.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 389,
+    "name": "podmob",
+    "description": "Podmob",
+    "url": "https://www.podmob.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 390,
+    "name": "dailyletter-news-tailored-for-you",
+    "description": "DailyLetter",
+    "url": "https://dailyletter.news",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 391,
+    "name": "jocondeai",
+    "description": "JocondeAI",
+    "url": "https://jocondeai.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 392,
+    "name": "promo-ai",
+    "description": "Promo.ai",
+    "url": "https://promo.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 393,
+    "name": "contentquiver",
+    "description": "ContentQuiver",
+    "url": "https://contentquiver.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 394,
+    "name": "tradepost-ai",
+    "description": "Tradepost.ai",
+    "url": "https://tradepost.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 395,
+    "name": "ai-art-and-animation",
+    "description": "GenAI Art and Animation",
+    "url": "https://AiArtandAnimation.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 396,
+    "name": "sistemexpert-com",
+    "description": "Sistem Expert",
+    "url": "https://sistemexpert.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 397,
+    "name": "stockquakes",
+    "description": "StockQuakes",
+    "url": "https://stockquakes.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 398,
+    "name": "lateron-email",
+    "description": "LaterOn",
+    "url": "https://lateron.email",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 399,
+    "name": "btcaura",
+    "description": "BTCAura",
+    "url": "https://btcaura.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 400,
+    "name": "mosaik",
+    "description": "Mosaik News",
+    "url": "https://mosaik.news",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 401,
+    "name": "redense-clip",
+    "description": "Redense AI",
+    "url": "https://chromewebstore.google.com/detail/redense-clip/ddiiojhbcemahbljmfanffooohcdkadg",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 402,
+    "name": "aicrunch-io-everything-ai-marketplace",
+    "description": "aicrunch.io",
+    "url": "https://aicrunch.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 403,
+    "name": "crane",
+    "description": "Crane",
+    "url": "https://chromewebstore.google.com/detail/crane/jcpdiieajepeecbpcfkheoffpegffdke",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 404,
+    "name": "eznewsletterscan",
+    "description": "EzNewsletterScan",
+    "url": "https://eznewsletterscan.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 405,
+    "name": "rda-ai",
+    "description": "Random Daily Art AI",
+    "url": "https://randomdailyart.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 406,
+    "name": "my-hacker-news",
+    "description": "My Hacker News",
+    "url": "http://www.myhackernews.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 407,
+    "name": "jobsremote",
+    "description": "JobsRemote.ai",
+    "url": "https://www.jobsremote.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 408,
+    "name": "lettercast",
+    "description": "Lettercast",
+    "url": "https://lettercast.app",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 409,
+    "name": "smartrecaps",
+    "description": "SmartRecaps",
+    "url": "https://smartrecaps.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 410,
+    "name": "makeemail",
+    "description": "Makeemail",
+    "url": "https://makeemail.app",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 411,
+    "name": "selfletter",
+    "description": "Selfletter",
+    "url": "https://www.selfletter.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 412,
+    "name": "prodhiiv",
+    "description": "Prodhiiv",
+    "url": "https://prodhiiv.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 413,
+    "name": "opnbook",
+    "description": "Opnbook",
+    "url": "https://www.opnbook.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 414,
+    "name": "2vid",
+    "description": "2Vid",
+    "url": "https://www.2vid.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 415,
+    "name": "contentmaps-ai",
+    "description": "Contentmaps AI",
+    "url": "https://contentmaps.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 416,
+    "name": "sarra-ai",
+    "description": "Sarra AI",
+    "url": "https://sarra.in",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 417,
+    "name": "curlent",
+    "description": "Curlent",
+    "url": "https://curlent.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 418,
+    "name": "newsletter2podcast-com",
+    "description": "Newsletter2Podcast",
+    "url": "https://newsletter2podcast.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 419,
+    "name": "brekky-ai",
+    "description": "Brekky",
+    "url": "https://brekky.in",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 420,
+    "name": "open-apps",
+    "description": "Open Source App Directory",
+    "url": "https://openapps.pro",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 421,
+    "name": "quickstart",
+    "description": "QuickStart",
+    "url": "https://www.quickstartjs.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 422,
+    "name": "pocketnews",
+    "description": "PocketNews.ai",
+    "url": "https://pocket-news.fr",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 423,
+    "name": "shorty-studio",
+    "description": "Shorty Studio",
+    "url": "https://shortystudio.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 424,
+    "name": "makr-io-15-web-apps-in-30-days",
+    "description": "Makr.io",
+    "url": "https://makr.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 425,
+    "name": "inboxhiiv",
+    "description": "inboxhiiv",
+    "url": "https://inboxhiiv.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 426,
+    "name": "finally-later",
+    "description": "FinallyLater",
+    "url": "https://www.finallylater.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 427,
+    "name": "summtube",
+    "description": "SummTube",
+    "url": "https://summtube.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 428,
+    "name": "quantle",
+    "description": "Quantle - Visual Backtesting",
+    "url": "https://quantle.net",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 429,
+    "name": "orgafile",
+    "description": "OrgaFile",
+    "url": "https://orgafile.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 430,
+    "name": "alova-ai-news-updates-tips",
+    "description": "Alova",
+    "url": "https://apps.apple.com/in/app/alova-ai-news-updates-tips/id6575347612",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 431,
+    "name": "sincero",
+    "description": "Sincero",
+    "url": "https://sincero.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 432,
+    "name": "startupidea-ai",
+    "description": "STARTUPIDEA.AI",
+    "url": "https://startupidea.ai",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 433,
+    "name": "maxify",
+    "description": "Maxify",
+    "url": "https://www.getmaxify.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 434,
+    "name": "democrasee-io",
+    "description": "Democrasee.io",
+    "url": "https://democrasee.io",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 435,
+    "name": "journey-supersystem",
+    "description": "THINK4X",
+    "url": "https://think4x.com",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 436,
+    "name": "lawyer-for-startups-solopreneurs-devops",
+    "description": "Legal99",
+    "url": "https://99legal.xyz",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 437,
+    "name": "chatgpt-consolidator",
+    "description": "ChatGPT Consolidator",
+    "url": "https://chromewebstore.google.com/detail/chatgpt-consolidator/iiceiegkpphpmbodonndapmgcefekojc",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 438,
+    "name": "wisein",
+    "description": "WiseIn",
+    "url": "https://www.wisein.in",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 439,
+    "name": "incredemail-ai",
+    "description": "IncredEmail AI",
+    "url": "https://incred.email",
+    "category": "Other",
+    "tags": [
+      "newsletter"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 440,
+    "name": "hugging-face",
+    "description": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 441,
+    "name": "blahget",
+    "description": "Blahget",
+    "url": "https://itunes.apple.com/app/id6473291180",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 442,
+    "name": "genspark",
+    "description": "Sparkpages AI",
+    "url": "https://www.genspark.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 443,
+    "name": "napkin",
+    "description": "Napkin AI",
+    "url": "https://www.napkin.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 444,
+    "name": "venice-ai",
+    "description": "Venice.ai",
+    "url": "https://venice.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 445,
+    "name": "dewatermark-ai",
+    "description": "Dewatermark.ai",
+    "url": "https://dewatermark.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 446,
+    "name": "cherry-studio",
+    "description": "Cherry Studio AI",
+    "url": "https://cherry-ai.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 447,
+    "name": "jobright-ai",
+    "description": "Jobright: Your AI Job Search Copilot",
+    "url": "https://jobright.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 448,
+    "name": "topmediai",
+    "description": "TopMediai",
+    "url": "https://www.topmediai.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 449,
+    "name": "magic-hour",
+    "description": "Magic Hour",
+    "url": "https://magichour.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 450,
+    "name": "streaks66",
+    "description": "Streaks 66 - Habit Tracker AI",
+    "url": "https://apple.co/3R1OYdR",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 451,
+    "name": "free-online-downloader",
+    "description": "AISaver",
+    "url": "https://aisaver.io",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 452,
+    "name": "rodin",
+    "description": "Rodin",
+    "url": "https://hyper3d.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 453,
+    "name": "ttsmp3-com",
+    "description": "ttsMP3.com",
+    "url": "https://ttsmp3.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 454,
+    "name": "vast-ai",
+    "description": "Vast.ai",
+    "url": "https://vast.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 455,
+    "name": "ai-con-lawyer",
+    "description": "GVA NDAチェック",
+    "url": "https://ai-con.lawyer",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 456,
+    "name": "craft-do",
+    "description": "Craft",
+    "url": "https://craft.do",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 457,
+    "name": "vocareum-com",
+    "description": "Vocareum",
+    "url": "https://vocareum.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 458,
+    "name": "ninja-ai",
+    "description": "Ninja AI",
+    "url": "https://myninja.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 459,
+    "name": "alfapte",
+    "description": "AlfaPTE",
+    "url": "https://alfapte.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 460,
+    "name": "dovetail",
+    "description": "Dovetail",
+    "url": "https://dovetail.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 461,
+    "name": "netradyne-com",
+    "description": "Driver•i AI Fleet Camera System",
+    "url": "https://netradyne.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 462,
+    "name": "cursor-directory",
+    "description": "Cursor Directory - Cursor Rules & MCP Servers",
+    "url": "https://cursor.directory",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 463,
+    "name": "google-illuminate",
+    "description": "Illuminate",
+    "url": "https://illuminate.google.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 464,
+    "name": "concerty-setlist-prediction",
+    "description": "Concerty",
+    "url": "https://concerty.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 465,
+    "name": "dealdrop",
+    "description": "DealDrop",
+    "url": "https://www.dealdrop.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 466,
+    "name": "luma-ai-video-generator-by-dream-machine",
+    "description": "Luma AI's Dream Machine",
+    "url": "https://lunaai.video",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 467,
+    "name": "anki-decks-com",
+    "description": "Anki Decks",
+    "url": "https://anki-decks.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 468,
+    "name": "live-portrait-ai",
+    "description": "Live Portrait AI",
+    "url": "https://liveportrait.org",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 469,
+    "name": "webbfontaine-com",
+    "description": "Webb Fontaine",
+    "url": "https://webbfontaine.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 470,
+    "name": "tarotap",
+    "description": "Tarotap",
+    "url": "https://tarotap.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 471,
+    "name": "devv-ai",
+    "description": "Devv AI Search Engine",
+    "url": "https://devv.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 472,
+    "name": "sonoteller",
+    "description": "SONOTELLER.AI",
+    "url": "https://sonoteller.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 473,
+    "name": "hs-code-search",
+    "description": "HS Code Search",
+    "url": "https://www.xtransfer.com/hscode",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 474,
+    "name": "futureverse-com",
+    "description": "Futureverse",
+    "url": "https://futureverse.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 475,
+    "name": "team-gpt",
+    "description": "Team-GPT",
+    "url": "https://team-gpt.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 476,
+    "name": "ai-otaku-labo",
+    "description": "AI Otaku Labo",
+    "url": "https://ai-otaku-labo.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 477,
+    "name": "datarails-com",
+    "description": "Datarails",
+    "url": "https://datarails.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 478,
+    "name": "testportal-net",
+    "description": "Testportal: Online assessment platform",
+    "url": "https://testportal.net",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 479,
+    "name": "altindex-ai",
+    "description": "AltIndex",
+    "url": "https://altindex.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 480,
+    "name": "lensa-app",
+    "description": "Lensa",
+    "url": "https://lensa.app",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 481,
+    "name": "edit-gpt",
+    "description": "editGPT - Proofread, Edit, and Track Changes in chatGPT",
+    "url": "https://www.editgpt.app",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 482,
+    "name": "confident-ai",
+    "description": "Confident AI",
+    "url": "https://www.confident-ai.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 483,
+    "name": "svgtrace-com",
+    "description": "SvgTrace",
+    "url": "https://svgtrace.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 484,
+    "name": "cyber-square",
+    "description": "Cyber Square",
+    "url": "https://cybersquare.org",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 485,
+    "name": "mappedin-com",
+    "description": "Mappedin",
+    "url": "https://mappedin.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 486,
+    "name": "testrigor-com",
+    "description": "testRigor Software Testing",
+    "url": "https://testrigor.com/",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 487,
+    "name": "outfit-changer-ai-outfit-anyone-ai",
+    "description": "Outfit Changer AI",
+    "url": "https://outfitchanger.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 488,
+    "name": "applio",
+    "description": "Applio",
+    "url": "https://applio.org",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 489,
+    "name": "pubcompare-ai",
+    "description": "PubCompare",
+    "url": "https://pubcompare.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 490,
+    "name": "dang-ai",
+    "description": "Dang.ai",
+    "url": "https://dang.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 491,
+    "name": "behnevis",
+    "description": "Behnevis",
+    "url": "https://behnevis.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 492,
+    "name": "lazy-ai-create-software-the-fun-way",
+    "description": "Lazy AI",
+    "url": "https://getlazy.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 493,
+    "name": "multistox",
+    "description": "MultiStox",
+    "url": "https://multi-stox.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 494,
+    "name": "picsi-ai-powered-by-insightface",
+    "description": "Picsi.Ai",
+    "url": "https://www.picsi.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 495,
+    "name": "ticketbro",
+    "description": "ticketbro",
+    "url": "https://www.ticketbro.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 496,
+    "name": "ai-hug-make-people-hug-with-ai",
+    "description": "AI Hug",
+    "url": "https://aihug.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 497,
+    "name": "vocal-remover-online",
+    "description": "Free Online Vocal Remover",
+    "url": "https://www.vocalremoveroak.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 498,
+    "name": "revocalize-ai",
+    "description": "revocalize.ai",
+    "url": "https://www.revocalize.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 499,
+    "name": "clerk-chat",
+    "description": "Clerk Chat",
+    "url": "https://clerk.chat",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 500,
+    "name": "syft-assist-ai",
+    "description": "Syft Analytics",
+    "url": "https://www.syftanalytics.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 501,
+    "name": "moneymade-io",
+    "description": "MoneyMade",
+    "url": "https://moneymade.io",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 502,
+    "name": "qdrant-io",
+    "description": "Qdrant",
+    "url": "https://qdrant.io",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 503,
+    "name": "monai-io",
+    "description": "MONAI",
+    "url": "https://monai.io",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 504,
+    "name": "rossum-ai",
+    "description": "Rossum AI Document Processing",
+    "url": "https://rossum.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 505,
+    "name": "celebrateally-ai",
+    "description": "CelebrateAlly",
+    "url": "https://www.celebrateally.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 506,
+    "name": "deepnewz",
+    "description": "DeepNewz",
+    "url": "https://deepnewz.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 507,
+    "name": "photoeval",
+    "description": "Photoeval",
+    "url": "https://www.photoeval.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 508,
+    "name": "bayuegua-com",
+    "description": "August Melon Technology",
+    "url": "https://bayuegua.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 509,
+    "name": "trupeer-ai",
+    "description": "Trupeer",
+    "url": "https://www.trupeer.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 510,
+    "name": "nichebay",
+    "description": "NicheBay",
+    "url": "https://www.nichebay.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 511,
+    "name": "storytell-ai",
+    "description": "Storytell.ai",
+    "url": "https://storytell.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 512,
+    "name": "january-ai",
+    "description": "January AI",
+    "url": "https://january.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 513,
+    "name": "erp-ai",
+    "description": "ERP.AI",
+    "url": "https://www.erp.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 514,
+    "name": "marqo",
+    "description": "Marqo",
+    "url": "https://www.marqo.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 515,
+    "name": "stately-ai",
+    "description": "Stately",
+    "url": "https://stately.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 516,
+    "name": "republiclabs-ai",
+    "description": "RepublicLabs.ai",
+    "url": "https://republiclabs.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 517,
+    "name": "datavisor-com",
+    "description": "DataVisor",
+    "url": "https://datavisor.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 518,
+    "name": "tooning",
+    "description": "Tooning",
+    "url": "https://tooning.io",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 519,
+    "name": "pangea-ai",
+    "description": "Pangea.ai",
+    "url": "https://pangea.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 520,
+    "name": "promptengineering-org",
+    "description": "The Prompt Engineering Institute",
+    "url": "https://promptengineering.org",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 521,
+    "name": "itonics",
+    "description": "ITONICS Innovation OS",
+    "url": "https://www.itonics-innovation.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 522,
+    "name": "exam-prep-tool-powered-by-ai",
+    "description": "LearnQ.ai",
+    "url": "https://learnq.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 523,
+    "name": "dnd-name-generator",
+    "description": "DnD Name Generator",
+    "url": "https://dnd-name-generator.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 524,
+    "name": "flux-lora",
+    "description": "Flux LoRA Model Library",
+    "url": "https://flux-lora.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 525,
+    "name": "ai-video-generateor-dream-machine-ai",
+    "description": "Dream Machine AI",
+    "url": "https://dream-machine-ai.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 526,
+    "name": "calcforge",
+    "description": "CalcForge",
+    "url": "https://calcforge.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 527,
+    "name": "wispr-flow",
+    "description": "Wispr Flow",
+    "url": "https://www.flowvoice.ai",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  },
+  {
+    "id": 528,
+    "name": "globality-com",
+    "description": "Globality",
+    "url": "https://globality.com",
+    "category": "Other",
+    "tags": [
+      "other"
+    ],
+    "create_date": "2025-03-23"
+  }
+]

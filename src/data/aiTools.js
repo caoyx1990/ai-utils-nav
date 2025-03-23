@@ -16,12 +16,10 @@ export async function loadAiTools() {
         // Use the predefined categories list instead of trying to fetch directory listing
         // This avoids the 404 error on Vercel
         const categories = [
-            'chatbot', 'writing', 'productivity', 'image', 'design', 
-            'creativity', 'marketing', 'video', 'audio', 'voice', 
-            'transcription', 'meetings', 'presentation', 'search', 
-            'research', 'development', 'machine-learning', 'api', 
-            'safety', 'education', 'organization', 'social-media', 
-            'editing', 'multimodal', 'language-models'
+            '3D', 'All_Detector', 'Business', 'Chatbot', 'Code_IT', 
+            'Design_Art', 'Education', 'Reatured', 'Image', 'Life_Assistant', 
+            'Marketing', 'Other', 'Productivity', 'Prompt', 
+            'Text_Writing', 'Video', 'Voice'
         ];
         
         // Load tools from each category file
